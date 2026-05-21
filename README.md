@@ -1,5 +1,8 @@
 # Software Engineering Tutorials
 
+## Software Development Concepts
+* **[Preload, Render, Precache, Lazy Loading (PRPL) Pattern](https://web.dev/articles/apply-instant-loading-with-prpl)**: a web performance architecture strategy that improves application loading speed
+
 ## System Design Concepts
 * **Unified Modeling Language (UML):** a standardized visual modeling language used to design software systems
 * **Object-Relational Mapping (ORM):** libraries that allow interaction with databases using programming languages rather than raw SQL
@@ -16,9 +19,11 @@
 * **Ruby:** dynamic OOP programming language designed for simplicity and developer productivity
 * **Ruby on Rails:** backend web framework for server-side apps, APIs, database logic, authentication, and web routing
 * **Golang:** statically typed language developed by Google to build scalable backend systems, cloud services, and concurrent apps
+* **Scala:** statically typed programming language that combines object-oriented and functional programming and runs on the Java Virtual Machine (JVM)
 * **Visual Basic:** Microsoft programming language designed for easy development of Windows applications using a event-driven syntax
 * **.NET:** a Microsoft software development platform and runtime for building enterprise applications using C# and F#
 * **Firebase**: Google’s backend-as-a-service (BaaS) platform that provides authentication, databases, hosting, analytics, and cloud functions
+* **Common Business-Oriented Language (COBOL):** programming language designed for business, finance, and admin mainframe systems
 
 ## Database
 * **Redis:** an in-memory data store commonly used as a cache, database, and message broker for ultra-fast data access for real time apps
@@ -41,6 +46,11 @@
 ## Embedded Systems
 * **Lua:** lightweight embeddable scripting language designed for fast execution for games, embedded systems, and app scripting
 * **Rust:** systems programming language focused on performance, memory safety, and concurrency garbage collection
+
+## Scientific Computing
+* **Matlab:** a numerical computing environment used for mathematical analysis, simulations, and data visualization
+* **Mable:** a symbolic and numeric computing environment and multi-paradigm programming language
+* **Compute Unified Device Architecture (CUDA):** NVIDIA’s parallel computing platform for accelerated processing on GPUs
 
 ## Developer Tools
 * **Chrome Devtools:** inspect, test, profile, and debug websites and web applications
