@@ -9,6 +9,9 @@
 * **Object-Relational Mapping (ORM):** libraries that allow interaction with databases using programming languages rather than raw SQL
 * **MERN Stack:** a full-stack JavaScript technology stack consisting of MongoDB, Express.js, React, and Node.js
 
+## Package Managers
+* **Bun:** fast all-in-one JavaScript NodeJS runtime and toolkit that includes a package manager, bundler, and testing
+
 ## Build Tools
 * **Vite:** a fast frontend build tool and development server
 * **Gradle:** an open-source build automation tool used for dependency management, testing, and automation
@@ -39,8 +42,10 @@
 * **Gatsby:** a React-based static site generation framework used to build fast and optimized websites
 * **ReactJS:** a JavaScript library developed by Meta for building fast component-based user interfaces
 * **NextJS:** a React-based full-stack web framework for building fast web applications with server-side rendering and static site generation
+* **VueJS:** a progressive JavaScript framework used to build interactive user interfaces and single-page web applications
 * **Framer Motion:** a React animation library used to create smooth interactive animations and transitions for web applications
 * **MagicUI:** a collection of prebuilt animated UI components and design elements for React and Tailwind CSS
+* **RadixUI:** low-level React component library that provides accessible unstyled UI primitives for building customizable intefaces
 
 ## Backend
 * **Ruby:** dynamic OOP programming language designed for simplicity and developer productivity
@@ -50,7 +55,7 @@
 * **Visual Basic:** Microsoft programming language designed for easy development of Windows applications using a event-driven syntax
 * **.NET:** a Microsoft software development platform and runtime for building enterprise applications using C# and F#
 * **Firebase**: Google’s backend-as-a-service (BaaS) platform that provides authentication, databases, hosting, analytics, and cloud functions
-* **Common Business-Oriented Language (COBOL):** programming language designed for business, finance, and admin mainframe systems
+* **COBOL:** programming language designed for business, finance, and admin mainframe systems
 * **NodeJS:** a JavaScript runtime built on Chrome’s V8 engine that allows developers to run JavaScript on the server for backend services
 * **ExpressJS:** a lightweight backend web framework for Node.js used to build APIs, web servers, and server-side applications
 * **AWS Lambda:** a serverless computing service by Amazon that runs code automatically in response to events
@@ -73,7 +78,8 @@
 * **AWS Simple Storage Service (S3):** scalable cloud object storage service by AWS for storing unstructured data
 * **Entity Framework**: a modern ORM tool by Microsoft for .NET and C# that simplifies database access
 * **Prisma**: a modern ORM tool for Node.js and TypeScript that simplifies database access
-* **Java Database Connectivity (JDBC)**: a Java API that simplifies relational database access
+* **Java Database Connectivity (JDBC)**: a Java API ORM that simplifies relational database access
+* **Drizzle:** a lightweight Javascript/TypeScript ORM that provides type-safe SQL queries and schema management
 
 ## Mobile App Development
 * **Dart:** programming language developed by Google for building cross-platform applications with the Flutter framework
