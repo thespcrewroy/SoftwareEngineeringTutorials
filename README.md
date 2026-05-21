@@ -1,6 +1,6 @@
 # SoftwareEngineeringTutorials
 
-## System Design
+## System Design Concepts
 * **Unified Modeling Language (UML):** a standardized visual modeling language used to design software systems
 * **Object-Relational Mapping (ORM):** libraries that allow interaction with databases using programming languages rather than raw SQL
 
