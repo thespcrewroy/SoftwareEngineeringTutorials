@@ -1,16 +1,16 @@
-# SoftwareEngineeringTutorials
+# Software Engineering Tutorials
 
 ## System Design Concepts
 * **Unified Modeling Language (UML):** a standardized visual modeling language used to design software systems
 * **Object-Relational Mapping (ORM):** libraries that allow interaction with databases using programming languages rather than raw SQL
 
-## Build Tool
+## Build Tools
 * **Vite:** a fast frontend build tool and development server
+* **Gradle:** an open-source build automation tool used for dependency management, testing, and automation
+* **Apache Maven**: a build automation and project management tool primarily used for Java projects and packages
 
 ## Frontend
 * **PHP:** server-side scripting language primarily used to build dynamic websites
-* **Gradle:** an open-source build automation tool used for dependency management, testing, and automation
-* **Apache Maven**: a build automation and project management tool primarily used for Java projects and packages
 
 ## Backend
 * **Ruby:** dynamic OOP programming language designed for simplicity and developer productivity
@@ -42,4 +42,9 @@
 * **Rust:** systems programming language focused on performance, memory safety, and concurrency garbage collection
 
 ## Developer Tools
-* **Chrome Devtools:** inspect, test, profile, and debug websites and web applicationsgfrz
+* **Chrome Devtools:** inspect, test, profile, and debug websites and web applications
+* **Astah UM**: a software modeling tool used to create UML diagrams
+* **Diagrams.net:** a free online diagramming tool used for flowcharts, UML diagrams, network diagrams, etc.
+* **StarUML:** a software modeling tool used to create UML diagrams and software architectures
+* **Umbrello:** an open-source UML modeling tool
+* **UML Designer:** an Eclipse-based modeling tool used to create and visualize UML diagrams for system architecture
