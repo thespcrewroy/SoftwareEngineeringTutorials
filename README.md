@@ -17,6 +17,7 @@
 * **Ruby on Rails:** backend web framework for server-side apps, APIs, database logic, authentication, and web routing
 * **Golang:** statically typed language developed by Google to build scalable backend systems, cloud services, and concurrent apps
 * **Visual Basic:** Microsoft programming language designed for easy development of Windows applications using a event-driven syntax
+* **.NET:** a Microsoft software development platform and runtime for building enterprise applications using C# and F#
 * **Firebase**: Google’s backend-as-a-service (BaaS) platform that provides authentication, databases, hosting, analytics, and cloud functions
 
 ## Database
