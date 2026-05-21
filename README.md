@@ -8,6 +8,10 @@
 * **Unified Modeling Language (UML):** a standardized visual modeling language used to design software systems
 * **Object-Relational Mapping (ORM):** libraries that allow interaction with databases using programming languages rather than raw SQL
 * **MERN Stack:** a full-stack JavaScript technology stack consisting of MongoDB, Express.js, React, and Node.js
+* **Model-View-Controller (MVC) Architecture:** a software design pattern that separates an app into three interconnected components
+    * Model: manages data and business logic
+    * View: handles layout and display
+    * Controller: routes commands and user input.
 
 ## Package Managers
 * **Bun:** fast all-in-one JavaScript NodeJS runtime and toolkit that includes a package manager, bundler, and testing
@@ -56,6 +60,7 @@
 * **Redux:** a state management library commonly used JS frameworks to manage and centralize application state predictably
 
 ## Backend
+* **Laravel:** a PHP backend web framework used to build modern web apps and APIs with MVC architecture
 * **Ruby:** dynamic OOP programming language designed for simplicity and developer productivity
 * **Ruby on Rails:** backend web framework for server-side apps, APIs, database logic, authentication, and web routing
 * **Golang:** statically typed language developed by Google to build scalable backend systems, cloud services, and concurrent apps
@@ -78,9 +83,9 @@
 * **WebsocketAPI:** browser-based interface that allows web apps to communivate without HTTP requests for live chat and online gaming
 * **Spring Boot:** a Java-based backend framework that simplifies building production-ready web applications, APIs, and microservices
 
-## Desktop
-* **.NET:** a Microsoft software development platform and runtime for building enterprise applications using C# and F#
-* **ElectronJS:** a framework for building cross-platform desktop applications using Javascript, CSS, and HTML
+## Configuration
+* **.editorconfig:** helps maintain consistent coding styles/settings across different editors and IDEs for a code repository
+* **.env:** stores environment variables away from the source code such as API keys, database credentials, and app settings
 
 ## Database
 * **Redis:** an in-memory data store commonly used as a cache, database, and message broker for ultra-fast data access for real time apps
@@ -97,11 +102,19 @@
 * **Java Database Connectivity (JDBC)**: a Java API ORM that simplifies relational database access
 * **Drizzle:** a lightweight Javascript/TypeScript ORM that provides type-safe SQL queries and schema management
 
+## Hosting & Deployment
+* **AWS Chalice:** a Python serverless framework for deploying Python applications
+
+## Desktop
+* **.NET:** a Microsoft software development platform and runtime for building enterprise applications using C# and F#
+* **ElectronJS:** a framework for building cross-platform desktop applications using Javascript, CSS, and HTML
+
 ## Mobile App Development
 * **Dart:** programming language developed by Google for building cross-platform applications with the Flutter framework
 * **React-Native:** JavaScript-based framework developed by Meta for building cross-platform mobile apps
 * **Jetpack Compose:** Android’s modern declarative UI toolkit by Google for building native Android interfaces
 * **Ionic:** uses web technologies like HTML, CSS, and JavaScript to build mobile and desktop applications
+* **Fluter:** Flutter is Google’s UI toolkit for building fast, cross-platform mobile, web, and desktop applications from a single Dart codebase.
 
 ## Systems Programming
 * **Lua:** lightweight embeddable scripting language designed for fast execution for games, embedded systems, and app scripting
@@ -114,7 +127,8 @@
 
 ## Developer Tools
 * **Chrome Devtools:** inspect, test, profile, and debug websites and web applications
-* **Markdown XML (MDX):** combines Markdown with JSX, allowing developers to embed React components directly inside Markdown.
+* **Markdown XML (MDX):** combines Markdown with JSX, allowing developers to embed React components directly inside Markdown
+* **[GitKraken](https://learn.gitkraken.com/courses/git-foundations):** graphical Git client and developer collaboration tool used to manage repositories, branches, commits, and pull requests visually
 * **Astah UM**: a software modeling tool used to create UML diagrams
 * **Diagrams.net:** a free online diagramming tool used for flowcharts, UML diagrams, network diagrams, etc.
 * **StarUML:** a software modeling tool used to create UML diagrams and software architectures
