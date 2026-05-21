@@ -48,6 +48,7 @@
 * **ReactJS:** a JavaScript library developed by Meta for building fast component-based user interfaces
 * **NextJS:** a React-based full-stack web framework for building fast web applications with server-side rendering and static site generation
 * **VueJS:** a progressive JavaScript framework used to build interactive user interfaces and single-page web applications
+* **NuxtJS:** a Vue-based full-stack framework for building server-rendered, statically generated, and modern web applications
 * **AngularJS:** a TypeScript-based frontend web framework developed by Google for building dyanmic scalable websites
 * **Framer Motion:** a React animation library used to create smooth interactive animations and transitions for web applications
 * **MagicUI:** a collection of prebuilt animated UI components and design elements for React and Tailwind CSS
@@ -65,6 +66,7 @@
 * **COBOL:** programming language designed for business, finance, and admin mainframe systems
 * **NodeJS:** a JavaScript runtime built on Chrome’s V8 engine that allows developers to run JavaScript on the server for backend services
 * **ExpressJS:** a lightweight backend web framework for Node.js used to build APIs and microservices
+* **NestJS:** a TypeScript-based backend framework for Node.js used to build modular scalable server-side apps and APIs
 * **AWS Lambda:** a serverless computing service by Amazon that runs code automatically in response to events
 * **AWS Simple Messaging Service (SES):** a fully managed messaging service by AWS used to send notifications and enable pub/sub comms
 * **AWS Simple Email Service (SES):** a cloud-based email service by Amazon used to send, receive, and emails at scale
@@ -72,7 +74,8 @@
 * **Google Apps Script:** cloud-based scripting platform using JavaScript to integrate Google Workspace workflows
 * **Flask:** a lightweight Python web framework used to build web applications, APIs, and backend services
 * **Django:** a high-level Python web framework that enables rapid development of secure, scalable, and database-driven web applications
-* **FastAPI:** a modern Python web framework for building high-performance APIs with automatic validation, type hints, and asynchronous support
+* **FastAPI:** a modern Python web framework for building high-performance APIs with automatic validation, type hints, and async support
+* **WebsocketAPI:** browser-based interface that allows web apps to communivate without HTTP requests for live chat and online gaming
 * **Spring Boot:** a Java-based backend framework that simplifies building production-ready web applications, APIs, and microservices
 
 ## Desktop
@@ -98,6 +101,7 @@
 * **Dart:** programming language developed by Google for building cross-platform applications with the Flutter framework
 * **React-Native:** JavaScript-based framework developed by Meta for building cross-platform mobile apps
 * **Jetpack Compose:** Android’s modern declarative UI toolkit by Google for building native Android interfaces
+* **Ionic:** uses web technologies like HTML, CSS, and JavaScript to build mobile and desktop applications
 
 ## Systems Programming
 * **Lua:** lightweight embeddable scripting language designed for fast execution for games, embedded systems, and app scripting
