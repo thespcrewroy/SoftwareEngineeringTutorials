@@ -14,7 +14,6 @@
 
 ## Build Tools
 * **Vite:** a fast frontend build tool and development server
-* **Vitepress:** a static site generator built on top of Vite and Vue for building documentation websites
 * **Gradle:** an open-source build automation tool used for dependency management, testing, and automation
 * **Apache Maven**: a build automation and project management tool primarily used for Java projects and packages
 
@@ -40,7 +39,10 @@
 * **TailwindCSS:** a utility-first CSS framework by composing small reusable styling classes directly in HTML or JSX.
 * **Bootstrap:** a popular CSS framework using prebuilt UI components and layout utilities
 * **Docusaurus:** static-site open-source documentation website generator framework built by Meta
+* **Vitepress:** a static site generator built on top of Vite and Vue for building documentation websites
+* **Mkdocs:** a static site generator for creating project documentation websites using Markdown files
 * **Gatsby:** a React-based static site generation framework used to build fast and optimized websites
+* **Jekyll:** a Ruby-based static site generation framework that converts Markdown and templatess into optimized websites
 * **ReactJS:** a JavaScript library developed by Meta for building fast component-based user interfaces
 * **NextJS:** a React-based full-stack web framework for building fast web applications with server-side rendering and static site generation
 * **VueJS:** a progressive JavaScript framework used to build interactive user interfaces and single-page web applications
