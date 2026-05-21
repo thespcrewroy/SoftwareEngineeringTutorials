@@ -13,10 +13,15 @@
 * **Gradle:** an open-source build automation tool used for dependency management, testing, and automation
 * **Apache Maven**: a build automation and project management tool primarily used for Java projects and packages
 
+# UX Design
+* **Diagrams.net:** create wireframes for websites, mobile apps, and software interfaces using built-in UI components
+
 ## Frontend
 * **PHP:** server-side scripting language primarily used to build dynamic websites
 * **Javascript XML (JSX):** a JavaScript syntax extension used in React to interface components with HTML-like code inside JavaScript
 * **Typescript XML (TSX):** Combines Typscript with JSX to build components HTML-like code inside JavaScript
+* **Docusaurus:** static-site open-source documentation website generator framework built by Meta
+* **Gatsby:** a React-based static site generation framework used to build fast and optimized websites
 
 ## Backend
 * **Ruby:** dynamic OOP programming language designed for simplicity and developer productivity
