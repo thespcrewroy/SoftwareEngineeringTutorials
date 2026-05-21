@@ -14,6 +14,8 @@
 
 ## Frontend
 * **PHP:** server-side scripting language primarily used to build dynamic websites
+* **Javascript XML (JSX):** a JavaScript syntax extension used in React to interface components with HTML-like code inside JavaScript
+* **Typescript XML (TSX):** Combines Typscript with JSX to build components HTML-like code inside JavaScript
 
 ## Backend
 * **Ruby:** dynamic OOP programming language designed for simplicity and developer productivity
@@ -43,12 +45,17 @@
 * **React-Native:** JavaScript-based framework developed by Meta for building cross-platform mobile apps
 * **Jetpack Compose:** Android’s modern declarative UI toolkit by Google for building native Android interfaces
 
-## Embedded Systems
+## Embedded Systems Programming
 * **Lua:** lightweight embeddable scripting language designed for fast execution for games, embedded systems, and app scripting
 * **Rust:** systems programming language focused on performance, memory safety, and concurrency garbage collection
 
+## Computer Graphics
+* **Processing:** an open-source programming language and visual arts framework for creating interactive graphics
+* **ThreeJS:** a JavaScript library used to create and render interactive 3D graphics and animations in web browsers using WebGL
+
 ## Developer Tools
 * **Chrome Devtools:** inspect, test, profile, and debug websites and web applications
+* **Markdown XML (MDX):** a format that combines Markdown with JSX, allowing developers to embed React components directly inside Markdown.
 * **Astah UM**: a software modeling tool used to create UML diagrams
 * **Diagrams.net:** a free online diagramming tool used for flowcharts, UML diagrams, network diagrams, etc.
 * **StarUML:** a software modeling tool used to create UML diagrams and software architectures
