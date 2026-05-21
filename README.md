@@ -63,7 +63,7 @@
 
 ## Developer Tools
 * **Chrome Devtools:** inspect, test, profile, and debug websites and web applications
-* **Markdown XML (MDX):** a format that combines Markdown with JSX, allowing developers to embed React components directly inside Markdown.
+* **Markdown XML (MDX):** combines Markdown with JSX, allowing developers to embed React components directly inside Markdown.
 * **Astah UM**: a software modeling tool used to create UML diagrams
 * **Diagrams.net:** a free online diagramming tool used for flowcharts, UML diagrams, network diagrams, etc.
 * **StarUML:** a software modeling tool used to create UML diagrams and software architectures
