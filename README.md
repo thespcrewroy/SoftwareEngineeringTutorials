@@ -47,11 +47,6 @@
 * **Lua:** lightweight embeddable scripting language designed for fast execution for games, embedded systems, and app scripting
 * **Rust:** systems programming language focused on performance, memory safety, and concurrency garbage collection
 
-## Scientific Computing
-* **Matlab:** a numerical computing environment used for mathematical analysis, simulations, and data visualization
-* **Mable:** a symbolic and numeric computing environment and multi-paradigm programming language
-* **Compute Unified Device Architecture (CUDA):** NVIDIA’s parallel computing platform for accelerated processing on GPUs
-
 ## Developer Tools
 * **Chrome Devtools:** inspect, test, profile, and debug websites and web applications
 * **Astah UM**: a software modeling tool used to create UML diagrams
