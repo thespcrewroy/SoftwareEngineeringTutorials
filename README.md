@@ -13,7 +13,7 @@
 * **Gradle:** an open-source build automation tool used for dependency management, testing, and automation
 * **Apache Maven**: a build automation and project management tool primarily used for Java projects and packages
 
-# UX Design
+## UI/UX Design
 * **Diagrams.net:** create wireframes for websites, mobile apps, and software interfaces using built-in UI components
 
 ## Frontend
