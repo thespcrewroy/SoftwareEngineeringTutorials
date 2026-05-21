@@ -68,6 +68,7 @@
 * **Google Apps Script:** cloud-based scripting platform using JavaScript to integrate Google Workspace workflows
 * **Flask:** a lightweight Python web framework used to build web applications, APIs, and backend services
 * **Django:** a high-level Python web framework that enables rapid development of secure, scalable, and database-driven web applications
+* **Spring Boot:** a Java-based backend framework that simplifies building production-ready web applications, APIs, and microservices
 
 ## Database
 * **Redis:** an in-memory data store commonly used as a cache, database, and message broker for ultra-fast data access for real time apps
@@ -89,7 +90,7 @@
 * **React-Native:** JavaScript-based framework developed by Meta for building cross-platform mobile apps
 * **Jetpack Compose:** Android’s modern declarative UI toolkit by Google for building native Android interfaces
 
-## Embedded Systems Programming
+## Systems Programming
 * **Lua:** lightweight embeddable scripting language designed for fast execution for games, embedded systems, and app scripting
 * **Rust:** systems programming language focused on performance, memory safety, and concurrency garbage collection
 
