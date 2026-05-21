@@ -30,7 +30,6 @@
     * **Upcart:** customizable cart drawers with in-cart upsells, cross-sells, and rewards
 * **SquareSpace:** web builder for beautiful design portfolios and websites
 * **Webflow:** web builder for custom professional sites
-* **Website Validator:** validates HTML markup
 * **Wix:** web builder for beginners
 * **Wordpress:** web builder offering the most-customization for software engineers
 
@@ -128,7 +127,8 @@
 ## Developer Tools
 * **Chrome Devtools:** inspect, test, profile, and debug websites and web applications
 * **Markdown XML (MDX):** combines Markdown with JSX, allowing developers to embed React components directly inside Markdown
-* **[GitKraken](https://learn.gitkraken.com/courses/git-foundations):** graphical Git client and developer collaboration tool used to manage repositories, branches, commits, and pull requests visually
+* **[GitKraken](https://learn.gitkraken.com/courses/git-foundations):** graphical Git client and with visualizations forde branches, commits, and pull requests
+* **[Website Validator](https://validator.w3.org/):** validates HTML markup
 * **Astah UM**: a software modeling tool used to create UML diagrams
 * **Diagrams.net:** a free online diagramming tool used for flowcharts, UML diagrams, network diagrams, etc.
 * **StarUML:** a software modeling tool used to create UML diagrams and software architectures
