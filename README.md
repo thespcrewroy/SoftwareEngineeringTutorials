@@ -32,7 +32,9 @@
 
 ## Frontend
 * **PHP:** server-side scripting language primarily used to build dynamic websites
+* **HTMX:** a lightweight HTML-based frontend library that makes dynamic server-driven web interactions without heavy JS frameworks
 * **Javascript:** a versatile programming language used to create interactive websites
+* **jQuery:** a JavaScript library that simplifies DOM manipulation, event handling, animations, and AJAX interactions
 * **Typescript:** a statically typed superset of JavaScript that adds type safety, tooling, and modern features
 * **Javascript XML (JSX):** a JavaScript syntax extension used in React to interface components with HTML-like code inside JavaScript
 * **Typescript XML (TSX):** Combines Typscript with JSX to build components HTML-like code inside JavaScript
@@ -46,9 +48,11 @@
 * **ReactJS:** a JavaScript library developed by Meta for building fast component-based user interfaces
 * **NextJS:** a React-based full-stack web framework for building fast web applications with server-side rendering and static site generation
 * **VueJS:** a progressive JavaScript framework used to build interactive user interfaces and single-page web applications
+* **AngularJS:** a TypeScript-based frontend web framework developed by Google for building dyanmic scalable websites
 * **Framer Motion:** a React animation library used to create smooth interactive animations and transitions for web applications
 * **MagicUI:** a collection of prebuilt animated UI components and design elements for React and Tailwind CSS
 * **RadixUI:** low-level React component library that provides accessible unstyled UI primitives for building customizable intefaces
+* **Redux:** a state management library commonly used JS frameworks to manage and centralize application state predictably
 
 ## Backend
 * **Ruby:** dynamic OOP programming language designed for simplicity and developer productivity
@@ -60,7 +64,7 @@
 * **Firebase**: Google’s backend-as-a-service (BaaS) platform that provides authentication, databases, hosting, analytics, and cloud functions
 * **COBOL:** programming language designed for business, finance, and admin mainframe systems
 * **NodeJS:** a JavaScript runtime built on Chrome’s V8 engine that allows developers to run JavaScript on the server for backend services
-* **ExpressJS:** a lightweight backend web framework for Node.js used to build APIs, web servers, and server-side applications
+* **ExpressJS:** a lightweight backend web framework for Node.js used to build APIs and microservices
 * **AWS Lambda:** a serverless computing service by Amazon that runs code automatically in response to events
 * **AWS Simple Messaging Service (SES):** a fully managed messaging service by AWS used to send notifications and enable pub/sub comms
 * **AWS Simple Email Service (SES):** a cloud-based email service by Amazon used to send, receive, and emails at scale
@@ -68,7 +72,12 @@
 * **Google Apps Script:** cloud-based scripting platform using JavaScript to integrate Google Workspace workflows
 * **Flask:** a lightweight Python web framework used to build web applications, APIs, and backend services
 * **Django:** a high-level Python web framework that enables rapid development of secure, scalable, and database-driven web applications
+* **FastAPI:** a modern Python web framework for building high-performance APIs with automatic validation, type hints, and asynchronous support
 * **Spring Boot:** a Java-based backend framework that simplifies building production-ready web applications, APIs, and microservices
+
+## Desktop
+* **.NET:** a Microsoft software development platform and runtime for building enterprise applications using C# and F#
+* **ElectronJS:** a framework for building cross-platform desktop applications using Javascript, CSS, and HTML
 
 ## Database
 * **Redis:** an in-memory data store commonly used as a cache, database, and message broker for ultra-fast data access for real time apps
@@ -97,6 +106,7 @@
 ## Computer Graphics
 * **Processing:** an open-source programming language and visual arts framework for creating interactive graphics
 * **ThreeJS:** a JavaScript library used to create and render interactive 3D graphics and animations in web browsers using WebGL
+* **Bokeh:** a Python visualization library used to create interactive, web-based data visualizations and dashboards
 
 ## Developer Tools
 * **Chrome Devtools:** inspect, test, profile, and debug websites and web applications
