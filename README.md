@@ -14,6 +14,7 @@
 
 ## Build Tools
 * **Vite:** a fast frontend build tool and development server
+* **Vitepress:** a static site generator built on top of Vite and Vue for building documentation websites
 * **Gradle:** an open-source build automation tool used for dependency management, testing, and automation
 * **Apache Maven**: a build automation and project management tool primarily used for Java projects and packages
 
