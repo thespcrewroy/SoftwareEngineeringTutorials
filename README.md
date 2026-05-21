@@ -22,13 +22,17 @@
 * **Ruby:** dynamic OOP programming language designed for simplicity and developer productivity
 * **Ruby on Rails:** backend web framework for server-side apps, APIs, database logic, authentication, and web routing
 * **Golang:** statically typed language developed by Google to build scalable backend systems, cloud services, and concurrent apps
-* **Scala:** statically typed programming language that combines object-oriented and functional programming and runs on the Java Virtual Machine (JVM)
+* **Scala:** statically typed programming language that combines object-oriented and functional programming
 * **Visual Basic:** Microsoft programming language designed for easy development of Windows applications using a event-driven syntax
 * **.NET:** a Microsoft software development platform and runtime for building enterprise applications using C# and F#
 * **Firebase**: Google’s backend-as-a-service (BaaS) platform that provides authentication, databases, hosting, analytics, and cloud functions
 * **Common Business-Oriented Language (COBOL):** programming language designed for business, finance, and admin mainframe systems
 * **NodeJS:** a JavaScript runtime built on Chrome’s V8 engine that allows developers to run JavaScript on the server for backend services
 * **AWS Lambda:** a serverless computing service by Amazon that runs code automatically in response to events
+* **AWS Simple Messaging Service (SES):** a fully managed messaging service by AWS used to send notifications and enable pub/sub comms
+* **AWS Simple Email Service (SES):** a cloud-based email service by Amazon used to send, receive, and emails at scale
+* **Microsoft Azure:** Microsoft’s serverless computing service that runs event-driven code on demand
+* **Google Apps Script:** cloud-based scripting platform using JavaScript to integrate Google Workspace workflows
 
 ## Database
 * **Redis:** an in-memory data store commonly used as a cache, database, and message broker for ultra-fast data access for real time apps
