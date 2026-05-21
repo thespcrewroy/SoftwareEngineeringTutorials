@@ -2,6 +2,7 @@
 
 ## Software Development Concepts
 * **[Preload, Render, Precache, Lazy Loading (PRPL) Pattern](https://web.dev/articles/apply-instant-loading-with-prpl)**: a web performance architecture strategy that improves application loading speed
+* **Asynchronous JavaScript and XML (AJAX):** a web dev technique that allows web pages to send/receive data from servers asynchronously
 
 ## System Design Concepts
 * **Unified Modeling Language (UML):** a standardized visual modeling language used to design software systems
@@ -26,6 +27,8 @@
 * **.NET:** a Microsoft software development platform and runtime for building enterprise applications using C# and F#
 * **Firebase**: Google’s backend-as-a-service (BaaS) platform that provides authentication, databases, hosting, analytics, and cloud functions
 * **Common Business-Oriented Language (COBOL):** programming language designed for business, finance, and admin mainframe systems
+* **NodeJS:** a JavaScript runtime built on Chrome’s V8 engine that allows developers to run JavaScript on the server for backend services
+* **AWS Lambda:** a serverless computing service by Amazon that runs code automatically in response to events
 
 ## Database
 * **Redis:** an in-memory data store commonly used as a cache, database, and message broker for ultra-fast data access for real time apps
@@ -35,7 +38,8 @@
 * **Supabase:** n open-source backend platform built on PostgreSQL that provides authentication, databases, storage, and real-time APIs
 * **Oracle Database:** an enterprise-grade relational database management system developed by Oracle for security, scaling, and management
 * **MongoDB**: a NoSQL document-oriented database that stores data in flexible JSON-like documents
-* **AWS DynamoDB:** a fully managed NoSQL database service by Amazon designed for fast, scalable, and low-latency applications
+* **AWS DynamoDB:** a fully managed NoSQL database service by Amazon to store semi-structured data for low-latency applications
+* **AWS Simple Storage Service (S3):** scalable cloud object storage service by AWS for storing unstructured data
 * **Entity Framework**: a modern ORM tool by Microsoft for .NET and C# that simplifies database access
 * **Prisma**: a modern ORM tool for Node.js and TypeScript that simplifies database access
 * **Java Database Connectivity (JDBC)**: a Java API that simplifies relational database access
