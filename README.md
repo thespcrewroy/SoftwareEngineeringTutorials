@@ -7,6 +7,7 @@
 ## System Design Concepts
 * **Unified Modeling Language (UML):** a standardized visual modeling language used to design software systems
 * **Object-Relational Mapping (ORM):** libraries that allow interaction with databases using programming languages rather than raw SQL
+* **MERN Stack:** a full-stack JavaScript technology stack consisting of MongoDB, Express.js, React, and Node.js
 
 ## Build Tools
 * **Vite:** a fast frontend build tool and development server
@@ -16,12 +17,30 @@
 ## UI/UX Design
 * **Diagrams.net:** create wireframes for websites, mobile apps, and software interfaces using built-in UI components
 
+## Web Builders
+* **Shopify:** web builder for e-commerce stores
+    * **Aftersell:** offers post-purchase upsells without needing coding experience
+    * **Upcart:** customizable cart drawers with in-cart upsells, cross-sells, and rewards
+* **SquareSpace:** web builder for beautiful design portfolios and websites
+* **Webflow:** web builder for custom professional sites
+* **Website Validator:** validates HTML markup
+* **Wix:** web builder for beginners
+* **Wordpress:** web builder offering the most-customization for software engineers
+
 ## Frontend
 * **PHP:** server-side scripting language primarily used to build dynamic websites
+* **Javascript:** a versatile programming language used to create interactive websites
+* **Typescript:** a statically typed superset of JavaScript that adds type safety, tooling, and modern features
 * **Javascript XML (JSX):** a JavaScript syntax extension used in React to interface components with HTML-like code inside JavaScript
 * **Typescript XML (TSX):** Combines Typscript with JSX to build components HTML-like code inside JavaScript
+* **TailwindCSS:** a utility-first CSS framework by composing small reusable styling classes directly in HTML or JSX.
+* **Bootstrap:** a popular CSS framework using prebuilt UI components and layout utilities
 * **Docusaurus:** static-site open-source documentation website generator framework built by Meta
 * **Gatsby:** a React-based static site generation framework used to build fast and optimized websites
+* **ReactJS:** a JavaScript library developed by Meta for building fast component-based user interfaces
+* **NextJS:** a React-based full-stack web framework for building fast web applications with server-side rendering and static site generation
+* **Framer Motion:** a React animation library used to create smooth interactive animations and transitions for web applications
+* **MagicUI:** a collection of prebuilt animated UI components and design elements for React and Tailwind CSS
 
 ## Backend
 * **Ruby:** dynamic OOP programming language designed for simplicity and developer productivity
@@ -33,11 +52,14 @@
 * **Firebase**: Google’s backend-as-a-service (BaaS) platform that provides authentication, databases, hosting, analytics, and cloud functions
 * **Common Business-Oriented Language (COBOL):** programming language designed for business, finance, and admin mainframe systems
 * **NodeJS:** a JavaScript runtime built on Chrome’s V8 engine that allows developers to run JavaScript on the server for backend services
+* **ExpressJS:** a lightweight backend web framework for Node.js used to build APIs, web servers, and server-side applications
 * **AWS Lambda:** a serverless computing service by Amazon that runs code automatically in response to events
 * **AWS Simple Messaging Service (SES):** a fully managed messaging service by AWS used to send notifications and enable pub/sub comms
 * **AWS Simple Email Service (SES):** a cloud-based email service by Amazon used to send, receive, and emails at scale
 * **Microsoft Azure:** Microsoft’s serverless computing service that runs event-driven code on demand
 * **Google Apps Script:** cloud-based scripting platform using JavaScript to integrate Google Workspace workflows
+* **Flask:** a lightweight Python web framework used to build web applications, APIs, and backend services
+* **Django:** a high-level Python web framework that enables rapid development of secure, scalable, and database-driven web applications
 
 ## Database
 * **Redis:** an in-memory data store commonly used as a cache, database, and message broker for ultra-fast data access for real time apps
