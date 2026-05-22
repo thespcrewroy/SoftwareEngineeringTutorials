@@ -1,5 +1,8 @@
 # Software Engineering Tutorials
 
+## UGA Courses (Computer Science Theory Repository)
+
+
 ## System Design Concepts
 * **Unified Modeling Language (UML):** a standardized visual modeling language used to design software systems
     * **Astah UML**: a software modeling tool used to create UML diagrams
@@ -217,5 +220,3 @@
      * **Hubspot:** a marketing automation platform that helps businesses manage sales, customer service, and inbound marketing
 * **Canva:** an online graphic design platform that enables users to create visual content for a variety of design reasons
 * **Adobe:** a software company known for creative and digital media tools
-
-## UGA Courses
