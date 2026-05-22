@@ -197,7 +197,7 @@
 
 ## Computer Graphics
 * **Processing:** an open-source programming language and visual arts framework for creating interactive graphics
-* **ThreeJS:** a JavaScript library used to create and render interactive 3D graphics and animations in web browsers using WebGL
+* **ThreeJS:** a JavaScript library used to create and render 3D graphics and animations in web browsers using WebGL
 * **Bokeh:** a Python visualization library used to create interactive, web-based data visualizations and dashboards
 
 ## Hosting & Deployment
@@ -261,6 +261,7 @@
 * **Godot:** open-source game engine used for developing 2D and 3D games with a lightweight and flexible development environment
 * **Roblox Studio:** official game development environment for creating, testing, and publishing experiences on Roblox
 * **Cocos2d-x:** open-source cross-platform game development framework used for building 2D games
+* **OpenGL:** a graphics API that interacts with the GPU for rendering 2D and 3D vector graphics
 
 ## Web3
 * **Soroban:** smart contract platform built on the Stellar blockchain that enables scalable and developer-friendly app development
