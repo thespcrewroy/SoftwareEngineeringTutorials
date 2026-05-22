@@ -18,8 +18,8 @@
  * **MERN Stack:** a full-stack JavaScript technology stack consisting of MongoDB, Express.js, React, and Node.js
  
 ## Project Management and Collaboration
-* **ServiceNow:** an enterprise cloud-based ticketing platform for IT service management and business workflow automatiom
 * **Linear:** a modern project management and issue-tracking tool designed for fast software development team workflows
+* **ServiceNow:** an enterprise cloud-based ticketing platform for IT service management and business workflow automatiom
 
 ## UI/UX Design, Copywriting, and Typography
 * **Diagrams.net:** create wireframes for websites, mobile apps, and software interfaces using built-in UI components
@@ -37,15 +37,16 @@
 * **Wordpress:** web builder offering the most-customization for software engineers
 
 ## Package Managers
-* **Bun:** fast all-in-one JavaScript NodeJS runtime and toolkit that includes a package manager, bundler, and testing
-* **MacPorts:** an open-source package manager for macOS that simplifies installing and maintaining Unix-based software
 * **Npm:** the default package manager for Node.js used to install, manage, and share JavaScript libraries and tools
+* **Bun:** fast all-in-one JavaScript NodeJS runtime and toolkit that includes a package manager, bundler, and testing
 * **Yarn:** a fast and reliable JavaScript package manager designed to improve dependency management and project consistency
+* **MacPorts:** an open-source package manager for macOS that simplifies installing and maintaining Unix-based software
 
 ## Build Tools
-* **Vite:** a fast frontend build tool and development server
-* **Gradle:** an open-source build automation tool used for dependency management, testing, and automation
 * **Apache Maven**: a build automation and project management tool primarily used for Java projects and packages
+* **Gradle:** an open-source build automation tool used for dependency management, testing, and automation
+* **Bun:** fast all-in-one JavaScript NodeJS runtime and toolkit that includes a package manager, bundler, and testing
+* **Vite:** a fast frontend build tool and development server
 
 ## Code Editors & IDEs
 * **Sublime Text:** a fast and lightweight text editor known for its speed, simplicity, and powerful multi-cursor editing features.
@@ -94,24 +95,24 @@
 * **Golang:** statically typed language developed by Google to build scalable backend systems, cloud services, and concurrent apps
 * **Scala:** statically typed programming language that combines object-oriented and functional programming
 * **COBOL:** programming language designed for business, finance, and admin mainframe systems
+* **Google Apps Script:** cloud-based scripting platform using JavaScript to integrate Google Workspace workflows
 * **Visual Basic:** Microsoft programming language designed for easy development of Windows applications using a event-driven syntax
 * **Laravel:** a PHP backend web framework used to build modern web apps and APIs with MVC architecture
 * **Ruby on Rails:** backend web framework for server-side apps, APIs, database logic, authentication, and web routing
 * **.NET:** a Microsoft software development framework and runtime for building enterprise applications using C# and F#
-* **Firebase**: Google’s backend-as-a-service (BaaS) platform that provides authentication, databases, hosting, analytics, and cloud functions
+* **Flask:** a lightweight Python web framework used to build web applications, APIs, and backend services
+* **Django:** a high-level Python web framework that enables rapid development of secure, scalable, and database-driven web applications
+* **Spring Boot:** a Java-based backend framework that simplifies building production-ready web applications, APIs, and microservices
 * **NodeJS:** a JavaScript runtime built on Chrome’s V8 engine that allows developers to run JavaScript on the server for backend services
 * **NestJS:** a TypeScript-based backend framework for Node.js used to build modular scalable server-side apps and APIs
 * **ExpressJS:** a lightweight backend web framework for Node.js used to build APIs and microservices
 * **AWS API Gateway:** managed service for creating, securing, monitoring, and scaling APIs
-* **Azure Functions:** Microsoft’s serverless computing service that runs event-driven code on demand
-* **AWS Lambda:** a serverless computing service by Amazon that runs code automatically in response to events
-* **Google Apps Script:** cloud-based scripting platform using JavaScript to integrate Google Workspace workflows
-* **Flask:** a lightweight Python web framework used to build web applications, APIs, and backend services
-* **Django:** a high-level Python web framework that enables rapid development of secure, scalable, and database-driven web applications
 * **FastAPI:** a modern Python web framework for building high-performance APIs with automatic validation, type hints, and async support
 * **WebsocketAPI:** browser-based interface that allows web apps to communivate without HTTP requests for live chat and online gaming
 * **GraphQL:** query language and API runtime that allows clients to request exactly the data they need from a server
-* **Spring Boot:** a Java-based backend framework that simplifies building production-ready web applications, APIs, and microservices
+* **Azure Functions:** Microsoft’s serverless computing service that runs event-driven code on demand
+* **AWS Lambda:** a serverless computing service by Amazon that runs code automatically in response to events
+* **Firebase**: Google’s backend-as-a-service (BaaS) platform that provides authentication, databases, hosting, analytics, and cloud functions
 
 ## Configuration
 * **.editorconfig:** helps maintain consistent coding styles/settings across different editors and IDEs for a code repository
