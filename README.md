@@ -111,6 +111,8 @@
 * **Google Lighthouse:** an open-source auditing tool that analyzes web pages for performance, accessibility, and SEO
 
 ## Backend
+* **Java:** platform-independent object-oriented programming language widely used for enterprise applications
+* **Python:** versatile high-level programming language known for its readability and use in web development
 * **Ruby:** dynamic OOP programming language designed for simplicity and developer productivity
 * **Golang:** statically typed language developed by Google to build scalable backend systems, cloud services, and concurrent apps
 * **Scala:** statically typed programming language that combines object-oriented and functional programming
@@ -185,6 +187,12 @@
 * **GitHub Gist:** a lightweight GitHub feature for storing, sharing, and version-controlling individual code snippets and text files
 * **[Pastebin](https://pastebin.com/):** online service for storing and sharing plain text, code snippets, and logs
 
+## Systems Programming
+* **C:** a procedural programming language widely used for operating systems, embedded systems, and low-level software
+* **C++:** a high-performance programming language used mainly for performance cirtical applications
+* **Lua:** lightweight embeddable scripting language designed for fast execution for games, embedded systems, and app scripting
+* **Rust:** systems programming language focused on performance, memory safety, and concurrency garbage collection
+
 ## Desktop App Development
 * **.NET:** a Microsoft software development platform and runtime for building enterprise applications using C# and F#
 * **ElectronJS:** a framework for building cross-platform desktop applications using Javascript, CSS, and HTML
@@ -200,13 +208,17 @@
 * **Dart:** programming language developed by Google for building cross-platform applications with the Flutter framework
 * **Ionic:** uses web technologies like HTML, CSS, and JavaScript to build mobile and desktop applications
 
+## Game Development
+* **C#:** modern object-oriented programming language developed by Microsoft for building applications on the .NET platform
+* **Luau:** scripting language developed by Roblox, based on Lua, for game development and performance optimization
+* **Unreal Engine:** a real-time 3Dengine used for developing high-fidelity games, simulations, films, and virtual experiences
+* **Unity:** a real-time 2D and 3D engine for creating games, simulations, and interactive experiences across multiple devices
+* **Roblox Studio:** official game development environment for creating, testing, and publishing experiences on Roblox
+* **Cocos2d-x:** open-source cross-platform game development framework used for building 2D games
+
 ## Web3
 * **Soroban:** smart contract platform built on the Stellar blockchain that enables scalable and developer-friendly app development
 * **Stellar:** an open-source blockchain network designed for low-cost cross-border payments and digital asset transfers
-
-## Systems Programming
-* **Lua:** lightweight embeddable scripting language designed for fast execution for games, embedded systems, and app scripting
-* **Rust:** systems programming language focused on performance, memory safety, and concurrency garbage collection
 
 ## Developer Tools
 * **Chrome Devtools:** inspect, test, profile, and debug websites and web applications
