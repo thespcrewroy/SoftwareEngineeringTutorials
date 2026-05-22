@@ -49,7 +49,7 @@
 * **RESTful API:** web service architecture that uses standard HTTP methods to enable comms and data exchange between system
 * **gRPC API:** high-performance remote procedure call framework for comms between distributed systems using Protocol Buffers
 * **MERN Stack:** a full-stack JavaScript technology stack consisting of MongoDB, Express.js, React, and Node.js
-* **Flux:** by Facebook for building frontend web applications through ReactJS, emphasizing unidirectional data flow
+* **Flux:** architecture by Facebook that emphasizes building unidirectional data flows for frotends using ReactJS
 
 ## UI/UX Design, Copywriting, and Typography
 * **Diagrams.net:** create wireframes for websites, mobile apps, and software interfaces using built-in UI components
