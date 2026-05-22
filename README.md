@@ -112,7 +112,8 @@
 * **GraphQL:** query language and API runtime that allows clients to request exactly the data they need from a server
 * **Azure Functions:** Microsoft’s serverless computing service that runs event-driven code on demand
 * **AWS Lambda:** a serverless computing service by Amazon that runs code automatically in response to events
-* **Firebase**: Google’s backend-as-a-service (BaaS) platform that provides authentication, databases, hosting, analytics, and cloud functions
+* **Postman:** an API development and testing platform used to design, test, document, and monitor APIs
+* **Firebase**: Google’s backend-as-a-service (BaaS) with authentication, databases, hosting, analytics, and cloud functions
 
 ## Configuration
 * **.editorconfig:** helps maintain consistent coding styles/settings across different editors and IDEs for a code repository
