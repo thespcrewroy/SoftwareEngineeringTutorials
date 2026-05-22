@@ -18,6 +18,8 @@
  * **MERN Stack:** a full-stack JavaScript technology stack consisting of MongoDB, Express.js, React, and Node.js
  
 ## Project Management and Collaboration
+* **Microsoft Office Suite:** collection of productivity applications such as Word, Excel, PowerPoint, and Outlook
+* **Google Workspace:** cloud-based productivity and collaboration suite  with Gmail, Docs, Drive, Meet, Calendar, etc.
 * **Linear:** a modern project management and issue-tracking tool designed for fast software development team workflows
 * **ServiceNow:** an enterprise cloud-based ticketing platform for IT service management and business workflow automatiom
 
@@ -48,7 +50,7 @@
 * **Bun:** fast all-in-one JavaScript NodeJS runtime and toolkit that includes a package manager, bundler, and testing
 * **Vite:** a fast frontend build tool and development server
 
-## Code Editors & IDEs
+## Text Editors, Code Editors, & Integrated Development Environments (IDEs)
 * **Sublime Text:** a fast and lightweight text editor known for its speed, simplicity, and powerful multi-cursor editing features.
 * **NeoVim:** a highly extensible terminal-based text editor built for efficient coding and customization with modern plugins
 * **Doom Emacs:** a highly optimized and modular Emacs configuration framework designed for speed, ergonomics, and productivity
@@ -60,6 +62,8 @@
 * **GoLand:** a JetBrains IDE specifically built for Go development with advanced code analysis, debugging, and refactoring features
 * **WebStorm:** a JetBrains IDE for JavaScript and web development that offers coding assistance, debugging, and framework integration
 * **Visual Studio:** a IDE from Microsoft compatible with many languages, and used for developing desktop, web, cloud, and mobile apps
+* **Xcode:** Apple’s IDE used for building, testing, and deploying applications for iOS, macOS, watchOS, and tvOS
+* **Android Studio:** Google’s official IDE for coding, testing, debugging, and UI design for Android App Development
 
 ## Software Development Concepts
 * **[Preload, Render, Precache, Lazy Loading (PRPL) Pattern](https://web.dev/articles/apply-instant-loading-with-prpl)**: a web performance architecture strategy that improves application loading speed
@@ -89,6 +93,7 @@
 * **MagicUI:** a collection of prebuilt animated UI components and design elements for React and Tailwind CSS
 * **RadixUI:** low-level React component library that provides accessible unstyled UI primitives for building customizable intefaces
 * **Redux:** a state management library commonly used JS frameworks to manage and centralize application state predictably
+* **Google Lighthouse:** an open-source auditing tool that analyzes web pages for performance, accessibility, and SEO
 
 ## Backend
 * **Ruby:** dynamic OOP programming language designed for simplicity and developer productivity
@@ -143,21 +148,30 @@
 
 ## Documentation
 * **Markdown (MD):** a lightweight markup language used to format plain text into structured documents with simple syntax
-* **Markdown XML (MDX):** combines Markdown with JSX, allowing developers to embed React components directly inside Markdown
+    * **README.md:** provides an overview, setup instructions, and usage details for a software project
+    * **SECURITY.md:** outlines security policies, vulnerability reporting procedures, and supported software versions
+    * **CODE_OF_CONDUCT.md:** defines community behavior standards, participation guidelines, and enforcement policies for contributors
+    * **CONTRIBUTING.md:** details the coding standards, workflows, and submission guidelines contributors must follow
+* **LICENSE:** specifies the legal terms, permissions, and restrictions for using, modifying, and distributing a software project
+* **Markdown XML (MDX):** combines Markd own with JSX, allowing developers to embed React components directly inside Markdown
 * **Docusaurus:** static-site open-source documentation website generator framework built by Meta
 * **Vitepress:** a static site generator built on top of Vite and Vue for building documentation websites
 * **Mkdocs:** a static site generator for creating project documentation websites using Markdown files
 * **Gatsby:** a React-based static site generation framework used to build fast and optimized websites
+* **GitHub Gist:** a lightweight GitHub feature for storing, sharing, and version-controlling individual code snippets and text files
+* **[Pastebin](https://pastebin.com/):** online service for storing and sharing plain text, code snippets, and logs
 
 ## Desktop
 * **.NET:** a Microsoft software development platform and runtime for building enterprise applications using C# and F#
 * **ElectronJS:** a framework for building cross-platform desktop applications using Javascript, CSS, and HTML
 
 ## Mobile App Development
-* **SwiftUI:** Apple’s declarative UI framework for building user interfaces across iOS, macOS, watchOS, and tvOS applications.
+* **Swift:** modern programming language developed by Apple for building fast, safe, and efficient applications across Apple OS
+* **Kotlin:** a modern statically typed programming language designed for concise, safe, and interoperable development for Android
+* **SwiftUI:** Apple’s declarative UI framework for building user interfaces across iOS, macOS, watchOS, and tvOS applications
 * **Jetpack Compose:** Android’s modern declarative UI toolkit by Google for building native Android interfaces
 * **React-Native:** JavaScript-based framework developed by Meta for building cross-platform mobile apps
-* **Fluter:** Google’s UI toolkit for building fast, cross-platform mobile, web, and desktop applications from a single Dart codebase.
+* **Fluter:** Google’s UI toolkit for building fast, cross-platform mobile, web, and desktop applications from a single Dart codebase
 * **Dart:** programming language developed by Google for building cross-platform applications with the Flutter framework
 * **Ionic:** uses web technologies like HTML, CSS, and JavaScript to build mobile and desktop applications
 
@@ -173,9 +187,6 @@
 ## Developer Tools
 * **Chrome Devtools:** inspect, test, profile, and debug websites and web applications
 * **[GitKraken](https://learn.gitkraken.com/courses/git-foundations):** graphical Git client and with visualizations forde branches, commits, and pull requests
-* **Google Lighthouse:** an open-source auditing tool that analyzes web pages for performance, accessibility, and SEO
-* **GitHub Gist:** a lightweight GitHub feature for storing, sharing, and version-controlling individual code snippets and text files
-* **[Pastebin](https://pastebin.com/):** online service for storing and sharing plain text, code snippets, and logs
 * **Linktree:** a link-in-bio platform that lets users share multiple links through a single customizable landing page
 
 ## Marketing Tools
