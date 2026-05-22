@@ -36,7 +36,7 @@
     * **Model:** manages data and business logic
     * **View:** handles layout and display
     * **Controller:** routes commands and user input
-* **Model-View-ViewMode (MVM) Architecture:** software architectural pattern that separates app logic, UI, and data binding
+* **Model-View-ViewModel (MVM) Architecture:** software architectural pattern that separates app logic, UI, and data binding
 * **Model-View-Presenter (MVP):** the presenter handles user interaction logic between the model and the view
 * **Clean Architecture:** a software design approach that organizes applications into layered independent components
 * **Microservices Architecture:** structures applications as independently deployable services that communicate over networks
@@ -48,7 +48,6 @@
 * **Event-Driven Architecture:** system components communicate and react to events asynchronously as they occur
 * **RESTful API:** web service architecture that uses standard HTTP methods to enable comms and data exchange between system
 * **gRPC API:** high-performance remote procedure call framework for comms between distributed systems using Protocol Buffers
-* **MERN Stack:** a full-stack JavaScript technology stack consisting of MongoDB, Express.js, React, and Node.js
 * **Flux:** architecture by Facebook that emphasizes building unidirectional data flows for frotends using ReactJS
 
 ## UI/UX Design, Copywriting, and Typography
@@ -143,8 +142,8 @@
 * **NextJS:** a React-based full-stack web framework for building fast web applications with server-side rendering and static site generation
 * **VueJS:** a progressive JavaScript framework used to build interactive user interfaces and single-page web applications
 * **NuxtJS:** a Vue-based full-stack framework for building server-rendered, statically generated, and modern web applications
-* **AngularJS:** a TypeScript-based frontend web framework developed by Google for building dyanmic scalable websites
-* **ReduJSx:** a state management library commonly used JS frameworks to manage and centralize application state predictably
+* **Angular:** a TypeScript-based frontend web framework developed by Google for building dyanmic scalable websites
+* **Redux:** a state management library commonly used JS frameworks to manage and centralize application state predictably
 * **Framer Motion:** a React animation library used to create smooth interactive animations and transitions for web applications
 * **MagicUI:** a collection of prebuilt animated UI components and design elements for React and Tailwind CSS
 * **RadixUI:** low-level React component library that provides accessible unstyled UI primitives for building customizable intefaces
@@ -170,7 +169,7 @@
 * **ExpressJS:** a lightweight backend web framework for Node.js used to build APIs and microservices
 * **AWS API Gateway:** managed service for creating, securing, monitoring, and scaling APIs
 * **FastAPI:** a modern Python web framework for building high-performance APIs with automatic validation, type hints, and async support
-* **WebsocketAPI:** browser-based interface that allows web apps to communivate without HTTP requests for live chat and online gaming
+* **Websocket API:** browser-based interface that allows web apps to communivate without HTTP requests for live chat and online gaming
 * **GraphQL:** query language and API runtime that allows clients to request exactly the data they need from a server
 * **Azure Functions:** Microsoft’s serverless computing service that runs event-driven code on demand
 * **AWS Lambda:** a serverless computing service by Amazon that runs code automatically in response to events
@@ -192,6 +191,9 @@
    * **Prisma**: a modern ORM tool for Node.js and TypeScript that simplifies database access
    * **Java Database Connectivity (JDBC)**: a Java API ORM that simplifies relational database access
    * **Drizzle:** a lightweight Javascript/TypeScript ORM that provides type-safe SQL queries and schema management
+
+## Full Stack
+* **MERN Stack:** a full-stack JavaScript technology stack consisting of MongoDB, Express.js, React, and Node.js
 
 ## Computer Graphics
 * **Processing:** an open-source programming language and visual arts framework for creating interactive graphics
@@ -234,6 +236,7 @@
 * **C++:** a high-performance programming language used mainly for performance cirtical applications
 * **Lua:** lightweight embeddable scripting language designed for fast execution for games, embedded systems, and app scripting
 * **Rust:** systems programming language focused on performance, memory safety, and concurrency garbage collection
+* **WebAssembly (Wasm):** a low-level binary instruction format for optimizing performance on frotends when used with JavaScript
 
 ## Desktop App Development
 * **.NET:** a Microsoft software development platform and runtime for building enterprise applications using C# and F#
