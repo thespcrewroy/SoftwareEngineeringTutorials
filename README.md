@@ -135,29 +135,30 @@
    * **Drizzle:** a lightweight Javascript/TypeScript ORM that provides type-safe SQL queries and schema management
 
 ## Hosting & Deployment
-* **AWS Chalice:** a Python serverless framework for deploying Python applications
 * **Blue Host:** a web hosting provider that offers domain, business emails, website hosting, and WordPress integration services
 * **Porkbun:** a domain registrar and web services provider known for affordable domain registration, hosting, and DNS management
 * **GoDaddy:** a domain registrar and web hosting company that provides website, email, and online business services
+* **AWS Chalice:** a Python serverless framework for deploying Python applications
 
 ## Documentation
-* **Vitepress:** a static site generator built on top of Vite and Vue for building documentation websites
-* **Mkdocs:** a static site generator for creating project documentation websites using Markdown files
-* **Gatsby:** a React-based static site generation framework used to build fast and optimized websites
 * **Markdown (MD):** a lightweight markup language used to format plain text into structured documents with simple syntax
 * **Markdown XML (MDX):** combines Markdown with JSX, allowing developers to embed React components directly inside Markdown
 * **Docusaurus:** static-site open-source documentation website generator framework built by Meta
+* **Vitepress:** a static site generator built on top of Vite and Vue for building documentation websites
+* **Mkdocs:** a static site generator for creating project documentation websites using Markdown files
+* **Gatsby:** a React-based static site generation framework used to build fast and optimized websites
 
 ## Desktop
 * **.NET:** a Microsoft software development platform and runtime for building enterprise applications using C# and F#
 * **ElectronJS:** a framework for building cross-platform desktop applications using Javascript, CSS, and HTML
 
 ## Mobile App Development
-* **Dart:** programming language developed by Google for building cross-platform applications with the Flutter framework
-* **React-Native:** JavaScript-based framework developed by Meta for building cross-platform mobile apps
+* **SwiftUI:** Apple’s declarative UI framework for building user interfaces across iOS, macOS, watchOS, and tvOS applications.
 * **Jetpack Compose:** Android’s modern declarative UI toolkit by Google for building native Android interfaces
+* **React-Native:** JavaScript-based framework developed by Meta for building cross-platform mobile apps
+* **Fluter:** Google’s UI toolkit for building fast, cross-platform mobile, web, and desktop applications from a single Dart codebase.
+* **Dart:** programming language developed by Google for building cross-platform applications with the Flutter framework
 * **Ionic:** uses web technologies like HTML, CSS, and JavaScript to build mobile and desktop applications
-* **Fluter:** Flutter is Google’s UI toolkit for building fast, cross-platform mobile, web, and desktop applications from a single Dart codebase.
 
 ## Systems Programming
 * **Lua:** lightweight embeddable scripting language designed for fast execution for games, embedded systems, and app scripting
