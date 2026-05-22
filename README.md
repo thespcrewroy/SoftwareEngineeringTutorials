@@ -67,6 +67,12 @@
 * **Wordpress:** web builder offering the most-customization for software engineers
 
 ## Cloud Computing & Infrastructure
+* **Infrastructure as a Service (IaaS):** provides virtualized computing resources such as servers, storage, and networking
+* **Platform as a Service (PaaS):** offers a managed platform for developing, running, and deploying applications
+* **Software as a Service (SaaS):** applications are accessed through the internet on a subscription basis
+* **Function as a Service (FaaS):** run event-driven functions without managing servers or infrastructure.
+* **Backend as a Service (BaaS):** provides ready-made backend features such as databases, authentication, and APIs
+* **Containerization as a Service (CaaS):** deployment, management, and orchestration of containerized apps using Docker/K8s
 * **Digital Ocean:** cloud infrastructure platform providing virtual servers, databases, storage, networking, deployment, etc.
 * **Amazon Web Services (AWS):** comprehensive cloud computing platform
 * **Microsft Azure:** Microsoft’s cloud computing platform
