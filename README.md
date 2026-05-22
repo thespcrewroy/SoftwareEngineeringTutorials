@@ -1,9 +1,5 @@
 # Software Engineering Tutorials
 
-## Software Development Concepts
-* **[Preload, Render, Precache, Lazy Loading (PRPL) Pattern](https://web.dev/articles/apply-instant-loading-with-prpl)**: a web performance architecture strategy that improves application loading speed
-* **Asynchronous JavaScript and XML (AJAX):** a web dev technique that allows web pages to send/receive data from servers asynchronously
-
 ## System Design Concepts
 * **Unified Modeling Language (UML):** a standardized visual modeling language used to design software systems
     * **Astah UML**: a software modeling tool used to create UML diagrams
@@ -15,9 +11,14 @@
     * **Model:** manages data and business logic
     * **View:** handles layout and display
     * **Controller:** routes commands and user input
+ 
+## Project Management and Collaboration
+* **ServiceNow:** an enterprise cloud-based ticketing platform for IT service management and business workflow automatiom
+* **Linear:** a modern project management and issue-tracking tool designed for fast software development team workflows
 
 ## UI/UX Design
 * **Diagrams.net:** create wireframes for websites, mobile apps, and software interfaces using built-in UI components
+* **Figma:** 
 
 ## Web Builders
 * **Shopify:** web builder for e-commerce stores
@@ -51,6 +52,10 @@
 * **GoLand:** a JetBrains IDE specifically built for Go development with advanced code analysis, debugging, and refactoring features
 * **WebStorm:** a JetBrains IDE for JavaScript and web development that offers coding assistance, debugging, and framework integration
 * **Visual Studio:** a IDE from Microsoft compatible with many languages, and used for developing desktop, web, cloud, and mobile apps
+
+## Software Development Concepts
+* **[Preload, Render, Precache, Lazy Loading (PRPL) Pattern](https://web.dev/articles/apply-instant-loading-with-prpl)**: a web performance architecture strategy that improves application loading speed
+* **Asynchronous JavaScript and XML (AJAX):** a web dev technique that allows web pages to send/receive data from servers asynchronously
 
 ## Frontend
 * **Codepen:** a social media platform for building, testing, and sharing front-end web projects
@@ -94,8 +99,6 @@
 * **NestJS:** a TypeScript-based backend framework for Node.js used to build modular scalable server-side apps and APIs
 * **Azure Functions:** Microsoft’s serverless computing service that runs event-driven code on demand
 * **AWS Lambda:** a serverless computing service by Amazon that runs code automatically in response to events
-* **AWS Simple Messaging Service (SMS):** a fully managed messaging service by AWS used to send notifications and enable pub/sub comms
-* **AWS Simple Email Service (SES):** a cloud-based email service by Amazon used to send, receive, and emails at scale
 * **Google Apps Script:** cloud-based scripting platform using JavaScript to integrate Google Workspace workflows
 * **Flask:** a lightweight Python web framework used to build web applications, APIs, and backend services
 * **Django:** a high-level Python web framework that enables rapid development of secure, scalable, and database-driven web applications
@@ -125,6 +128,9 @@
 
 ## Hosting & Deployment
 * **AWS Chalice:** a Python serverless framework for deploying Python applications
+* **Blue Host:** a web hosting provider that offers domain, business emails, website hosting, and WordPress integration services
+* **Porkbun:** a domain registrar and web services provider known for affordable domain registration, hosting, and DNS management
+* **GoDaddy:** a domain registrar and web hosting company that provides website, email, and online business services
 
 ## Desktop
 * **.NET:** a Microsoft software development platform and runtime for building enterprise applications using C# and F#
@@ -151,6 +157,17 @@
 * **Markdown XML (MDX):** combines Markdown with JSX, allowing developers to embed React components directly inside Markdown
 * **[GitKraken](https://learn.gitkraken.com/courses/git-foundations):** graphical Git client and with visualizations forde branches, commits, and pull requests
 * **Google Lighthouse:** an open-source auditing tool that analyzes web pages for performance, accessibility, and SEO
-* **GitHub Gist:** a lightweight GitHub feature for storing, sharing, and version-controlling individual code snippets and text files.
+* **GitHub Gist:** a lightweight GitHub feature for storing, sharing, and version-controlling individual code snippets and text files
+* **Linktree:** a link-in-bio platform that lets users share multiple links through a single customizable landing page
+
+## Marketing Tools
+* **AWS Simple Messaging Service (SMS):** a fully managed messaging service by AWS used to send notifications and enable pub/sub comms
+* **AWS Simple Email Service (SES):** a cloud-based email service by Amazon used to send, receive, and emails at scale
+* **Mailchimp:** an email marketing and automation platform used to create campaigns, manage audiences, and track marketing performance
+* **Customer Relationship Management (CRM):** a system or strategy used to manage a company’s interactions, relationships, and data
+     * **Salesforce:** a cloud-based CRM platform used to manage sales, customer service, marketing, and business workflows
+     * **Hubspot:** a marketing automation platform that helps businesses manage sales, customer service, and inbound marketing
+* **Canva:** an online graphic design platform that enables users to create visual content for a variety of design reasons
+* **Adobe:** a software company known for creative and digital media tools
 
 ## UGA Courses
