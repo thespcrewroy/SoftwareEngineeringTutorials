@@ -6,20 +6,15 @@
 
 ## System Design Concepts
 * **Unified Modeling Language (UML):** a standardized visual modeling language used to design software systems
-* **Object-Relational Mapping (ORM):** libraries that allow interaction with databases using programming languages rather than raw SQL
+    * **Astah UML**: a software modeling tool used to create UML diagrams
+    * **StarUML:** a software modeling tool used to create UML diagrams and software architectures
+    * **Umbrello:** an open-source UML modeling tool
+    * **UML Designer:** an Eclipse-based modeling tool used to create and visualize UML diagrams for system architecture
 * **MERN Stack:** a full-stack JavaScript technology stack consisting of MongoDB, Express.js, React, and Node.js
 * **Model-View-Controller (MVC) Architecture:** a software design pattern that separates an app into three interconnected components
-    * Model: manages data and business logic
-    * View: handles layout and display
-    * Controller: routes commands and user input.
-
-## Package Managers
-* **Bun:** fast all-in-one JavaScript NodeJS runtime and toolkit that includes a package manager, bundler, and testing
-
-## Build Tools
-* **Vite:** a fast frontend build tool and development server
-* **Gradle:** an open-source build automation tool used for dependency management, testing, and automation
-* **Apache Maven**: a build automation and project management tool primarily used for Java projects and packages
+    * **Model:** manages data and business logic
+    * **View:** handles layout and display
+    * **Controller:** routes commands and user input
 
 ## UI/UX Design
 * **Diagrams.net:** create wireframes for websites, mobile apps, and software interfaces using built-in UI components
@@ -33,7 +28,29 @@
 * **Wix:** web builder for beginners
 * **Wordpress:** web builder offering the most-customization for software engineers
 
+## Package Managers
+* **Bun:** fast all-in-one JavaScript NodeJS runtime and toolkit that includes a package manager, bundler, and testing
+
+## Build Tools
+* **Vite:** a fast frontend build tool and development server
+* **Gradle:** an open-source build automation tool used for dependency management, testing, and automation
+* **Apache Maven**: a build automation and project management tool primarily used for Java projects and packages
+
+## Code Editors & IDEs
+* **NeoVim:** a highly extensible terminal-based text editor built for efficient coding and customization with modern plugins
+* **Doom Emacs:** a highly optimized and modular Emacs configuration framework designed for speed, ergonomics, and productivity
+* **Evil Emacs:** an Emacs extension layer that brings Vim-style modal editing and keybindings into the Emacs environment
+* **Zed:** a high-performance, multiplayer code editor designed for fast collaboration and modern developer workflows
+* **Codepen:** an online code-editor
+* **IntelliJ:** a powerful IDE by JetBrains designed primarily for Java and JVM-based application developmen
+* **PyCharm:** a Python-focused IDE by JetBrains that provides intelligent code assistance, debugging, and testing
+* **GoLand:** a JetBrains IDE specifically built for Go development with advanced code analysis, debugging, and refactoring features
+* **WebStorm:** a JetBrains IDE for JavaScript and web development that offers coding assistance, debugging, and framework integration
+* **Visual Studio:** a IDE from Microsoft compatible with many languages, and used for developing desktop, web, cloud, and mobile apps
+
 ## Frontend
+* **Codepen.io:** a social media platform for building, testing, and sharing front-end web projects
+* **[Website Validator](https://validator.w3.org/):** validates HTML markup
 * **PHP:** server-side scripting language primarily used to build dynamic websites
 * **HTMX:** a lightweight HTML-based frontend library that makes dynamic server-driven web interactions without heavy JS frameworks
 * **Javascript:** a versatile programming language used to create interactive websites
@@ -91,15 +108,16 @@
 * **SQLite:** a serverless relational database engine that stores data locally in a single file
 * **MySQL:** an open-source relational database management system (RDBMS) used to store, organize, and manage structured data using SQL
 * **PostgreSQL:** n open-source relational database system known for its reliability, advanced SQL features, and extensibility
-* **Supabase:** n open-source backend platform built on PostgreSQL that provides authentication, databases, storage, and real-time APIs
+* **Supabase:** an open-source backend platform built on PostgreSQL that provides authentication, databases, storage, and real-time APIs
 * **Oracle Database:** an enterprise-grade relational database management system developed by Oracle for security, scaling, and management
 * **MongoDB**: a NoSQL document-oriented database that stores data in flexible JSON-like documents
 * **AWS DynamoDB:** a fully managed NoSQL database service by Amazon to store semi-structured data for low-latency applications
 * **AWS Simple Storage Service (S3):** scalable cloud object storage service by AWS for storing unstructured data
-* **Entity Framework**: a modern ORM tool by Microsoft for .NET and C# that simplifies database access
-* **Prisma**: a modern ORM tool for Node.js and TypeScript that simplifies database access
-* **Java Database Connectivity (JDBC)**: a Java API ORM that simplifies relational database access
-* **Drizzle:** a lightweight Javascript/TypeScript ORM that provides type-safe SQL queries and schema management
+* **Object-Relational Mapping (ORM):** libraries that allow interaction with databases using programming languages rather than raw SQL
+   * **Entity Framework**: a modern ORM tool by Microsoft for .NET and C# that simplifies database access
+   * **Prisma**: a modern ORM tool for Node.js and TypeScript that simplifies database access
+   * **Java Database Connectivity (JDBC)**: a Java API ORM that simplifies relational database access
+   * **Drizzle:** a lightweight Javascript/TypeScript ORM that provides type-safe SQL queries and schema management
 
 ## Hosting & Deployment
 * **AWS Chalice:** a Python serverless framework for deploying Python applications
@@ -128,9 +146,6 @@
 * **Chrome Devtools:** inspect, test, profile, and debug websites and web applications
 * **Markdown XML (MDX):** combines Markdown with JSX, allowing developers to embed React components directly inside Markdown
 * **[GitKraken](https://learn.gitkraken.com/courses/git-foundations):** graphical Git client and with visualizations forde branches, commits, and pull requests
-* **[Website Validator](https://validator.w3.org/):** validates HTML markup
-* **Astah UM**: a software modeling tool used to create UML diagrams
-* **Diagrams.net:** a free online diagramming tool used for flowcharts, UML diagrams, network diagrams, etc.
-* **StarUML:** a software modeling tool used to create UML diagrams and software architectures
-* **Umbrello:** an open-source UML modeling tool
-* **UML Designer:** an Eclipse-based modeling tool used to create and visualize UML diagrams for system architecture
+* **Google Lighthouse:** an open-source auditing tool that analyzes web pages for performance, accessibility, and SEO
+
+## UGA Courses
