@@ -2,6 +2,29 @@
 
 ## UGA Courses (Computer Science Theory Repository)
 
+## Project Management Concepts
+ * **Waterfall Methodology:** each project phase is completed sequentially before moving to the next stage
+ * **Agile Methodology:** emphasizes iterative progress, collaboration, adaptability, and continuous delivery of value
+ * **SCRUM:** agile project management framework that organizes work into iterative sprints for collaboration efficiency
+ * **Software Development Life Cycle (SDLC):** structured process for deveoping software and software systems
+     * **Plan:** goals, requirements, feasibility, timelines, and resources are identified and organized
+     * **Analyze:** business and technical requirements are gathered, evaluated, and documented
+     * **Design:** creating the software architecture, user interfaces, databases, and system specifications
+     * **Develop:** phase where developers write and build the application’s code and core functionality
+     * **Test:** stage where the software is evaluated for bugs, security issues, performance, and functionality
+     * **Deploy:** release and distribute the software to users or production environments
+     * **Maintain:** ongoing phase of updating, monitoring, fixing, and improving the software after release
+ 
+## Project Management and Collaboration
+* **Microsoft Office Suite:** collection of productivity applications such as Word, Excel, PowerPoint, and Outlook
+* **Google Workspace:** cloud-based productivity and collaboration suite  with Gmail, Docs, Drive, Meet, Calendar, etc.
+* **Linear:** a modern project management and issue-tracking tool designed for fast software development team workflows
+* **Notion:** all-in-one workspace platform for note-taking, project management, documentation, and collaboration
+* **JIRA:** Atlassian project management and issue-tracking tool widely used for agile software development and collaboration
+* **GitHub Projects:**  GitHub used to organize tasks, track progress, and manage software development workflows
+* **GitHub Issues:** built-in GitHub tracking system used to report bugs, manage tasks, discuss features, and coordinate projects
+* **ServiceNow:** an enterprise cloud-based ticketing platform for IT service management and business workflow automatiom
+* **Trello:** visual project management tool that uses boards, lists, and cards to organize tasks and team workflows.
 
 ## System Design Concepts
 * **Unified Modeling Language (UML):** a standardized visual modeling language used to design software systems
@@ -13,18 +36,13 @@
     * **Model:** manages data and business logic
     * **View:** handles layout and display
     * **Controller:** routes commands and user input
+* **Model-View-ViewMode (MVM) Architecture:** software architectural pattern that separates app logic, UI, and data binding
+* **Model-View-Presenter (MVP):** software architectural pattern where the presenter handles user interaction logic between the model and the view
+* **Clean Architecture:** a software design approach that organizes applications into layered independent components
 * **Application Programming Interface (API):** set of rules allowing different software apps to communicate and exchange data
-    * **RESTful API:** web service architecture that uses standard HTTP methods to enable comms and data exchange between system
-    * **OpenAPI:** a specification standard for describing and documenting RESTful APIs in a machine-readable format
-    * **AsyncAPI:** specification framework for documenting and designing event-driven APIS for messaging and streaming systems
-    * **gRPC API:** high-performance remote procedure call framework for comms between distributed systems using Protocol Buffers
- * **MERN Stack:** a full-stack JavaScript technology stack consisting of MongoDB, Express.js, React, and Node.js
- 
-## Project Management and Collaboration
-* **Microsoft Office Suite:** collection of productivity applications such as Word, Excel, PowerPoint, and Outlook
-* **Google Workspace:** cloud-based productivity and collaboration suite  with Gmail, Docs, Drive, Meet, Calendar, etc.
-* **Linear:** a modern project management and issue-tracking tool designed for fast software development team workflows
-* **ServiceNow:** an enterprise cloud-based ticketing platform for IT service management and business workflow automatiom
+* **RESTful API:** web service architecture that uses standard HTTP methods to enable comms and data exchange between system
+* **gRPC API:** high-performance remote procedure call framework for comms between distributed systems using Protocol Buffers
+* **MERN Stack:** a full-stack JavaScript technology stack consisting of MongoDB, Express.js, React, and Node.js
 
 ## UI/UX Design, Copywriting, and Typography
 * **Diagrams.net:** create wireframes for websites, mobile apps, and software interfaces using built-in UI components
@@ -40,6 +58,12 @@
 * **Webflow:** web builder for custom professional sites
 * **Wix:** web builder for beginners
 * **Wordpress:** web builder offering the most-customization for software engineers
+
+## Cloud Computing & Infrastructure
+* **Digital Ocean:** cloud infrastructure platform providing virtual servers, databases, storage, networking, deployment, etc.
+* **Amazon Web Services (AWS):** comprehensive cloud computing platform
+* **Microsft Azure:** Microsoft’s cloud computing platform
+* **Google Cloud Platform (GCP):** a cloud services platform by Google
 
 ## Version Control
 * **Git:** distributed version control system used to track code changes, manage collaboration, and maintain project history
@@ -67,6 +91,15 @@
 ## Software Development Concepts
 * **Preload, Render, Precache, Lazy Loading (PRPL) Pattern**: a web performance architecture strategy that improves application loading speed
 * **Asynchronous JavaScript and XML (AJAX):** a web dev technique that allows web pages to send/receive data from servers asynchronously
+* **Create, Read, Update, Delete (CRUD):** four fundamental operations used to manage data in databases, REST APIs, and backend services
+* **Test-Driven Development (TDD):** tests are written before code to guide implementation and ensure functionality
+* **Arrange, Act, Assert (AAA):** unit testing pattern that structures tests by setting up conditions, executing actions, and verifying outcomes
+* **SOLID Principles:** set of object-oriented design principles that improve software maintainability, scalability, and flexibility
+    * **Single Responsibility Principle:** a class should have only one responsibility or reason to change
+    * **Open/Closed Principle:** software entities should be open for extension but closed for modification
+    * **Liskov Substitution Principle:** subtypes should be replaceable for their base types without altering program correctness
+    * **Interface Segregation Principle:** clients should not be forced to depend on interfaces they do not use
+    * **Dependency Inversion Principle:** high-level modules should depend on abstractions rather than concrete implementations
 
 ## Build Tools
 * **Apache Maven**: a build automation and project management tool primarily used for Java projects and packages
@@ -173,6 +206,8 @@
     * **BitBucket:** git-based platform by Atlassian that supports code collaboration, version control, and CI/CD integration
 
 ## Documentation
+* **OpenAPI:** a specification standard for describing and documenting RESTful APIs in a machine-readable format
+* **AsyncAPI:** specification framework for documenting and designing event-driven APIS for messaging and streaming systems
 * **Markdown (MD):** a lightweight markup language used to format plain text into structured documents with simple syntax
     * **README.md:** provides an overview, setup instructions, and usage details for a software project
     * **SECURITY.md:** outlines security policies, vulnerability reporting procedures, and supported software versions
