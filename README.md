@@ -267,6 +267,13 @@
 * **Soroban:** smart contract platform built on the Stellar blockchain that enables scalable and developer-friendly app development
 * **Stellar:** an open-source blockchain network designed for low-cost cross-border payments and digital asset transfers
 
+## Geographic Information Systems (GIS)
+* **ArcGIS:** GIS platform used for mapping, spatial analysis, geospatial data management, and visualization
+* **QGIS:** open-source GIS pplication used for creating, analyzing, and visualizing geospatial data and maps
+* **Google Earth:** geospatial visualization platform that allows users to explore satellite imagery, terrain, and maps in 3D
+* **Google Maps:** used to embed maps, geolocation, routing, and geospatial features into apps and websites
+* **Mapbox:** mapping and geospatial platform that provides customizable maps, navigation, location services, and spatial data tools
+
 ## Developer Tools
 * **Chrome Devtools:** inspect, test, profile, and debug websites and web applications
 * **Linktree:** a link-in-bio platform that lets users share multiple links through a single customizable landing page
