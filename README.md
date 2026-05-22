@@ -65,17 +65,17 @@
 * **Preload, Render, Precache, Lazy Loading (PRPL) Pattern**: a web performance architecture strategy that improves application loading speed
 * **Asynchronous JavaScript and XML (AJAX):** a web dev technique that allows web pages to send/receive data from servers asynchronously
 
-## Package Managers
-* **Npm:** the default package manager for Node.js used to install, manage, and share JavaScript libraries and tools
-* **Bun:** fast all-in-one JavaScript NodeJS runtime and toolkit that includes a package manager, bundler, and testing
-* **Yarn:** a fast and reliable JavaScript package manager designed to improve dependency management and project consistency
-* **MacPorts:** an open-source package manager for macOS that simplifies installing and maintaining Unix-based software
-
 ## Build Tools
 * **Apache Maven**: a build automation and project management tool primarily used for Java projects and packages
 * **Gradle:** an open-source build automation tool used for dependency management, testing, and automation
 * **Bun:** fast all-in-one JavaScript NodeJS runtime and toolkit that includes a package manager, bundler, and testing
 * **Vite:** a fast frontend build tool and development server
+  
+## Package Managers
+* **Npm:** the default package manager for Node.js used to install, manage, and share JavaScript libraries and tools
+* **Bun:** fast all-in-one JavaScript NodeJS runtime and toolkit that includes a package manager, bundler, and testing
+* **Yarn:** a fast and reliable JavaScript package manager designed to improve dependency management and project consistency
+* **MacPorts:** an open-source package manager for macOS that simplifies installing and maintaining Unix-based software
 
 ## Configuration
 * **.editorconfig:** helps maintain consistent coding styles/settings across different editors and IDEs for a code repository
