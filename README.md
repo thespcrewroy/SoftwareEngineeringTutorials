@@ -268,7 +268,7 @@
 * **Stellar:** an open-source blockchain network designed for low-cost cross-border payments and digital asset transfers
 
 ## Geographic Information Systems (GIS)
-* **ArcGIS:** GIS platform used for mapping, spatial analysis, geospatial data management, and visualization
+* **[ArcGIS](https://usg.maps.arcgis.com/home/webscene/viewer.html):** GIS for mapping, spatial analysis, geospatial data management, and visualization
 * **QGIS:** open-source GIS pplication used for creating, analyzing, and visualizing geospatial data and maps
 * **Google Earth:** geospatial visualization platform that allows users to explore satellite imagery, terrain, and maps in 3D
 * **Google Maps:** used to embed maps, geolocation, routing, and geospatial features into apps and websites
