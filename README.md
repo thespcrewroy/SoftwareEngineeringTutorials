@@ -37,6 +37,7 @@
 * **Apache Maven**: a build automation and project management tool primarily used for Java projects and packages
 
 ## Code Editors & IDEs
+* **Sublime Text:** a fast and lightweight text editor known for its speed, simplicity, and powerful multi-cursor editing features.
 * **NeoVim:** a highly extensible terminal-based text editor built for efficient coding and customization with modern plugins
 * **Doom Emacs:** a highly optimized and modular Emacs configuration framework designed for speed, ergonomics, and productivity
 * **Evil Emacs:** an Emacs extension layer that brings Vim-style modal editing and keybindings into the Emacs environment
@@ -49,7 +50,7 @@
 * **Visual Studio:** a IDE from Microsoft compatible with many languages, and used for developing desktop, web, cloud, and mobile apps
 
 ## Frontend
-* **Codepen.io:** a social media platform for building, testing, and sharing front-end web projects
+* **Codepen:** a social media platform for building, testing, and sharing front-end web projects
 * **[Website Validator](https://validator.w3.org/):** validates HTML markup
 * **PHP:** server-side scripting language primarily used to build dynamic websites
 * **HTMX:** a lightweight HTML-based frontend library that makes dynamic server-driven web interactions without heavy JS frameworks
@@ -89,7 +90,7 @@
 * **ExpressJS:** a lightweight backend web framework for Node.js used to build APIs and microservices
 * **NestJS:** a TypeScript-based backend framework for Node.js used to build modular scalable server-side apps and APIs
 * **AWS Lambda:** a serverless computing service by Amazon that runs code automatically in response to events
-* **AWS Simple Messaging Service (SES):** a fully managed messaging service by AWS used to send notifications and enable pub/sub comms
+* **AWS Simple Messaging Service (SMS):** a fully managed messaging service by AWS used to send notifications and enable pub/sub comms
 * **AWS Simple Email Service (SES):** a cloud-based email service by Amazon used to send, receive, and emails at scale
 * **Microsoft Azure:** Microsoft’s serverless computing service that runs event-driven code on demand
 * **Google Apps Script:** cloud-based scripting platform using JavaScript to integrate Google Workspace workflows
@@ -147,5 +148,6 @@
 * **Markdown XML (MDX):** combines Markdown with JSX, allowing developers to embed React components directly inside Markdown
 * **[GitKraken](https://learn.gitkraken.com/courses/git-foundations):** graphical Git client and with visualizations forde branches, commits, and pull requests
 * **Google Lighthouse:** an open-source auditing tool that analyzes web pages for performance, accessibility, and SEO
+* **GitHub Gist:** a lightweight GitHub feature for storing, sharing, and version-controlling individual code snippets and text files.
 
 ## UGA Courses
