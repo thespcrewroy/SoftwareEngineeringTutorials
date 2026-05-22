@@ -27,7 +27,7 @@
 * **Diagrams.net:** create wireframes for websites, mobile apps, and software interfaces using built-in UI components
 * **Figma:** acollaborative cloud-based design platform used for UI/UX design, prototyping, and interface development
 * **[Fontawesome](https://fontawesome.com/):** an icon toolkit and library that provides scalable vector icons and social logos
-* **[Google Fonts](https://fonts.google.com/specimen/Nunito):** free web font library for integrating customizable fonts into websites
+* **[Google Fonts](https://fonts.google.com/):** free web font library for integrating customizable fonts into websites
 
 ## Web Builders
 * **Shopify:** web builder for e-commerce stores
@@ -37,6 +37,13 @@
 * **Webflow:** web builder for custom professional sites
 * **Wix:** web builder for beginners
 * **Wordpress:** web builder offering the most-customization for software engineers
+
+## Version Control
+* **Git:** distributed version control system used to track code changes, manage collaboration, and maintain project history
+* **GitHub:** cloud-based platform for hosting, managing, and collaborating on Git repositories and software projects
+* **GitLab:**  provides Git repository hosting, version control, CI/CD pipelines, and tools for software development collaboration
+* **GitKraken:** graphical Git client and with visualizations forde branches, commits, and pull requests
+* **BitBucket:** git-based platform by Atlassian that supports code collaboration, version control, and CI/CD integration
 
 ## Package Managers
 * **Npm:** the default package manager for Node.js used to install, manage, and share JavaScript libraries and tools
@@ -66,7 +73,7 @@
 * **Android Studio:** Google’s official IDE for coding, testing, debugging, and UI design for Android App Development
 
 ## Software Development Concepts
-* **[Preload, Render, Precache, Lazy Loading (PRPL) Pattern](https://web.dev/articles/apply-instant-loading-with-prpl)**: a web performance architecture strategy that improves application loading speed
+* **Preload, Render, Precache, Lazy Loading (PRPL) Pattern**: a web performance architecture strategy that improves application loading speed
 * **Asynchronous JavaScript and XML (AJAX):** a web dev technique that allows web pages to send/receive data from servers asynchronously
 
 ## Frontend
@@ -146,6 +153,12 @@
 * **GoDaddy:** a domain registrar and web hosting company that provides website, email, and online business services
 * **AWS Chalice:** a Python serverless framework for deploying Python applications
 
+## DevOps
+* **Containerization/Virtualization:** create isolated computing environments to eliminate dependecy issues accross different infrastructures
+* **Continuous Integration and Continuous Delivery/Deployment (CI/CD):** utomates code integration, testing, and deployment
+    * **GitLab:**  provides Git repository hosting, version control, CI/CD pipelines, an d tools for software development collaboration
+    * **BitBucket:** git-based platform by Atlassian that supports code collaboration, version control, and CI/CD integration
+
 ## Documentation
 * **Markdown (MD):** a lightweight markup language used to format plain text into structured documents with simple syntax
     * **README.md:** provides an overview, setup instructions, and usage details for a software project
@@ -186,7 +199,6 @@
 
 ## Developer Tools
 * **Chrome Devtools:** inspect, test, profile, and debug websites and web applications
-* **[GitKraken](https://learn.gitkraken.com/courses/git-foundations):** graphical Git client and with visualizations forde branches, commits, and pull requests
 * **Linktree:** a link-in-bio platform that lets users share multiple links through a single customizable landing page
 
 ## Marketing Tools
