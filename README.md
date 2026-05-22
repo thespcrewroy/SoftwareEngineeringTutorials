@@ -64,6 +64,7 @@
 * **Evil Emacs:** an Emacs extension layer that brings Vim-style modal editing and keybindings into the Emacs environment
 * **Zed:** a high-performance, multiplayer code editor designed for fast collaboration and modern developer workflows
 * **Notepad++:** a lightweight Windows text and source code editor that supports multiple programming languages and plugins
+* **VSCode:** lightweight and extensible code editor by Microsoft that supports debugging, extensions, and development
 * **IntelliJ:** a powerful IDE by JetBrains designed primarily for Java and JVM-based application developmen
 * **PyCharm:** a Python-focused IDE by JetBrains that provides intelligent code assistance, debugging, and testing
 * **GoLand:** a JetBrains IDE specifically built for Go development with advanced code analysis, debugging, and refactoring features
@@ -75,6 +76,10 @@
 ## Software Development Concepts
 * **Preload, Render, Precache, Lazy Loading (PRPL) Pattern**: a web performance architecture strategy that improves application loading speed
 * **Asynchronous JavaScript and XML (AJAX):** a web dev technique that allows web pages to send/receive data from servers asynchronously
+
+## Configuration
+* **.editorconfig:** helps maintain consistent coding styles/settings across different editors and IDEs for a code repository
+* **.env:** stores environment variables away from the source code such as API keys, database credentials, and app settings
 
 ## Frontend
 * **Codepen:** a social media platform for building, testing, and sharing front-end web projects
@@ -127,10 +132,6 @@
 * **Postman:** an API development and testing platform used to design, test, document, and monitor APIs
 * **Firebase**: Google’s backend-as-a-service (BaaS) with authentication, databases, hosting, analytics, and cloud functions
 
-## Configuration
-* **.editorconfig:** helps maintain consistent coding styles/settings across different editors and IDEs for a code repository
-* **.env:** stores environment variables away from the source code such as API keys, database credentials, and app settings
-
 ## Database
 * **Redis:** an in-memory data store commonly used as a cache, database, and message broker for ultra-fast data access for real time apps
 * **SQLite:** a serverless relational database engine that stores data locally in a single file
@@ -147,6 +148,11 @@
    * **Java Database Connectivity (JDBC)**: a Java API ORM that simplifies relational database access
    * **Drizzle:** a lightweight Javascript/TypeScript ORM that provides type-safe SQL queries and schema management
 
+## Computer Graphics
+* **Processing:** an open-source programming language and visual arts framework for creating interactive graphics
+* **ThreeJS:** a JavaScript library used to create and render interactive 3D graphics and animations in web browsers using WebGL
+* **Bokeh:** a Python visualization library used to create interactive, web-based data visualizations and dashboards
+
 ## Hosting & Deployment
 * **Blue Host:** a web hosting provider that offers domain, business emails, website hosting, and WordPress integration services
 * **Porkbun:** a domain registrar and web services provider known for affordable domain registration, hosting, and DNS management
@@ -155,7 +161,9 @@
 
 ## DevOps
 * **Containerization/Virtualization:** create isolated computing environments to eliminate dependecy issues accross different infrastructures
-* **Continuous Integration and Continuous Delivery/Deployment (CI/CD):** utomates code integration, testing, and deployment
+* **Unit Testing:** software testing method that verifies individual components or functions of an application work correctly in isolation
+* **Continuous Integration and Continuous Delivery/Deployment (CI/CD):** automates code integration, testing, and deployment
+    * **GitHub Actions:** CI/CD automation platform within GitHub used to build, test, and deploy code through customizable workflows
     * **GitLab:**  provides Git repository hosting, version control, CI/CD pipelines, an d tools for software development collaboration
     * **BitBucket:** git-based platform by Atlassian that supports code collaboration, version control, and CI/CD integration
 
@@ -188,14 +196,13 @@
 * **Dart:** programming language developed by Google for building cross-platform applications with the Flutter framework
 * **Ionic:** uses web technologies like HTML, CSS, and JavaScript to build mobile and desktop applications
 
+## Web3
+* **Soroban:** smart contract platform built on the Stellar blockchain that enables scalable and developer-friendly app development
+* **Stellar:** an open-source blockchain network designed for low-cost cross-border payments and digital asset transfers
+
 ## Systems Programming
 * **Lua:** lightweight embeddable scripting language designed for fast execution for games, embedded systems, and app scripting
 * **Rust:** systems programming language focused on performance, memory safety, and concurrency garbage collection
-
-## Computer Graphics
-* **Processing:** an open-source programming language and visual arts framework for creating interactive graphics
-* **ThreeJS:** a JavaScript library used to create and render interactive 3D graphics and animations in web browsers using WebGL
-* **Bokeh:** a Python visualization library used to create interactive, web-based data visualizations and dashboards
 
 ## Developer Tools
 * **Chrome Devtools:** inspect, test, profile, and debug websites and web applications
