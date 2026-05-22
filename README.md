@@ -6,11 +6,16 @@
     * **StarUML:** a software modeling tool used to create UML diagrams and software architectures
     * **Umbrello:** an open-source UML modeling tool
     * **UML Designer:** an Eclipse-based modeling tool used to create and visualize UML diagrams for system architecture
-* **MERN Stack:** a full-stack JavaScript technology stack consisting of MongoDB, Express.js, React, and Node.js
 * **Model-View-Controller (MVC) Architecture:** a software design pattern that separates an app into three interconnected components
     * **Model:** manages data and business logic
     * **View:** handles layout and display
     * **Controller:** routes commands and user input
+* **Application Programming Interface (API):** set of rules allowing different software apps to communicate and exchange data
+    * **RESTful API:** web service architecture that uses standard HTTP methods to enable comms and data exchange between system
+    * **OpenAPI:** a specification standard for describing and documenting RESTful APIs in a machine-readable format
+    * **AsyncAPI:** specification framework for documenting and designing event-driven APIS for messaging and streaming systems
+    * **gRPC API:** high-performance remote procedure call framework for comms between distributed systems using Protocol Buffers
+ * **MERN Stack:** a full-stack JavaScript technology stack consisting of MongoDB, Express.js, React, and Node.js
  
 ## Project Management and Collaboration
 * **ServiceNow:** an enterprise cloud-based ticketing platform for IT service management and business workflow automatiom
@@ -35,7 +40,7 @@
 * **Bun:** fast all-in-one JavaScript NodeJS runtime and toolkit that includes a package manager, bundler, and testing
 * **MacPorts:** an open-source package manager for macOS that simplifies installing and maintaining Unix-based software
 * **Npm:** the default package manager for Node.js used to install, manage, and share JavaScript libraries and tools
-* **Yarn:** a fast and reliable JavaScript package manager designed to improve dependency management and project consistency.
+* **Yarn:** a fast and reliable JavaScript package manager designed to improve dependency management and project consistency
 
 ## Build Tools
 * **Vite:** a fast frontend build tool and development server
@@ -63,18 +68,16 @@
 * **Codepen:** a social media platform for building, testing, and sharing front-end web projects
 * **[Website Validator](https://validator.w3.org/):** validates HTML markup
 * **PHP:** server-side scripting language primarily used to build dynamic websites
+* **HTML:** standard markup language used to structure and display content on web pages
 * **HTMX:** a lightweight HTML-based frontend library that makes dynamic server-driven web interactions without heavy JS frameworks
+* **CSS:** stylesheet language used to control the layout, design, and visual appearance of web pages.
+* **TailwindCSS:** a utility-first CSS framework by composing small reusable styling classes directly in HTML or JSX.
+* **Bootstrap:** a popular CSS framework using prebuilt UI components and layout utilities
 * **Javascript:** a versatile programming language used to create interactive websites
 * **jQuery:** a JavaScript library that simplifies DOM manipulation, event handling, animations, and AJAX interactions
 * **Typescript:** a statically typed superset of JavaScript that adds type safety, tooling, and modern features
 * **Javascript XML (JSX):** a JavaScript syntax extension used in React to interface components with HTML-like code inside JavaScript
 * **Typescript XML (TSX):** Combines Typscript with JSX to build components HTML-like code inside JavaScript
-* **TailwindCSS:** a utility-first CSS framework by composing small reusable styling classes directly in HTML or JSX.
-* **Bootstrap:** a popular CSS framework using prebuilt UI components and layout utilities
-* **Docusaurus:** static-site open-source documentation website generator framework built by Meta
-* **Vitepress:** a static site generator built on top of Vite and Vue for building documentation websites
-* **Mkdocs:** a static site generator for creating project documentation websites using Markdown files
-* **Gatsby:** a React-based static site generation framework used to build fast and optimized websites
 * **Jekyll:** a Ruby-based static site generation framework that converts Markdown and templatess into optimized websites
 * **ReactJS:** a JavaScript library developed by Meta for building fast component-based user interfaces
 * **NextJS:** a React-based full-stack web framework for building fast web applications with server-side rendering and static site generation
@@ -87,18 +90,19 @@
 * **Redux:** a state management library commonly used JS frameworks to manage and centralize application state predictably
 
 ## Backend
-* **Laravel:** a PHP backend web framework used to build modern web apps and APIs with MVC architecture
 * **Ruby:** dynamic OOP programming language designed for simplicity and developer productivity
-* **Ruby on Rails:** backend web framework for server-side apps, APIs, database logic, authentication, and web routing
 * **Golang:** statically typed language developed by Google to build scalable backend systems, cloud services, and concurrent apps
 * **Scala:** statically typed programming language that combines object-oriented and functional programming
-* **Visual Basic:** Microsoft programming language designed for easy development of Windows applications using a event-driven syntax
-* **.NET:** a Microsoft software development platform and runtime for building enterprise applications using C# and F#
-* **Firebase**: Google’s backend-as-a-service (BaaS) platform that provides authentication, databases, hosting, analytics, and cloud functions
 * **COBOL:** programming language designed for business, finance, and admin mainframe systems
+* **Visual Basic:** Microsoft programming language designed for easy development of Windows applications using a event-driven syntax
+* **Laravel:** a PHP backend web framework used to build modern web apps and APIs with MVC architecture
+* **Ruby on Rails:** backend web framework for server-side apps, APIs, database logic, authentication, and web routing
+* **.NET:** a Microsoft software development framework and runtime for building enterprise applications using C# and F#
+* **Firebase**: Google’s backend-as-a-service (BaaS) platform that provides authentication, databases, hosting, analytics, and cloud functions
 * **NodeJS:** a JavaScript runtime built on Chrome’s V8 engine that allows developers to run JavaScript on the server for backend services
-* **ExpressJS:** a lightweight backend web framework for Node.js used to build APIs and microservices
 * **NestJS:** a TypeScript-based backend framework for Node.js used to build modular scalable server-side apps and APIs
+* **ExpressJS:** a lightweight backend web framework for Node.js used to build APIs and microservices
+* **AWS API Gateway:** managed service for creating, securing, monitoring, and scaling APIs
 * **Azure Functions:** Microsoft’s serverless computing service that runs event-driven code on demand
 * **AWS Lambda:** a serverless computing service by Amazon that runs code automatically in response to events
 * **Google Apps Script:** cloud-based scripting platform using JavaScript to integrate Google Workspace workflows
@@ -106,6 +110,7 @@
 * **Django:** a high-level Python web framework that enables rapid development of secure, scalable, and database-driven web applications
 * **FastAPI:** a modern Python web framework for building high-performance APIs with automatic validation, type hints, and async support
 * **WebsocketAPI:** browser-based interface that allows web apps to communivate without HTTP requests for live chat and online gaming
+* **GraphQL:** query language and API runtime that allows clients to request exactly the data they need from a server
 * **Spring Boot:** a Java-based backend framework that simplifies building production-ready web applications, APIs, and microservices
 
 ## Configuration
@@ -134,6 +139,14 @@
 * **Porkbun:** a domain registrar and web services provider known for affordable domain registration, hosting, and DNS management
 * **GoDaddy:** a domain registrar and web hosting company that provides website, email, and online business services
 
+## Documentation
+* **Vitepress:** a static site generator built on top of Vite and Vue for building documentation websites
+* **Mkdocs:** a static site generator for creating project documentation websites using Markdown files
+* **Gatsby:** a React-based static site generation framework used to build fast and optimized websites
+* **Markdown (MD):** a lightweight markup language used to format plain text into structured documents with simple syntax
+* **Markdown XML (MDX):** combines Markdown with JSX, allowing developers to embed React components directly inside Markdown
+* **Docusaurus:** static-site open-source documentation website generator framework built by Meta
+
 ## Desktop
 * **.NET:** a Microsoft software development platform and runtime for building enterprise applications using C# and F#
 * **ElectronJS:** a framework for building cross-platform desktop applications using Javascript, CSS, and HTML
@@ -156,7 +169,6 @@
 
 ## Developer Tools
 * **Chrome Devtools:** inspect, test, profile, and debug websites and web applications
-* **Markdown XML (MDX):** combines Markdown with JSX, allowing developers to embed React components directly inside Markdown
 * **[GitKraken](https://learn.gitkraken.com/courses/git-foundations):** graphical Git client and with visualizations forde branches, commits, and pull requests
 * **Google Lighthouse:** an open-source auditing tool that analyzes web pages for performance, accessibility, and SEO
 * **GitHub Gist:** a lightweight GitHub feature for storing, sharing, and version-controlling individual code snippets and text files
