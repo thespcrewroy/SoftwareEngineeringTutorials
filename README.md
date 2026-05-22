@@ -25,6 +25,7 @@
 * **GitHub Issues:** built-in GitHub tracking system used to report bugs, manage tasks, discuss features, and coordinate projects
 * **ServiceNow:** an enterprise cloud-based ticketing platform for IT service management and business workflow automatiom
 * **Trello:** visual project management tool that uses boards, lists, and cards to organize tasks and team workflows.
+* **Azure DevOps:** provides tools for version control, project tracking, and collaboration.
 
 ## System Design Concepts
 * **Unified Modeling Language (UML):** a standardized visual modeling language used to design software systems
@@ -122,6 +123,12 @@
 ## Configuration
 * **.editorconfig:** helps maintain consistent coding styles/settings across different editors and IDEs for a code repository
 * **.env:** stores environment variables away from the source code such as API keys, database credentials, and app settings
+* **.yaml:** commonly used for settings, automation workflows, infrastructure definitions, and data serialization
+* **.config:** genericly used by applications and systems to store user preferences, settings, and runtime configurations
+* **.json:** lightweight data-interchange format that stores structured data using key-value pairs and arrays
+* **.xml:** markup language used to structure, store, and transport data in a readable and hierarchical format
+* **.gitignore:** git configuration file that specifies which files and folders should be excluded from version control tracking.
+* **.nginx:** commonly associated with NGINX server settings for routing, proxies, server load balancing
 
 ## Frontend
 * **Codepen:** a social media platform for building, testing, and sharing front-end web projects
@@ -207,6 +214,7 @@
 * **AWS Chalice:** a Python serverless framework for deploying Python applications
 
 ## DevOps
+* **Azure DevOps:** provides tools for CI/CD pipelines and testing
 * **Containerization/Virtualization:** create isolated computing environments to eliminate dependecy issues accross different infrastructures
 * **Unit Testing:** software testing method that verifies individual components or functions of an application work correctly in isolation
 * **Continuous Integration and Continuous Delivery/Deployment (CI/CD):** automates code integration, testing, and deployment
