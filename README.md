@@ -30,6 +30,9 @@
 
 ## Package Managers
 * **Bun:** fast all-in-one JavaScript NodeJS runtime and toolkit that includes a package manager, bundler, and testing
+* **MacPorts:** an open-source package manager for macOS that simplifies installing and maintaining Unix-based software
+* **Npm:** the default package manager for Node.js used to install, manage, and share JavaScript libraries and tools
+* **Yarn:** a fast and reliable JavaScript package manager designed to improve dependency management and project consistency.
 
 ## Build Tools
 * **Vite:** a fast frontend build tool and development server
@@ -42,7 +45,7 @@
 * **Doom Emacs:** a highly optimized and modular Emacs configuration framework designed for speed, ergonomics, and productivity
 * **Evil Emacs:** an Emacs extension layer that brings Vim-style modal editing and keybindings into the Emacs environment
 * **Zed:** a high-performance, multiplayer code editor designed for fast collaboration and modern developer workflows
-* **Codepen:** an online code-editor
+* **Notepad++:** a lightweight Windows text and source code editor that supports multiple programming languages and plugins
 * **IntelliJ:** a powerful IDE by JetBrains designed primarily for Java and JVM-based application developmen
 * **PyCharm:** a Python-focused IDE by JetBrains that provides intelligent code assistance, debugging, and testing
 * **GoLand:** a JetBrains IDE specifically built for Go development with advanced code analysis, debugging, and refactoring features
@@ -89,10 +92,10 @@
 * **NodeJS:** a JavaScript runtime built on Chrome’s V8 engine that allows developers to run JavaScript on the server for backend services
 * **ExpressJS:** a lightweight backend web framework for Node.js used to build APIs and microservices
 * **NestJS:** a TypeScript-based backend framework for Node.js used to build modular scalable server-side apps and APIs
+* **Azure Functions:** Microsoft’s serverless computing service that runs event-driven code on demand
 * **AWS Lambda:** a serverless computing service by Amazon that runs code automatically in response to events
 * **AWS Simple Messaging Service (SMS):** a fully managed messaging service by AWS used to send notifications and enable pub/sub comms
 * **AWS Simple Email Service (SES):** a cloud-based email service by Amazon used to send, receive, and emails at scale
-* **Microsoft Azure:** Microsoft’s serverless computing service that runs event-driven code on demand
 * **Google Apps Script:** cloud-based scripting platform using JavaScript to integrate Google Workspace workflows
 * **Flask:** a lightweight Python web framework used to build web applications, APIs, and backend services
 * **Django:** a high-level Python web framework that enables rapid development of secure, scalable, and database-driven web applications
