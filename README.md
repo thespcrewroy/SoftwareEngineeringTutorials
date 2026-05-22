@@ -37,7 +37,7 @@
     * **View:** handles layout and display
     * **Controller:** routes commands and user input
 * **Model-View-ViewMode (MVM) Architecture:** software architectural pattern that separates app logic, UI, and data binding
-* **Model-View-Presenter (MVP):** software architectural pattern where the presenter handles user interaction logic between the model and the view
+* **Model-View-Presenter (MVP):** the presenter handles user interaction logic between the model and the view
 * **Clean Architecture:** a software design approach that organizes applications into layered independent components
 * **Application Programming Interface (API):** set of rules allowing different software apps to communicate and exchange data
 * **RESTful API:** web service architecture that uses standard HTTP methods to enable comms and data exchange between system
