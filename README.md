@@ -45,18 +45,6 @@
 * **GitKraken:** graphical Git client and with visualizations forde branches, commits, and pull requests
 * **BitBucket:** git-based platform by Atlassian that supports code collaboration, version control, and CI/CD integration
 
-## Package Managers
-* **Npm:** the default package manager for Node.js used to install, manage, and share JavaScript libraries and tools
-* **Bun:** fast all-in-one JavaScript NodeJS runtime and toolkit that includes a package manager, bundler, and testing
-* **Yarn:** a fast and reliable JavaScript package manager designed to improve dependency management and project consistency
-* **MacPorts:** an open-source package manager for macOS that simplifies installing and maintaining Unix-based software
-
-## Build Tools
-* **Apache Maven**: a build automation and project management tool primarily used for Java projects and packages
-* **Gradle:** an open-source build automation tool used for dependency management, testing, and automation
-* **Bun:** fast all-in-one JavaScript NodeJS runtime and toolkit that includes a package manager, bundler, and testing
-* **Vite:** a fast frontend build tool and development server
-
 ## Text Editors, Code Editors, & Integrated Development Environments (IDEs)
 * **Sublime Text:** a fast and lightweight text editor known for its speed, simplicity, and powerful multi-cursor editing features.
 * **NeoVim:** a highly extensible terminal-based text editor built for efficient coding and customization with modern plugins
@@ -76,6 +64,18 @@
 ## Software Development Concepts
 * **Preload, Render, Precache, Lazy Loading (PRPL) Pattern**: a web performance architecture strategy that improves application loading speed
 * **Asynchronous JavaScript and XML (AJAX):** a web dev technique that allows web pages to send/receive data from servers asynchronously
+
+## Package Managers
+* **Npm:** the default package manager for Node.js used to install, manage, and share JavaScript libraries and tools
+* **Bun:** fast all-in-one JavaScript NodeJS runtime and toolkit that includes a package manager, bundler, and testing
+* **Yarn:** a fast and reliable JavaScript package manager designed to improve dependency management and project consistency
+* **MacPorts:** an open-source package manager for macOS that simplifies installing and maintaining Unix-based software
+
+## Build Tools
+* **Apache Maven**: a build automation and project management tool primarily used for Java projects and packages
+* **Gradle:** an open-source build automation tool used for dependency management, testing, and automation
+* **Bun:** fast all-in-one JavaScript NodeJS runtime and toolkit that includes a package manager, bundler, and testing
+* **Vite:** a fast frontend build tool and development server
 
 ## Configuration
 * **.editorconfig:** helps maintain consistent coding styles/settings across different editors and IDEs for a code repository
