@@ -16,9 +16,11 @@
 * **ServiceNow:** an enterprise cloud-based ticketing platform for IT service management and business workflow automatiom
 * **Linear:** a modern project management and issue-tracking tool designed for fast software development team workflows
 
-## UI/UX Design
+## UI/UX Design, Copywriting, and Typography
 * **Diagrams.net:** create wireframes for websites, mobile apps, and software interfaces using built-in UI components
-* **Figma:** 
+* **Figma:** acollaborative cloud-based design platform used for UI/UX design, prototyping, and interface development
+* **[Fontawesome](https://fontawesome.com/):** an icon toolkit and library that provides scalable vector icons and social logos
+* **[Google Fonts](https://fonts.google.com/specimen/Nunito):** free web font library for integrating customizable fonts into websites
 
 ## Web Builders
 * **Shopify:** web builder for e-commerce stores
@@ -158,6 +160,7 @@
 * **[GitKraken](https://learn.gitkraken.com/courses/git-foundations):** graphical Git client and with visualizations forde branches, commits, and pull requests
 * **Google Lighthouse:** an open-source auditing tool that analyzes web pages for performance, accessibility, and SEO
 * **GitHub Gist:** a lightweight GitHub feature for storing, sharing, and version-controlling individual code snippets and text files
+* **[Pastebin](https://pastebin.com/):** online service for storing and sharing plain text, code snippets, and logs
 * **Linktree:** a link-in-bio platform that lets users share multiple links through a single customizable landing page
 
 ## Marketing Tools
