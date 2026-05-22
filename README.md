@@ -255,6 +255,7 @@
 * **Luau:** scripting language developed by Roblox, based on Lua, for game development and performance optimization
 * **Unreal Engine:** a real-time 3Dengine used for developing high-fidelity games, simulations, films, and virtual experiences
 * **Unity:** a real-time 2D and 3D engine for creating games, simulations, and interactive experiences across multiple devices
+* **Godot:** open-source game engine used for developing 2D and 3D games with a lightweight and flexible development environment
 * **Roblox Studio:** official game development environment for creating, testing, and publishing experiences on Roblox
 * **Cocos2d-x:** open-source cross-platform game development framework used for building 2D games
 
