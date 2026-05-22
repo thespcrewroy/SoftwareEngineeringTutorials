@@ -185,7 +185,7 @@
 * **GitHub Gist:** a lightweight GitHub feature for storing, sharing, and version-controlling individual code snippets and text files
 * **[Pastebin](https://pastebin.com/):** online service for storing and sharing plain text, code snippets, and logs
 
-## Desktop
+## Desktop App Development
 * **.NET:** a Microsoft software development platform and runtime for building enterprise applications using C# and F#
 * **ElectronJS:** a framework for building cross-platform desktop applications using Javascript, CSS, and HTML
 
@@ -195,7 +195,8 @@
 * **SwiftUI:** Apple’s declarative UI framework for building user interfaces across iOS, macOS, watchOS, and tvOS applications
 * **Jetpack Compose:** Android’s modern declarative UI toolkit by Google for building native Android interfaces
 * **React-Native:** JavaScript-based framework developed by Meta for building cross-platform mobile apps
-* **Fluter:** Google’s UI toolkit for building fast, cross-platform mobile, web, and desktop applications from a single Dart codebase
+* **Flutter:** Gotogle’s UI toolkit for building fast, cross-platform mobile, web, and desktop applications from a single Dart codebase
+* **Xamarin:** Microsoft's framework for building cross-platform mobile applications using C# and .NET for Android and iOS
 * **Dart:** programming language developed by Google for building cross-platform applications with the Flutter framework
 * **Ionic:** uses web technologies like HTML, CSS, and JavaScript to build mobile and desktop applications
 
