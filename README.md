@@ -1,7 +1,5 @@
 # Software Engineering Tutorials
 
-## UGA Courses (Computer Science Theory Repository)
-
 ## Project Management Concepts
  * **Waterfall Methodology:** each project phase is completed sequentially before moving to the next stage
  * **Agile Methodology:** emphasizes iterative progress, collaboration, adaptability, and continuous delivery of value
@@ -355,3 +353,32 @@
      * **Hubspot:** a marketing automation platform that helps businesses manage sales, customer service, and inbound marketing
 * **Canva:** an online graphic design platform that enables users to create visual content for a variety of design reasons
 * **Adobe:** a software company known for creative and digital media tools
+
+
+## UGA Courses (Computer Science Theory Repository)
+* Computing, Ethics, and Society (CSCI 3030)
+* Intro to Computer Science and Object Oriented Programming (CSCI 1301L)
+* Software Development using Object Oriented Programming (CSCI 1302)
+* Functional Programming (CSCI 4520)
+* Systems Programming (CSCI 1730)
+* Discrete Math for Computer Science (MATH/CSCI 2610)
+* Introduction to Theory of Computing & Automata (CSCI 2670)
+* Data Structures (CSCI 2720)
+* Algorithms (CSCI 4470)
+* Combinatorics (CSCI 4670)
+* Graph Theory (MATH 4690)
+* New Media Design (NMIX 4011)
+* User Experience Strategy (NMIX 4012)
+* Human-Computer Interaction (CSCI 4800)
+* Web Development with HTML/CSS/Bootstrap/JS (NMIX 4010)
+* Advanced Web Development with HTML/CSS/JS (NMIX 4020)
+* Web Programming (CSCI 4300)
+* Web Composing and Scripting (CSCI 5310)
+* Native App Development in Swift & React-Native (NMIX 4030)
+* Mobile Software Development in Kotlin (CSCI 4060)
+* Introduction to Computational Investing (CSCI 4170)
+* Software Engineering (CSCI 4050)
+* Database Management (CSCI 4370)
+* Cloud Computing (CSCI 4795)
+* Virtual Reality (CSCI 4830)
+* Simulation and Modeling (CSCI 4210)
