@@ -41,9 +41,8 @@
 * App Development With Swift: Apple's official curriculum for Swift app development
 * Kelidos Blog HowToUploadAnImage: tutorial for implementing image upload
 * SwiftUITutorials from Apple: Apple's official SwiftUI tutorials for beginners
-Free Up Space: guide to reducing iOS app size for App Store submission
-Prepare for App Distribution: Apple guide to submitting apps to the App Store
-Launching an App: step-by-step guide for launching an app on the App Store
+* XCode Help - Prepare for App Distribution: submitting apps to the App Store
+* Xcode Help - Launching an App: guide for launching an app on the App Store
 
 # Documentation
 * SwiftLanguageGuide: official Swift language reference and documentation
