@@ -243,8 +243,8 @@
     * **SaltStack:** automates infrastructure management, remote execution, and system configuration at scale using Python
 * **Containerization/Virtualization:** create isolated computing environments to eliminate dependecy issues accross different infrastructures
     * **Docker:** packages applications and their dependencies into portable, isolated containers
-    * **AWS EC2:** provides scalable virtual servers in the cloud for hosting applications as a service
-    * **AWS VPC:** creates isolated virtual networks within AWS for securely hosting and managing cloud resources
+    * **AWS Elastic Compute Cloud (EC2):** scalable virtual servers in the cloud for hosting applications as a service
+    * **AWS Virtual Private Cloud (VPC):** isolated virtual networks within AWS for securely hosting and managing cloud resources
 * **Unit Testing:** software testing method that verifies individual components or functions of an application work correctly in isolation
     * **Pytest:** a Python testing framework used for writing and running simple to complex automated test cases
     * **Jest:** a JavaScript testing framework commonly used for testing React applications and other frontend or backend code.
