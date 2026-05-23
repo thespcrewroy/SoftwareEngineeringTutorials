@@ -241,8 +241,11 @@
     * **Kubernetes (K8s):** automates the deployment, scaling, networking, and management of containerized applications
     * **Puppet:** automates infrastructure provisioning and system configuration across servers
     * **SaltStack:** automates infrastructure management, remote execution, and system configuration at scale using Python
+    * **.NET Aspire:** cloud-native development framework for building, orchestrating, and managing distributed .NET applications
+    * **Redhat Openshift:** Kubernetes-based container platform for building, deploying, managing, and scaling cloud-native applications
 * **Containerization/Virtualization:** create isolated computing environments to eliminate dependecy issues accross different infrastructures
     * **Docker:** packages applications and their dependencies into portable, isolated containers
+    * **Podman:** containerization platform for building, running, and managing containers without requiring a centralized daemon
     * **AWS Elastic Compute Cloud (EC2):** scalable virtual servers in the cloud for hosting applications as a service
     * **AWS Virtual Private Cloud (VPC):** isolated virtual networks within AWS for securely hosting and managing cloud resources
 * **Unit Testing:** software testing method that verifies individual components or functions of an application work correctly in isolation
@@ -250,6 +253,7 @@
     * **Jest:** a JavaScript testing framework commonly used for testing React applications and other frontend or backend code.
     * **Cypress:** an end-to-end testing framework for web applications that enables automated browser testing with real-time debugging
     * **TestFlight:** an Apple platform used to distribute and beta test mobile iOS, iPadOS, watchOS, and tvOS applications before release
+    * **SonarQube:** code quality and security analysis platform that detects bugs, vulnerabilities, and maintainability issues
 * **Continuous Integration and Continuous Deployment (CI/CD):** automates code integration, testing, and deployment
     * **GitHub Actions:** CI/CD automation platform within GitHub used to build, test, and deploy code through customizable workflows
     * **GitLab:**  provides Git repository hosting, version control, CI/CD pipelines, and tools for software development collaboration
