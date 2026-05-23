@@ -40,7 +40,7 @@
 * **Event-Driven Architecture:** system components communicate and react to events asynchronously as they occur
 * **RESTful API:** web service architecture that uses standard HTTP methods to enable comms and data exchange between system
 * **gRPC API:** high-performance remote procedure call framework for comms between distributed systems using Protocol Buffers
-* **Flux:** architecture by Facebook that emphasizes building unidirectional data flows for frotends using ReactJS
+* **Flux:** architecture by Facebook that emphasizes building unidirectional data flows for frontends using ReactJS
 
 ## UI/UX Design, Copywriting, and Typography
 * **Cofolios:** social media site for tech portfolios
