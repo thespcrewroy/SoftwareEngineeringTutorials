@@ -17,7 +17,8 @@
 * **GitHub Issues:** built-in GitHub tracking system used to report bugs, manage tasks, discuss features, and coordinate projects
 * **ServiceNow:** an enterprise cloud-based ticketing platform for IT service management and business workflow automatiom
 * **Trello:** visual project management tool that uses boards, lists, and cards to organize tasks and team workflows.
-* **Azure DevOps:** provides tools for version control, project tracking, and collaboration.
+* **Azure DevOps:** provides tools for version control, project tracking, and collaboration
+* **Slack:** workplace collaboration platform that supports messaging, file sharing, integrations, and team coordination
 
 ## System Design Concepts
 * **Unified Modeling Language (UML):** a standardized visual modeling language used to design software systems
@@ -82,13 +83,20 @@
 * **BitBucket:** git-based platform by Atlassian that supports code collaboration, version control, and CI/CD integration
 
 ## Text Editors, Code Editors, & Integrated Development Environments (IDEs)
-* **Sublime Text:** a fast and lightweight text editor known for its speed, simplicity, and powerful multi-cursor editing features.
+* **Nano:** simple command-line text editor for creating and editing files in Unix and Linux environments
+* **Sublime Text:** a fast and lightweight text editor known for its speed, simplicity, and powerful multi-cursor editing features
+* **Notepad++:** a lightweight Windows text and source code editor that supports multiple programming languages and plugins
+* **Vi:** lightweight command-line text editor commonly used for editing files and code in Unix and Linux systems.
+* **Vim:** lightweight and highly configurable text editor designed for efficient keyboard-based code editing and development
 * **NeoVim:** a highly extensible terminal-based text editor built for efficient coding and customization with modern plugins
+* **Emacs:** highly customizable text editor and development environment used for programming, editing, and task automation
 * **Doom Emacs:** a highly optimized and modular Emacs configuration framework designed for speed, ergonomics, and productivity
 * **Evil Emacs:** an Emacs extension layer that brings Vim-style modal editing and keybindings into the Emacs environment
 * **Zed:** a high-performance, multiplayer code editor designed for fast collaboration and modern developer workflows
-* **Notepad++:** a lightweight Windows text and source code editor that supports multiple programming languages and plugins
 * **VSCode:** lightweight and extensible code editor by Microsoft that supports debugging, extensions, and development
+* **BlueJ:** educational Java IDE designed to help beginners learn OOP and software development concepts
+* **NetBeans:** for developing, testing, and debugging applications in Java and other programming languages
+* **Eclipse:** used for developing, debugging, and managing software projects in multiple programming languages
 * **IntelliJ:** a powerful IDE by JetBrains designed primarily for Java and JVM-based application developmen
 * **PyCharm:** a Python-focused IDE by JetBrains that provides intelligent code assistance, debugging, and testing
 * **GoLand:** a JetBrains IDE specifically built for Go development with advanced code analysis, debugging, and refactoring features
@@ -129,6 +137,8 @@
 * **Bun:** fast all-in-one JavaScript NodeJS runtime and toolkit that includes a package manager, bundler, and testing
 * **Yarn:** a fast and reliable JavaScript package manager designed to improve dependency management and project consistency
 * **MacPorts:** an open-source package manager for macOS that simplifies installing and maintaining Unix-based software
+* **Homebew:** package manager for macOS and Linux used to install, update, and manage software from the command line
+* **Conda:** package and environment management system used to install dependencies and manage isolated environments
 
 ## Configuration
 * **.editorconfig:** helps maintain consistent coding styles/settings across different editors and IDEs for a code repository
@@ -217,6 +227,7 @@
 * **MERN Stack:** a full-stack JavaScript technology stack consisting of MongoDB, Express.js, React, and Node.js
 
 ## Computer Graphics
+* **Boid Flocks:** simulation algorithm that models the collective movement behavior of groups such as birds or fish using heuristics
 * **Processing:** an open-source programming language and visual arts framework for creating interactive graphics
 * **ThreeJS:** a JavaScript library used to create and render 3D graphics and animations in web browsers using WebGL
 * **Bokeh:** a Python visualization library used to create interactive, web-based data visualizations and dashboards
@@ -284,6 +295,7 @@
 ## Systems Programming
 * **C:** a procedural programming language widely used for operating systems, embedded systems, and low-level software
 * **C++:** a high-performance programming language used mainly for performance cirtical applications
+* **GNU Debugger:** CLI debugger used to analyze, troubleshoot, and control the execution of programs written in systems languages
 * **Lua:** lightweight embeddable scripting language designed for fast execution for games, embedded systems, and app scripting
 * **Rust:** systems programming language focused on performance, memory safety, and concurrency garbage collection
 * **WebAssembly (Wasm):** a low-level binary instruction format for optimizing performance on frotends when used with JavaScript
@@ -291,9 +303,11 @@
 ## Desktop App Development
 * **.NET:** a Microsoft software development platform and runtime for building enterprise applications using C# and F#
 * **ElectronJS:** a framework for building cross-platform desktop applications using Javascript, CSS, and HTML
+* **JavaFX:** Java framework for building desktop applications with graphical user interfaces and multimedia features
 
 ## Mobile App Development
 * **Swift:** modern programming language developed by Apple for building fast, safe, and efficient applications across Apple OS
+* **SFSymbols:** Apple’s iconography library that provides scalable vector symbols for use in iOS, macOS, watchOS, and tvOS
 * **Kotlin:** a modern statically typed programming language designed for concise, safe, and interoperable development for Android
 * **SwiftUI:** Apple’s declarative UI framework for building user interfaces across iOS, macOS, watchOS, and tvOS applications
 * **Jetpack Compose:** Android’s modern declarative UI toolkit by Google for building native Android interfaces
@@ -326,7 +340,11 @@
 
 ## Developer Tools
 * **Chrome Devtools:** inspect, test, profile, and debug websites and web applications
+* **Bitly:** a URL shortening and link management platform used to create, track, and share shortened web links
 * **Linktree:** a link-in-bio platform that lets users share multiple links through a single customizable landing page
+* **Latex:** document preparation system used for creating professionally formatted technical, scientific, and academic documents
+* **Overleaf:** cloud-based collaborative LaTeX editor for writing, editing, and publishing technical and academic documents
+* **XQuartz:** open-source X Window System server that enables Linux and Unix graphical applications to run on macOS
 
 ## Marketing Tools
 * **AWS Simple Messaging Service (SMS):** a fully managed messaging service by AWS used to send notifications and enable pub/sub comms
