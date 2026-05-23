@@ -74,6 +74,8 @@
 * **Backend as a Service (BaaS):** provides ready-made backend features such as databases, authentication, and APIs
 * **Containerization as a Service (CaaS):** deployment, management, and orchestration of containerized apps using Docker/K8s
 * **Digital Ocean:** cloud infrastructure platform providing virtual servers, databases, storage, networking, deployment, etc.
+* **Gitpod:** cloud-based development environment platform that provides ready-to-code workspaces directly from Git repos
+* **GitHub Codespaces:** cloud-based development environment that provides fully configured coding workspaces in GitHub
 * **Amazon Web Services (AWS):** comprehensive cloud computing platform
 * **Microsft Azure:** Microsoft’s cloud computing platform
 * **Google Cloud Platform (GCP):** a cloud services platform by Google
@@ -187,6 +189,10 @@
 * **Azure Functions:** Microsoft’s serverless computing service that runs event-driven code on demand
 * **AWS Lambda:** a serverless computing service by Amazon that runs code automatically in response to events
 * **Postman:** an API development and testing platform used to design, test, document, and monitor APIs
+* **Puppeteer:** Node.js library that automates and controls web browsers for testing, scraping, and web interaction tasks
+* **Beautiful Soup:** Python library used for parsing and extracting data from HTML and XML web pages
+* **Selenium:** browser automation framework used for web application testing and automated interaction with web pages
+* **Scrapy:** Python framework for building scalable web scraping and web crawling applications
 * **Firebase**: Google’s backend-as-a-service (BaaS) with authentication, databases, hosting, analytics, and cloud functions
 
 ## Database
@@ -213,20 +219,44 @@
 * **ThreeJS:** a JavaScript library used to create and render 3D graphics and animations in web browsers using WebGL
 * **Bokeh:** a Python visualization library used to create interactive, web-based data visualizations and dashboards
 
-## Hosting & Deployment
+## Deployment & Hosting
 * **Blue Host:** a web hosting provider that offers domain, business emails, website hosting, and WordPress integration services
 * **Porkbun:** a domain registrar and web services provider known for affordable domain registration, hosting, and DNS management
 * **GoDaddy:** a domain registrar and web hosting company that provides website, email, and online business services
 * **AWS Chalice:** a Python serverless framework for deploying Python applications
+* **GitHub Pages:** static site hosti ng service that deploys websites directly from GitHub repositories
+* **Heroku:** cloud platform that simplifies application deployment, hosting, and scaling for developers
+* **AWS Elastic Beanstalk:** cloud deployment service that automatically manages infrastructure and scaling web apps on AWS
+* **Vercel:** cloud platform for deploying, hosting, and scaling frontend web applications and serverless functions
+* **Netlify:** cloud platform for building, deploying, and hosting modern web apps with CI/CD and serverless features
+* **Hetzner:** cloud and dedicated hosting provider that offers scalable servers, storage, and infrastructure services
+* **Cloudinary:** cloud-based media management platform for storing, optimizing, transforming, and delivering images and videos
+* **Pythonanywhere:** cloud-based platform for developing, hosting, and running Python applications directly from a web browser
 
 ## DevOps
-* **Azure DevOps:** provides tools for CI/CD pipelines and testing
+* **Orchestration:** the coordination of automated tasks across the SDLC, enabling teams to manage complex environments efficiently
+    * **Ansible:** open-source IT automation tool used to configure systems, deploy applications, and orchestrate infrastructure
+    * **Kubernetes (K8s):** automates the deployment, scaling, networking, and management of containerized applications
+    * **Puppet:** automates infrastructure provisioning and system configuration across servers
+    * **SaltStacked:** automates infrastructure management, remote execution, and system configuration at scale using Python
+    * **Terraform:** automates the creation and management of cloud and on-premises infrastructure using infrastructure as Code (IaC)
 * **Containerization/Virtualization:** create isolated computing environments to eliminate dependecy issues accross different infrastructures
+    * **Docker:** packages applications and their dependencies into portable, isolated containers
+    * **AWS EC2:** provides scalable virtual servers in the cloud for hosting applications as a service
 * **Unit Testing:** software testing method that verifies individual components or functions of an application work correctly in isolation
-* **Continuous Integration and Continuous Delivery/Deployment (CI/CD):** automates code integration, testing, and deployment
+    * **Pytest:** a Python testing framework used for writing and running simple to complex automated test cases
+    * **Jest:** a JavaScript testing framework commonly used for testing React applications and other frontend or backend code.
+    * **Cypress:** an end-to-end testing framework for web applications that enables automated browser testing with real-time debugging
+    * **TestFlight:** an Apple platform used to distribute and beta test mobile iOS, iPadOS, watchOS, and tvOS applications before release
+* **Continuous Integration and Continuous Deployment (CI/CD):** automates code integration, testing, and deployment
     * **GitHub Actions:** CI/CD automation platform within GitHub used to build, test, and deploy code through customizable workflows
     * **GitLab:**  provides Git repository hosting, version control, CI/CD pipelines, an d tools for software development collaboration
     * **BitBucket:** git-based platform by Atlassian that supports code collaboration, version control, and CI/CD integration
+    * **Azure DevOps:** provides tools for CI/CD pipelines and testing
+    * **CircleCI:** automates code building, testing, and deployment pipelines for software delivery
+    * **TravisCI:** automates software testing and deployment directly from source code repositories
+    * **CodeMagic:** automates building, testing, and deploying mobile applications, especially for Flutter mobile projects
+    * **Jenkins:** automates software building, testing, and deployment through customizable pipelines
 
 ## Documentation
 * **OpenAPI:** a specification standard for describing and documenting RESTful APIs in a machine-readable format
