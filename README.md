@@ -99,7 +99,6 @@
 * **Eclipse:** used for developing, debugging, and managing software projects in multiple programming languages
 * **IntelliJ:** a powerful IDE by JetBrains designed primarily for Java and JVM-based application developmen
 * **PyCharm:** a Python-focused IDE by JetBrains that provides intelligent code assistance, debugging, and testing
-* **GoLand:** a JetBrains IDE specifically built for Go development with advanced code analysis, debugging, and refactoring features
 * **WebStorm:** a JetBrains IDE for JavaScript and web development that offers coding assistance, debugging, and framework integration
 * **Visual Studio:** a IDE from Microsoft compatible with many languages, and used for developing desktop, web, cloud, and mobile apps
 * **Xcode:** Apple’s IDE used for building, testing, and deploying applications for iOS, macOS, watchOS, and tvOS
