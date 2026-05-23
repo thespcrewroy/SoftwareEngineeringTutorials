@@ -6,14 +6,6 @@
  * **Waterfall Methodology:** each project phase is completed sequentially before moving to the next stage
  * **Agile Methodology:** emphasizes iterative progress, collaboration, adaptability, and continuous delivery of value
  * **SCRUM:** agile project management framework that organizes work into iterative sprints for collaboration efficiency
- * **Software Development Life Cycle (SDLC):** structured process for deveoping software and software systems
-     * **Plan:** goals, requirements, feasibility, timelines, and resources are identified and organized
-     * **Analyze:** business and technical requirements are gathered, evaluated, and documented
-     * **Design:** creating the software architecture, user interfaces, databases, and system specifications
-     * **Develop:** phase where developers write and build the application’s code and core functionality
-     * **Test:** stage where the software is evaluated for bugs, security issues, performance, and functionality
-     * **Deploy:** release and distribute the software to users or production environments
-     * **Maintain:** ongoing phase of updating, monitoring, fixing, and improving the software after release
  
 ## Project Management and Collaboration
 * **Microsoft Office Suite:** collection of productivity applications such as Word, Excel, PowerPoint, and Outlook
@@ -76,7 +68,9 @@
 * **Digital Ocean:** cloud infrastructure platform providing virtual servers, databases, storage, networking, deployment, etc.
 * **Gitpod:** cloud-based development environment platform that provides ready-to-code workspaces directly from Git repos
 * **GitHub Codespaces:** cloud-based development environment that provides fully configured coding workspaces in GitHub
+* **Terraform:** automates the creation and management of cloud and on-premises infrastructure using infrastructure as Code (IaC)
 * **Amazon Web Services (AWS):** comprehensive cloud computing platform
+* **AWS Cloud Development Kit (CDK):** framework that provides AWS services using programming languages instead of config giles
 * **Microsft Azure:** Microsoft’s cloud computing platform
 * **Google Cloud Platform (GCP):** a cloud services platform by Google
 
@@ -115,6 +109,14 @@
     * **Liskov Substitution Principle:** subtypes should be replaceable for their base types without altering program correctness
     * **Interface Segregation Principle:** clients should not be forced to depend on interfaces they do not use
     * **Dependency Inversion Principle:** high-level modules should depend on abstractions rather than concrete implementations
+* **Software Development Life Cycle (SDLC):** structured process for deveoping software and software systems
+    * **Plan:** goals, requirements, feasibility, timelines, and resources are identified and organized
+    * **Analyze:** business and technical requirements are gathered, evaluated, and documented
+    * **Design:** creating the software architecture, user interfaces, databases, and system specifications
+    * **Develop:** phase where developers write and build the application’s code and core functionality
+    * **Test:** stage where the software is evaluated for bugs, security issues, performance, and functionality
+    * **Deploy:** release and distribute the software to users or production environments
+    * **Maintain:** ongoing phase of updating, monitoring, fixing, and improving the software after release
 
 ## Build Tools
 * **Apache Maven**: a build automation and project management tool primarily used for Java projects and packages
@@ -224,7 +226,7 @@
 * **Porkbun:** a domain registrar and web services provider known for affordable domain registration, hosting, and DNS management
 * **GoDaddy:** a domain registrar and web hosting company that provides website, email, and online business services
 * **AWS Chalice:** a Python serverless framework for deploying Python applications
-* **GitHub Pages:** static site hosti ng service that deploys websites directly from GitHub repositories
+* **GitHub Pages:** static site hosting service that deploys websites directly from GitHub repositories
 * **Heroku:** cloud platform that simplifies application deployment, hosting, and scaling for developers
 * **AWS Elastic Beanstalk:** cloud deployment service that automatically manages infrastructure and scaling web apps on AWS
 * **Vercel:** cloud platform for deploying, hosting, and scaling frontend web applications and serverless functions
@@ -238,11 +240,11 @@
     * **Ansible:** open-source IT automation tool used to configure systems, deploy applications, and orchestrate infrastructure
     * **Kubernetes (K8s):** automates the deployment, scaling, networking, and management of containerized applications
     * **Puppet:** automates infrastructure provisioning and system configuration across servers
-    * **SaltStacked:** automates infrastructure management, remote execution, and system configuration at scale using Python
-    * **Terraform:** automates the creation and management of cloud and on-premises infrastructure using infrastructure as Code (IaC)
+    * **SaltStack:** automates infrastructure management, remote execution, and system configuration at scale using Python
 * **Containerization/Virtualization:** create isolated computing environments to eliminate dependecy issues accross different infrastructures
     * **Docker:** packages applications and their dependencies into portable, isolated containers
     * **AWS EC2:** provides scalable virtual servers in the cloud for hosting applications as a service
+    * **AWS VPC:** creates isolated virtual networks within AWS for securely hosting and managing cloud resources
 * **Unit Testing:** software testing method that verifies individual components or functions of an application work correctly in isolation
     * **Pytest:** a Python testing framework used for writing and running simple to complex automated test cases
     * **Jest:** a JavaScript testing framework commonly used for testing React applications and other frontend or backend code.
@@ -250,7 +252,7 @@
     * **TestFlight:** an Apple platform used to distribute and beta test mobile iOS, iPadOS, watchOS, and tvOS applications before release
 * **Continuous Integration and Continuous Deployment (CI/CD):** automates code integration, testing, and deployment
     * **GitHub Actions:** CI/CD automation platform within GitHub used to build, test, and deploy code through customizable workflows
-    * **GitLab:**  provides Git repository hosting, version control, CI/CD pipelines, an d tools for software development collaboration
+    * **GitLab:**  provides Git repository hosting, version control, CI/CD pipelines, and tools for software development collaboration
     * **BitBucket:** git-based platform by Atlassian that supports code collaboration, version control, and CI/CD integration
     * **Azure DevOps:** provides tools for CI/CD pipelines and testing
     * **CircleCI:** automates code building, testing, and deployment pipelines for software delivery
