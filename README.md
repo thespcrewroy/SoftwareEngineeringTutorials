@@ -79,6 +79,7 @@
 ## Version Control
 * **Git:** distributed version control system used to track code changes, manage collaboration, and maintain project history
 * **GitHub:** cloud-based platform for hosting, managing, and collaborating on Git repositories and software projects
+* **GitHub Dekstop:** free and open-source app that simplifies working with Git repositories through a graphical user interface
 * **GitLab:**  provides Git repository hosting, version control, CI/CD pipelines, and tools for software development collaboration
 * **GitKraken:** graphical Git client and with visualizations forde branches, commits, and pull requests
 * **BitBucket:** git-based platform by Atlassian that supports code collaboration, version control, and CI/CD integration
