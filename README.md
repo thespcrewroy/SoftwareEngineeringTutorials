@@ -61,6 +61,7 @@
 * **Wordpress:** web builder offering the most-customization for software engineers
 
 ## Cloud Computing & Infrastructure
+* **Network as a Service (NaaS):** customers rent networking services from cloud providers instead of their own physical network infra
 * **Infrastructure as a Service (IaaS):** provides virtualized computing resources such as servers, storage, and networking
 * **Platform as a Service (PaaS):** offers a managed platform for developing, running, and deploying applications
 * **Software as a Service (SaaS):** applications are accessed through the internet on a subscription basis
