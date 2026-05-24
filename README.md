@@ -361,6 +361,7 @@
 
 
 ## UGA Courses (Computer Science Theory Repository)
+* [Case Studies](https://medium.com/@sr42946/list/new-media-case-study-collection-c0b52662cdc9)
 * Computing, Ethics, and Society (CSCI 3030)
 * Intro to Computer Science and Object Oriented Programming (CSCI 1301-1301L)
 * Software Development using Object Oriented Programming (CSCI 1302)
