@@ -48,6 +48,7 @@
 * **Behance:** social media site for creative work
 * **Diagrams.net:** create wireframes for websites, mobile apps, and software interfaces using built-in UI components
 * **Figma:** acollaborative cloud-based design platform used for UI/UX design, prototyping, and interface development
+* **[Figma Community](https://www.figma.com/community):** social media for Figma designs
 * **[Fontawesome](https://fontawesome.com/):** an icon toolkit and library that provides scalable vector icons and social logos
 * **[Google Fonts](https://fonts.google.com/):** free web font library for integrating customizable fonts into websites
 
