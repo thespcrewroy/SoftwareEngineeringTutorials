@@ -8,32 +8,44 @@
 * [Code Ninjas](https://www.codeninjas.com/): coding curriculum and challenges for young learners
 * [Coding Atlas](https://www.coderatlas.com/): visual map of developer paths and skill trees
 * [CodingBat](https://codingbat.com/java): code practice exercises for Java and Python
-* [Coursera]: online platform for university-level courses and degree programs
-* [CSVisTool]: interactive visualizations for CS data structures and algorithms
-* [Edx CS50]: Harvard's free computer science courses
-* [Fireship.io]: fast-paced video tutorials on modern web development topics
-* [FreeCodeCamp]: free web development curriculum with certifications
-* [GitHub Global Campus]: free developer tools and resources for students
-* [GitHub Skills]: interactive courses to learn Git and GitHub workflows
-* [Google Cloud Labs]: hands-on labs for learning Google Cloud services
-* [Google For Developers]: developer docs, APIs, and learning resources from Google
-* [Java Developer Roadmap]: step-by-step guide to becoming a Java developer
-* [Jetbrains Academy on Hyper Skill]: learn the Jetbrains stack
-* [JSMasteryPro]: modern JavaScript and React projects with full tutorials
-* [LearnToCloud]: roadmap and resources for learning cloud computing skills
-* [LeetCode Learning]: structured courses and study plans on LeetCode
-* [Markdown Guide]: free reference guide to Markdown syntax and usage
-* [MIT OpenCourseware]: free MIT course materials for a wide range of subjects
-* [Open-Source CS Degree]: open-source CS learning resource repository
-* [Refactoring Guru]: discover and apply refactoring patterns
-* [Sphere Online Judge]: online judge system with 20,000 competitive prog problems
-* [StackUp]: earn rewards by completing coding quests and campaigns
-* [The Odin Project]: free full-stack web development curriculum
-* [ThreeJSMastery]: tutorials for building 3D graphics and animations with Three.js
-* [Udemy]: online marketplace for thousands of courses on tech and other topics
-* [VisualGo]: animated visualization of data structures and algorithms
-* [W3 Schools]: beginner-friendly web development tutorials for HTML, CSS, and JS
-* [Zero To Mastery]: comprehensive coding courses from beginner to advanced
+* [CSVisTool](https://csvistool.com/): interactive visualizations for CS data structures and algorithms
+* [Edx CS50](https://www.edx.org/search?q=CS50&tab=course&page=1): Harvard's free computer science courses
+* [Fireship.io](https://fireship.io/): fast-paced video tutorials on modern web development topics
+* [FreeCodeCamp](https://www.freecodecamp.org/): free web development curriculum with certifications
+* [GeeksForGeeks](https://www.geeksforgeeks.org/): all-in-one learning portal for well explained CS topics
+* [GitHub Global Campus](https://education.github.com/globalcampus/student): free developer tools and resources for students
+* [GitHub Skills](https://skills.github.com/): interactive courses to learn Git and GitHub workflows
+* [Google Cloud Labs](https://www.cloudskillsboost.google/users/sign_in): hands-on labs for learning Google Cloud services
+* [Google For Developers](https://developers.google.com/learn): developer docs, APIs, and learning resources from Google
+* [Java Developer Roadmap](https://roadmap.sh/java): step-by-step guide to becoming a Java developer
+* [Jetbrains Academy on Hyper Skill](https://hyperskill.org/providers/2?utm_medium=email&utm_campaign=education_auto-reply_student&utm_content=license-certificate-for-your-jetbrains-educational-pack): learn the Jetbrains stack
+* [JSMasteryPro](https://www.jsmastery.pro/): modern JavaScript and React projects with full tutorials
+* [LearnToCloud](https://learntocloud.guide/): roadmap and resources for learning cloud computing skills
+* [LeetCode Learning](https://leetcode.com/): structured courses and study plans on LeetCode
+* [Markdown Guide](https://www.markdownguide.org/getting-started/): free reference guide to Markdown syntax and usage
+* [MIT OpenCourseware](https://ocw.mit.edu/search/?t=Computer%20Science): free MIT course materials for a wide range of subjects
+* [Open-Source CS Degree](https://ossu.firebaseapp.com/#/curriculum): open-source CS learning resource repository
+* [Refactoring Guru](https://refactoring.guru/): discover and apply refactoring patterns
+* [Sphere Online Judge](https://www.spoj.com/): online judge system with 20,000 competitive prog problems
+* [StackUp](https://app.stackup.dev/): earn rewards by completing coding quests and campaigns
+* [The Odin Project](https://www.theodinproject.com/): free full-stack web development curriculum
+* [ThreeJSMastery](https://threejs-journey.com/?c=p3#bruno-simon): tutorials for building 3D graphics and animations with Three.js
+* [VisualGo](https://visualgo.net/en): animated visualization of data structures and algorithms
+* [W3 Schools](https://www.w3schools.com/): beginner-friendly web development tutorials for HTML, CSS, and JS
+* [Zero To Mastery](https://zerotomastery.io/courses/): comprehensive coding courses from beginner to advanced
+* YouTubers
+    * Traversy Media: web dev in ReactJS and NodeJS
+    * AcademindL web dev and mobile pp dev
+    * Codecourse: web dev using PHP and Laravel
+    * The Coding Train: creative coding using p5.js
+    * Programming with Mosh: coding from python to C#
+    * Derek Banas: python, java, and Swift development
+    * [Coding with Chris](https://www.youtube.com/@CodeWithChris): SwiftUI dev
+    * [Jared Davidson](https://www.youtube.com/@Archetapp/videos): SwiftuI dev
+    * [CodeAesthetic](https://www.youtube.com/@CodeAesthetic): code styling best practices
+    * [Matt Pocock](https://www.youtube.com/@mattpocockuk): typescript developer
+    * [Web Dev Simplified](https://www.youtube.com/@WebDevSimplified/videos): pure web dev content
+
 
 # Mobile App Development Resources
 * [Hackingwithswift.com]: free Swift and iOS tutorials with practical projects

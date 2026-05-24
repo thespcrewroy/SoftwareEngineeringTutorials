@@ -233,6 +233,7 @@
 * **Boid Flocks:** simulation algorithm that models the collective movement behavior of groups such as birds or fish using heuristics
 * **Processing:** an open-source programming language and visual arts framework for creating interactive graphics
 * **ThreeJS:** a JavaScript library used to create and render 3D graphics and animations in web browsers using WebGL
+* **p5.js:** JavaScript library for artists designed create interactive graphics and designs in the browser
 * **Bokeh:** a Python visualization library used to create interactive, web-based data visualizations and dashboards
 
 ## Deployment & Hosting
@@ -349,6 +350,7 @@
 * **Latex:** document preparation system used for creating professionally formatted technical, scientific, and academic documents
 * **Overleaf:** cloud-based collaborative LaTeX editor for writing, editing, and publishing technical and academic documents
 * **XQuartz:** open-source X Window System server that enables Linux and Unix graphical applications to run on macOS
+* **Stack Overflow:** a question-and-answer website for computer programmers
 
 ## Marketing & Sales Tools
 * **AWS Simple Messaging Service (SMS):** a fully managed messaging service by AWS used to send notifications and enable pub/sub comms
