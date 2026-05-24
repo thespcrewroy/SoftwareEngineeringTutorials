@@ -362,10 +362,10 @@
 
 ## UGA Courses (Computer Science Theory Repository)
 * Computing, Ethics, and Society (CSCI 3030)
-* Intro to Computer Science and Object Oriented Programming (CSCI 1301L)
+* Intro to Computer Science and Object Oriented Programming (CSCI 1301-1301L)
 * Software Development using Object Oriented Programming (CSCI 1302)
 * Functional Programming (CSCI 4520)
-* Systems Programming (CSCI 1730)
+* Systems Programming (CSCI 1730-1730L)
 * Discrete Math for Computer Science (MATH/CSCI 2610)
 * Introduction to Theory of Computing & Automata (CSCI 2670)
 * Data Structures (CSCI 2720)
