@@ -43,16 +43,19 @@
 * **Flux:** architecture by Facebook that emphasizes building unidirectional data flows for frontends using ReactJS
 
 ## UI/UX Design, Copywriting, and Typography
+* **[Brandmark.io](https://brandmark.io/):** create AI-powered logo designs
 * **Cofolios:** social media site for tech portfolios
 * **Dribble:** social media site for digital designers
 * **Behance:** social media site for creative work
 * **Diagrams.net:** create wireframes for websites, mobile apps, and software interfaces using built-in UI components
+* **[Google Gemini Stitch](https://www.usegalileo.ai/explore):** Figma compatible UI/UX mockup generations developed by Google
+* **[Claude Design](https://claude.ai/design):** Figma compatible UI/UX mockup generations developed by Anthropic
 * **Figma:** acollaborative cloud-based design platform used for UI/UX design, prototyping, and interface development
 * **[Figma Community](https://www.figma.com/community):** social media for Figma designs
 * **[Fontawesome](https://fontawesome.com/):** an icon toolkit and library that provides scalable vector icons and social logos
 * **[Google Fonts](https://fonts.google.com/):** free web font library for integrating customizable fonts into websites
-* **Canva:** an online graphic design platform that enables users to create visual content for a variety of design reasons
-* **Adobe:** a software company known for creative and digital media tools
+* **[Figma Make](https://www.figma.com/community/make):** create websites from UIs, mockups, and user flows
+* **GoDaddy Airo:** create websites, generate logos, and manage marketing tasks
 
 ## Web Builders
 * **Shopify:** web builder for e-commerce stores
@@ -100,6 +103,7 @@
 * **Evil Emacs:** an Emacs extension layer that brings Vim-style modal editing and keybindings into the Emacs environment
 * **Zed:** a high-performance, multiplayer code editor designed for fast collaboration and modern developer workflows
 * **VSCode:** lightweight and extensible code editor by Microsoft that supports debugging, extensions, and development
+* **[Cursor.ai](https://cursor.sh/pricing):** AI-powered code editor
 * **BlueJ:** educational Java IDE designed to help beginners learn OOP and software development concepts
 * **NetBeans:** for developing, testing, and debugging applications in Java and other programming languages
 * **Eclipse:** used for developing, debugging, and managing software projects in multiple programming languages
@@ -109,6 +113,8 @@
 * **Visual Studio:** a IDE from Microsoft compatible with many languages, and used for developing desktop, web, cloud, and mobile apps
 * **Xcode:** Apple’s IDE used for building, testing, and deploying applications for iOS, macOS, watchOS, and tvOS
 * **Android Studio:** Google’s official IDE for coding, testing, debugging, and UI design for Android App Development
+* **[Google Gemini Antigravity](https://antigravity.google/):** AI-powered IDE developed by Google
+* **GitHub Copilot:** auto-complete for code-editors and IDEs
 
 ## Software Development Concepts
 * **Preload, Render, Precache, Lazy Loading (PRPL) Pattern**: a web performance architecture strategy that improves application loading speed
@@ -230,6 +236,10 @@
 
 ## Full Stack
 * **MERN Stack:** a full-stack JavaScript technology stack consisting of MongoDB, Express.js, React, and Node.js
+* **[Google Gemini Opal](https://opal.google/landing/):** empower anyone to build and deploy AI mini apps without coding
+* **[Google Gemini Jules](https://jules.google.com/session):** coding agent developed by Google to perform app dev tasks
+* **[Claude Code](https://claude.ai/new):** coding agent developed by anthropic to perform development tasks
+* **[ChatGPT Codex](https://chatgpt.com/codex):** coding agent developed by OpenAI to perform development tasks
 
 ## Computer Graphics
 * **Boid Flocks:** simulation algorithm that models the collective movement behavior of groups such as birds or fish using heuristics
@@ -297,6 +307,7 @@
 * **Gatsby:** a React-based static site generation framework used to build fast and optimized websites
 * **GitHub Gist:** a lightweight GitHub feature for storing, sharing, and version-controlling individual code snippets and text files
 * **[Pastebin](https://pastebin.com/):** online service for storing and sharing plain text, code snippets, and logs
+* **[Scribe](https://get.scribehow.com/install-extension/):** AI-powered documentation generator 
 
 ## Systems Programming
 * **C:** a procedural programming language widely used for operating systems, embedded systems, and low-level software
@@ -333,6 +344,7 @@
 * **Roblox Studio:** official game development environment for creating, testing, and publishing experiences on Roblox
 * **Cocos2d-x:** open-source cross-platform game development framework used for building 2D games
 * **OpenGL:** a graphics API that interacts with the GPU for rendering 2D and 3D vector graphics
+* **[Google Gemini Genie](https://labs.google/fx/projectgenie):** generate fully pre-packaged video games with AI
 
 ## Web3
 * **Soroban:** smart contract platform built on the Stellar blockchain that enables scalable and developer-friendly app development
@@ -353,7 +365,6 @@
 * **Overleaf:** cloud-based collaborative LaTeX editor for writing, editing, and publishing technical and academic documents
 * **XQuartz:** open-source X Window System server that enables Linux and Unix graphical applications to run on macOS
 * **Stack Overflow:** a question-and-answer website for computer programmers
-
 
 ## UGA Courses (Computer Science Theory Repository)
 * [Case Studies](https://medium.com/@sr42946/list/new-media-case-study-collection-c0b52662cdc9)
