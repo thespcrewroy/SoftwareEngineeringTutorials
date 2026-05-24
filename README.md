@@ -382,6 +382,7 @@
 * Native App Development in Swift & React-Native (NMIX 4030)
 * Mobile Software Development in Kotlin (CSCI 4060)
 * Introduction to Computational Investing (CSCI 4170)
+* Principles of FinTech (BUSN 3700)
 * Software Engineering (CSCI 4050)
 * Database Management (CSCI 4370)
 * Cloud Computing (CSCI 4795)
