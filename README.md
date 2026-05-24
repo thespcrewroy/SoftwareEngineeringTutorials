@@ -51,6 +51,8 @@
 * **[Figma Community](https://www.figma.com/community):** social media for Figma designs
 * **[Fontawesome](https://fontawesome.com/):** an icon toolkit and library that provides scalable vector icons and social logos
 * **[Google Fonts](https://fonts.google.com/):** free web font library for integrating customizable fonts into websites
+* **Canva:** an online graphic design platform that enables users to create visual content for a variety of design reasons
+* **Adobe:** a software company known for creative and digital media tools
 
 ## Web Builders
 * **Shopify:** web builder for e-commerce stores
@@ -351,17 +353,6 @@
 * **Overleaf:** cloud-based collaborative LaTeX editor for writing, editing, and publishing technical and academic documents
 * **XQuartz:** open-source X Window System server that enables Linux and Unix graphical applications to run on macOS
 * **Stack Overflow:** a question-and-answer website for computer programmers
-
-## Marketing & Sales Tools
-* **AWS Simple Messaging Service (SMS):** a fully managed messaging service by AWS used to send notifications and enable pub/sub comms
-* **AWS Simple Email Service (SES):** a cloud-based email service by Amazon used to send, receive, and emails at scale
-* **Mailchimp:** an email marketing and automation platform used to create campaigns, manage audiences, and track marketing performance
-* **Customer Relationship Management (CRM):** a system or strategy used to manage a company’s interactions, relationships, and data
-     * **Salesforce:** a cloud-based CRM platform used to manage sales, customer service, marketing, and business workflows
-     * **Hubspot:** a marketing automation platform that helps businesses manage sales, customer service, and inbound marketing
-* **CameraDecision:** compare and review digital cameras
-* **Canva:** an online graphic design platform that enables users to create visual content for a variety of design reasons
-* **Adobe:** a software company known for creative and digital media tools
 
 
 ## UGA Courses (Computer Science Theory Repository)
