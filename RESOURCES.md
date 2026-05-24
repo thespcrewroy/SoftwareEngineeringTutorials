@@ -1,5 +1,6 @@
 # Software Engineering Resources
 
+## Web Development Resources
 * [30 Days of React](https://github.com/Asabeneh/30-Days-Of-React): learn react programming roadmap
 * [Backend Developer Roadmap](https://roadmap.sh/backend): step-by-step guide to becoming a backend developer
 * [Boot.Dev](https://www.boot.dev/): backend development courses with a gamified learning experience
@@ -33,21 +34,8 @@
 * [VisualGo](https://visualgo.net/en): animated visualization of data structures and algorithms
 * [W3 Schools](https://www.w3schools.com/): beginner-friendly web development tutorials for HTML, CSS, and JS
 * [Zero To Mastery](https://zerotomastery.io/courses/): comprehensive coding courses from beginner to advanced
-* YouTubers
-    * Traversy Media: web dev in ReactJS and NodeJS
-    * AcademindL web dev and mobile pp dev
-    * Codecourse: web dev using PHP and Laravel
-    * The Coding Train: creative coding using p5.js
-    * Programming with Mosh: coding from python to C#
-    * Derek Banas: python, java, and Swift development
-    * [Coding with Chris](https://www.youtube.com/@CodeWithChris): SwiftUI dev
-    * [Jared Davidson](https://www.youtube.com/@Archetapp/videos): SwiftuI dev
-    * [CodeAesthetic](https://www.youtube.com/@CodeAesthetic): code styling best practices
-    * [Matt Pocock](https://www.youtube.com/@mattpocockuk): typescript developer
-    * [Web Dev Simplified](https://www.youtube.com/@WebDevSimplified/videos): pure web dev content
-
-
-# Mobile App Development Resources
+    
+## Mobile App Development Resources
 * [Hackingwithswift.com]: free Swift and iOS tutorials with practical projects
 * [Beginning IOS17 Programming With Swift]: beginner guide to iOS 17 app development
 * [Appcoda]: iOS and Swift tutorials and books for app developers
@@ -57,6 +45,18 @@
 * [XCode Help Prepare for App Distribution]: submitting apps to the App Store
 * [Xcode Help Launching an App]: guide for launching an app on the App Store
 
-# Documentation
+## Documentation
 * [SwiftLanguageGuide]: official Swift language reference and documentation
 
+## YouTubers
+* Traversy Media: web dev in ReactJS and NodeJS
+* AcademindL web dev and mobile pp dev
+* Codecourse: web dev using PHP and Laravel
+* The Coding Train: creative coding using p5.js
+* Programming with Mosh: coding from python to C#
+* Derek Banas: python, java, and Swift development
+* [Coding with Chris](https://www.youtube.com/@CodeWithChris): SwiftUI dev
+* [Jared Davidson](https://www.youtube.com/@Archetapp/videos): SwiftuI dev
+* [CodeAesthetic](https://www.youtube.com/@CodeAesthetic): code styling best practices
+* [Matt Pocock](https://www.youtube.com/@mattpocockuk): typescript developer
+* [Web Dev Simplified](https://www.youtube.com/@WebDevSimplified/videos): pure web dev content
