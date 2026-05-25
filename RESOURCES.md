@@ -81,7 +81,12 @@
 * [Xcode Help: Launching an App](https://help.apple.com/xcode/mac/current/#/dev60b6fbbc7): guide for launching an app on the App Store
 
 ## Documentation
-* [SwiftLanguageGuide](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/): official Swift language reference and documentation
+* [SwiftLanguageGuide](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/)
+* [SwiftUI](https://developer.apple.com/documentation)
+* [MongoDB](https://www.mongodb.com/)
+* [SQLite](https://github.com/sqlite/sqlite)
+* [Docusaurus](https://docusaurus.io/)
+* [ShadCN](https://ui.shadcn.com/)
 
 ## YouTubers
 * Traversy Media: web dev in ReactJS and NodeJS
@@ -101,9 +106,14 @@
 
 ## Newsletters
 * [theprimeagen](https://www.reddit.com/r/theprimeagen/): focused on programming, software engineering, developer culture
-* [The GitHub blog](https://github.blog/): shares news, tutorials, engineering insights, product updates, and software development trends
 * [DEV Community](https://dev.to/): an online platform where developers share articles, tutorials, discussions, and insights
 * [Web Dev](https://web.dev/): building and maintaining websites and web applications using frontend, backend, and database technologies
 * [YCombinator Hacker News](https://news.ycombinator.com/news): social news focused on technology, startups, programming, and entrepreneurship
 * [Stories About Software](https://daedtech.com/): software engineering blog by Erik Dietrich that shares insights, opinions, and stories about programming
+
+## Forums
+* [OpenAI Developer Forum](https://community.openai.com/): developers discuss APIs, tools, best practices, and technical topics related to OpenAI technologies
+* [Docusaurus Blog](https://docusaurus.io/blog): official blog for Docusaurus that shares updates, tutorials, and insights about the documentation
+* [The GitHub blog](https://github.blog/): shares news, tutorials, engineering insights, product updates, and software development trends
+
 
