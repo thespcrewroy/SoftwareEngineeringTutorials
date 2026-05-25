@@ -58,3 +58,13 @@
 * [CodeAesthetic](https://www.youtube.com/@CodeAesthetic): code styling best practices
 * [Matt Pocock](https://www.youtube.com/@mattpocockuk): typescript developer
 * [Web Dev Simplified](https://www.youtube.com/@WebDevSimplified/videos): pure web dev content
+
+## Podcasts
+* [The ReadME Podcast](https://github.com/readme/podcast): developer-focused podcast by GitHub about software, open source, and the people
+
+## Newsletters
+* [theprimeagen](https://www.reddit.com/r/theprimeagen/): focused on programming, software engineering, developer culture
+* [The GitHub blog](https://github.blog/): shares news, tutorials, engineering insights, product updates, and software development trends
+* [DEV Community](https://dev.to/): an online platform where developers share articles, tutorials, discussions, and insights
+* [Web Dev](https://web.dev/): building and maintaining websites and web applications using frontend, backend, and database technologies
+
