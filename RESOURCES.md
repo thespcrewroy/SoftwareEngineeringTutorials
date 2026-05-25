@@ -36,17 +36,15 @@
 * [Zero To Mastery](https://zerotomastery.io/courses/): comprehensive coding courses from beginner to advanced
     
 ## Mobile App Development Resources
-* [Hackingwithswift.com]: free Swift and iOS tutorials with practical projects
-* [Beginning IOS17 Programming With Swift]: beginner guide to iOS 17 app development
-* [Appcoda]: iOS and Swift tutorials and books for app developers
-* [App Development With Swift]: Apple's official curriculum for Swift app development
-* [Kelidos Blog HowToUploadAnImage]: tutorial for implementing image upload
-* [SwiftUITutorials from Apple]: Apple's official SwiftUI tutorials for beginners
-* [XCode Help Prepare for App Distribution]: submitting apps to the App Store
-* [Xcode Help Launching an App]: guide for launching an app on the App Store
+* [Hackingwithswift.com](http://hackingwithswift.com): free Swift and iOS tutorials with practical projects
+* [Appcoda](https://www.appcoda.com/ios-8-action-extensions-tutorial/): iOS and Swift tutorials and books for app developers
+* [Kelidos Blog](https://www.kaleidosblog.com/how-to-upload-images-using-swift-2-send-multipart-post-request#google_vignette): tutorial for image upload
+* [SwiftUITutorials from Apple](https://developer.apple.com/tutorials/swiftui): Apple's official SwiftUI tutorials for beginners
+* [XCode Help: Prepare for App Distribution](https://help.apple.com/xcode/mac/current/#/dev91fe7130a): submitting apps to the App Store
+* [Xcode Help: Launching an App](https://help.apple.com/xcode/mac/current/#/dev60b6fbbc7): guide for launching an app on the App Store
 
 ## Documentation
-* [SwiftLanguageGuide]: official Swift language reference and documentation
+* [SwiftLanguageGuide](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/): official Swift language reference and documentation
 
 ## YouTubers
 * Traversy Media: web dev in ReactJS and NodeJS
