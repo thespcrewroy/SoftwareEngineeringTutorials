@@ -80,14 +80,6 @@
 * [XCode Help: Prepare for App Distribution](https://help.apple.com/xcode/mac/current/#/dev91fe7130a): submitting apps to the App Store
 * [Xcode Help: Launching an App](https://help.apple.com/xcode/mac/current/#/dev60b6fbbc7): guide for launching an app on the App Store
 
-## Documentation
-* [SwiftLanguageGuide](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/)
-* [SwiftUI](https://developer.apple.com/documentation)
-* [MongoDB](https://www.mongodb.com/)
-* [SQLite](https://github.com/sqlite/sqlite)
-* [Docusaurus](https://docusaurus.io/)
-* [ShadCN](https://ui.shadcn.com/)
-
 ## YouTubers
 * Traversy Media: web dev in ReactJS and NodeJS
 * AcademindL web dev and mobile pp dev
