@@ -394,3 +394,10 @@
 * Cloud Computing (CSCI 4795)
 * Virtual Reality (CSCI 4830)
 * Simulation and Modeling (CSCI 4210)
+
+## Certifications
+* AWS Cloud Practitioner
+* AWS AI Practitioner
+* AWS Cloud Solutions Architect
+* Microsoft Office Speacialist
+* GCP Certification
