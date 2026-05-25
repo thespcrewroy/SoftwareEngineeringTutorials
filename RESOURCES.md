@@ -1,5 +1,41 @@
 # Software Engineering Resources
 
+## UGA Courses (Computer Science Theory Repository)
+* Computing, Ethics, and Society (CSCI 3030)
+* Intro to Computer Science and Object Oriented Programming (CSCI 1301-1301L)
+* Software Development using Object Oriented Programming (CSCI 1302)
+* Functional Programming (CSCI 4520)
+* Systems Programming (CSCI 1730-1730L)
+* **[Discrete Math for Computer Science (MATH/CSCI 2610)](https://quizlet.com/user/royswapnil07/folders/discrete-math-for-computation-csci-2610?funnelUUID=9627ae4b-aea8-43a2-9bec-569f77f4265a) | [Supplemental](https://github.com/thespcrewroy/CSCI2670-Automata)**
+* **[Introduction to Theory of Computing & Automata (CSCI 2670)](https://quizlet.com/user/royswapnil07/folders/theory-of-computing-csci-2670?funnelUUID=2f1e8108-6fda-4619-be4f-4a5867f7824c) | [Supplemental](https://github.com/thespcrewroy/CSCI2670-Automata)**
+* **[Data Structures (CSCI 2720)](https://quizlet.com/user/royswapnil07/folders/data-structures-csci-2720?funnelUUID=eb08c076-2d68-4556-9a8b-7ecc4baa73f7) | [Supplemental](https://github.com/thespcrewroy/CSCI4470-Algorithms)**
+* **[Algorithms (CSCI 4470)](https://quizlet.com/user/royswapnil07/folders/algorithms-csci-4470?funnelUUID=812d39b1-fe3c-410a-9012-93a59f6f2c65) | [Supplemental](https://github.com/thespcrewroy/CSCI4470-Algorithms)**
+* Combinatorics (CSCI 4670)
+* Graph Theory (MATH 4690)
+* New Media Design (NMIX 4011)
+* User Experience Strategy (NMIX 4012)
+* Human-Computer Interaction (CSCI 4800)
+* Web Development with HTML/CSS/Bootstrap/JS (NMIX 4010)
+* Advanced Web Development with HTML/CSS/JS (NMIX 4020)
+* Web Programming (CSCI 4300)
+* Web Composing and Scripting (CSCI 5310)
+* **Native App Development in Swift & React-Native (NMIX 4030) | [Supplemental](https://github.com/thespcrewroy/NMIX4210-NativeAppDev)**
+* Mobile Software Development in Kotlin (CSCI 4060)
+* Introduction to Computational Investing (CSCI 4170)
+* Principles of FinTech (BUSN 3700)
+* Software Engineering (CSCI 4050)
+* **[Database Management (CSCI 4370)](https://quizlet.com/user/royswapnil07/folders/database-management-csci-4370) | [Supplemental](https://github.com/thespcrewroy/CSCI4370-DatabaseManagement)**
+* Cloud Computing (CSCI 4795)
+* Virtual Reality (CSCI 4830)
+* Simulation and Modeling (CSCI 4210)
+
+## Certifications
+* AWS Cloud Practitioner
+* AWS AI Practitioner
+* AWS Cloud Solutions Architect
+* Microsoft Office Speacialist
+* GCP Certification
+
 ## Web Development Resources
 * [30 Days of React](https://github.com/Asabeneh/30-Days-Of-React): learn react programming roadmap
 * [Backend Developer Roadmap](https://roadmap.sh/backend): step-by-step guide to becoming a backend developer
