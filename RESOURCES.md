@@ -1,8 +1,9 @@
 # Software Engineering Resources
 
-## UGA Courses
+## College Courses
 * Computing, Ethics, and Society (CSCI 3030)
 * Intro to Computer Science and Object Oriented Programming (CSCI 1301-1301L)
+* C++ For Engineers (EGR 230)
 * Software Development using Object Oriented Programming (CSCI 1302)
 * Functional Programming (CSCI 4520)
 * Systems Programming (CSCI 1730-1730L)
