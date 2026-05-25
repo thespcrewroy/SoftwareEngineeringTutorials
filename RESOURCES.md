@@ -1,6 +1,6 @@
 # Software Engineering Resources
 
-## UGA Courses (Computer Science Theory Repository)
+## UGA Courses
 * Computing, Ethics, and Society (CSCI 3030)
 * Intro to Computer Science and Object Oriented Programming (CSCI 1301-1301L)
 * Software Development using Object Oriented Programming (CSCI 1302)
