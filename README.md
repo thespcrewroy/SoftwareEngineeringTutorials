@@ -325,7 +325,7 @@
 ## Mobile App Development
 * **Swift:** modern programming language developed by Apple for building fast, safe, and efficient applications across Apple OS
 * **SFSymbols:** Apple’s iconography library that provides scalable vector symbols for use in iOS, macOS, watchOS, and tvOS
-* **Quicktype.io:** automatically generate typed models from JSON data
+* **[Quicktype.io](https://app.quicktype.io/):** automatically generate typed models from JSON data
 * **Kotlin:** a modern statically typed programming language designed for concise, safe, and interoperable development for Android
 * **SwiftUI:** Apple’s declarative UI framework for building user interfaces across iOS, macOS, watchOS, and tvOS applications
 * **Jetpack Compose:** Android’s modern declarative UI toolkit by Google for building native Android interfaces
