@@ -104,4 +104,6 @@
 * [The GitHub blog](https://github.blog/): shares news, tutorials, engineering insights, product updates, and software development trends
 * [DEV Community](https://dev.to/): an online platform where developers share articles, tutorials, discussions, and insights
 * [Web Dev](https://web.dev/): building and maintaining websites and web applications using frontend, backend, and database technologies
+* [YCombinator Hacker News](https://news.ycombinator.com/news): social news focused on technology, startups, programming, and entrepreneurship
+* [Stories About Software](https://daedtech.com/): software engineering blog by Erik Dietrich that shares insights, opinions, and stories about programming
 
