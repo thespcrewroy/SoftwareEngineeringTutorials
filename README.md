@@ -185,7 +185,7 @@
 * **Framer Motion:** a React animation library used to create smooth interactive animations and transitions for web applications
 * **MagicUI:** a collection of prebuilt animated UI components and design elements for React and Tailwind CSS
 * **RadixUI:** low-level React component library that provides accessible unstyled UI primitives for building customizable intefaces
-* **ShadCN**: customizable React component library built with Tailwind CSS and Radix UI for creating modern web application interfaces
+* **[ShadCN](https://ui.shadcn.com/)**: customizable React component library built with Tailwind CSS and Radix UI for creating modern web application interfaces
 * **Google Lighthouse:** an open-source auditing tool that analyzes web pages for performance, accessibility, and SEO
 
 ## Backend
@@ -221,12 +221,12 @@
 
 ## Database
 * **Redis:** an in-memory data store commonly used as a cache, database, and message broker for ultra-fast data access for real time apps
-* **SQLite:** a serverless relational database engine that stores data locally in a single file
+* **[SQLite](https://github.com/sqlite/sqlite):** a serverless relational database engine that stores data locally in a single file
 * **MySQL:** an open-source relational database management system (RDBMS) used to store, organize, and manage structured data using SQL
 * **PostgreSQL:** n open-source relational database system known for its reliability, advanced SQL features, and extensibility
 * **Supabase:** an open-source backend platform built on PostgreSQL that provides authentication, databases, storage, and real-time APIs
 * **Oracle Database:** an enterprise-grade relational database management system developed by Oracle for security, scaling, and management
-* **MongoDB**: a NoSQL document-oriented database that stores data in flexible JSON-like documents
+* **[MongoDB](https://www.mongodb.com/)**: a NoSQL document-oriented database that stores data in flexible JSON-like documents
 * **AWS DynamoDB:** a fully managed NoSQL database service by Amazon to store semi-structured data for low-latency applications
 * **AWS Simple Storage Service (S3):** scalable cloud object storage service by AWS for storing unstructured data
 * **Object-Relational Mapping (ORM):** libraries that allow interaction with databases using programming languages rather than raw SQL
@@ -302,7 +302,7 @@
     * **CONTRIBUTING.md:** details the coding standards, workflows, and submission guidelines contributors must follow
 * **LICENSE:** specifies the legal terms, permissions, and restrictions for using, modifying, and distributing a software project
 * **Markdown XML (MDX):** combines Markd own with JSX, allowing developers to embed React components directly inside Markdown
-* **Docusaurus:** static-site open-source documentation website generator framework built by Meta
+* **[Docusaurus](https://docusaurus.io/):** static-site open-source documentation website generator framework built by Meta
 * **Vitepress:** a static site generator built on top of Vite and Vue for building documentation websites
 * **Mkdocs:** a static site generator for creating project documentation websites using Markdown files
 * **Gatsby:** a React-based static site generation framework used to build fast and optimized websites
@@ -324,11 +324,11 @@
 * **JavaFX:** Java framework for building desktop applications with graphical user interfaces and multimedia features
 
 ## Mobile App Development
-* **Swift:** modern programming language developed by Apple for building fast, safe, and efficient applications across Apple OS
+* **[Swift](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/):** modern programming language developed by Apple for building fast, safe, and efficient applications across Apple OS
 * **SFSymbols:** Apple’s iconography library that provides scalable vector symbols for use in iOS, macOS, watchOS, and tvOS
 * **[Quicktype.io](https://app.quicktype.io/):** automatically generate typed models from JSON data
 * **Kotlin:** a modern statically typed programming language designed for concise, safe, and interoperable development for Android
-* **SwiftUI:** Apple’s declarative UI framework for building user interfaces across iOS, macOS, watchOS, and tvOS applications
+* **[SwiftUI](https://developer.apple.com/documentation):** Apple’s declarative UI framework for building user interfaces across iOS, macOS, watchOS, and tvOS applications
 * **Jetpack Compose:** Android’s modern declarative UI toolkit by Google for building native Android interfaces
 * **React-Native:** JavaScript-based framework developed by Meta for building cross-platform mobile apps
 * **Flutter:** Gotogle’s UI toolkit for building fast, cross-platform mobile, web, and desktop applications from a single Dart codebase
