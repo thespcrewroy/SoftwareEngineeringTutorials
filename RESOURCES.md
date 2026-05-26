@@ -71,7 +71,7 @@
 * [VisualGo](https://visualgo.net/en): animated visualization of data structures and algorithms
 * [W3 Schools](https://www.w3schools.com/): beginner-friendly web development tutorials for HTML, CSS, and JS
 * [Zero To Mastery](https://zerotomastery.io/courses/): comprehensive coding courses from beginner to advanced
-    
+
 ## Mobile App Development Resources
 * [Hackingwithswift.com](http://hackingwithswift.com): free Swift and iOS tutorials with practical projects
 * [Appcoda](https://www.appcoda.com/ios-8-action-extensions-tutorial/): iOS and Swift tutorials and books for app developers
@@ -79,6 +79,34 @@
 * [SwiftUITutorials from Apple](https://developer.apple.com/tutorials/swiftui): Apple's official SwiftUI tutorials for beginners
 * [XCode Help: Prepare for App Distribution](https://help.apple.com/xcode/mac/current/#/dev91fe7130a): submitting apps to the App Store
 * [Xcode Help: Launching an App](https://help.apple.com/xcode/mac/current/#/dev60b6fbbc7): guide for launching an app on the App Store
+
+## Examples
+* [GitHub README Generator](https://github.com/andreasbm/readme?tab=readme-ov-file)
+* [Example GitHub Readme 1](https://github.com/RsaCtfTool/RsaCtfTool?tab=readme-ov-file)
+* [Example GitHub Buy Me a Coffee](https://github.com/tandpfun/skill-icons#readme)
+* [Example GitHub Profile](https://github.com/bee-san?tab=overview&from=2024-12-01&to=2024-12-18)
+* [Example GitHub Account](https://github.com/cs1302uga)
+* [Student Organization: UGAHacks](https://ugahacks.com/#team)
+* [Codedex](https://www.codedex.io/)
+* [67 Cipher](https://legendile7.github.io/67cipher/)
+* [Anthony Sistilli: Example Insta Bio](chrome://bookmarks/?id=77)
+* [Pushpek Sidhu: Social Media Links](https://ash-portfolio.netlify.app/)
+* [Noah Soloman](https://noahgsolomon.com/)
+* [Chaz Meritt](https://chazmerritt.com/writings.html)
+* [Tyler Mazurek](https://tylermazurek.com/)
+* [Andy Truong](https://www.andytruong.dev/)
+* [Arnav Aurora](https://arnava2004.github.io/#)
+* [Bruno Simon](https://bruno-simon.com/)
+* [Ed Hinrichsen](https://www.edwardh.io/)
+* [Prasoon](https://prasoon-mahawar.dev/)
+* [Daniel Moya](https://moyadaniel.com/)
+* [Binill](https://www.thegr8binil.me/)
+* [Arthur Walendroff](https://wallenart.dev/)
+* [Arjun Bector](https://arjunbector.live/)
+* [AshwinKumar Pillai](https://ash-portfolio.netlify.app/)
+* [Amy's Personal Website](https://readymag.website/u381267271/4803125/)
+* [Zion L. Basque](https://www.zionbasque.com/)
+
 
 ## YouTubers
 * Traversy Media: web dev in ReactJS and NodeJS
