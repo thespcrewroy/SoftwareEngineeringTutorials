@@ -89,7 +89,7 @@
 * [Student Organization: UGAHacks](https://ugahacks.com/#team)
 * [Codedex](https://www.codedex.io/)
 * [67 Cipher](https://legendile7.github.io/67cipher/)
-* [Anthony Sistilli: Example Insta Bio](chrome://bookmarks/?id=77)
+* [Anthony Sistilli: Example Insta Bio](https://linktr.ee/anthonysistilli)
 * [Pushpek Sidhu: Social Media Links](https://ash-portfolio.netlify.app/)
 * [Noah Soloman](https://noahgsolomon.com/)
 * [Chaz Meritt](https://chazmerritt.com/writings.html)
