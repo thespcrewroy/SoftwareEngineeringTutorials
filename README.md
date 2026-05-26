@@ -49,7 +49,7 @@
 * **Behance:** social media site for creative work
 * **[Godly](https://godly.website/):** website design inspiration
 * **[CSS Design Awards](https://www.cssdesignawards.com/):** web design awards platform that showcases and recognizes outstanding websites
-* **[Landbook](web design inspiration gallery):** web design inspiration gallery
+* **Landbook:** web design inspiration gallery
 * **[Web Awards](https://www.awwwards.com/):** best website design awards archive
 * **[Mag Websites](https://mindsparklemag.com/websites):** showcases creative, modern, and award-worthy website designs
 * **[New Media Institute Scavenger Hunt](https://docs.google.com/spreadsheets/d/1luJjhDhPwMBnHkpCKsrw1y8sARwUEWP5Qv93OTz1EJc/edit?gid=160026269#gid=160026269) | [New Media Institute Links](https://docs.google.com/document/d/1YWvshP0z4tZ5fI1Uek7g-vsuycfHVVF0NC6efWZU0PY/edit?tab=t.0):** UI/UX design resources by the New Media Institue of UGA
