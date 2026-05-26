@@ -71,6 +71,8 @@
 * **Webflow:** web builder for custom professional sites
 * **Wix:** web builder for beginners
 * **Wordpress:** web builder offering the most-customization for software engineers
+* **[Codefoli](https://codefoli.com/):** AI-powered portfolio website builder
+* **[Rosslite](https://rossilite.com/):** build platforms, websites, and systems for business to operate
 
 ## Cloud Computing & Infrastructure
 * **Network as a Service (NaaS):** customers rent networking services from cloud providers instead of their own physical network infra
