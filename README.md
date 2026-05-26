@@ -55,6 +55,7 @@
 * **[New Media Institute Scavenger Hunt](https://docs.google.com/spreadsheets/d/1luJjhDhPwMBnHkpCKsrw1y8sARwUEWP5Qv93OTz1EJc/edit?gid=160026269#gid=160026269) | [New Media Institute Links](https://docs.google.com/document/d/1YWvshP0z4tZ5fI1Uek7g-vsuycfHVVF0NC6efWZU0PY/edit?tab=t.0):** UI/UX design resources by the New Media Institue of UGA
 * **[Figma Community](https://www.figma.com/community):** social media for Figma designs
 * **Diagrams.net:** create wireframes for websites, mobile apps, and software interfaces using built-in UI components
+* **[Concepts](https://concepts.app/en/download):** drawing app used for lo-fidelity wireframes
 * **[Google Gemini Stitch](https://www.usegalileo.ai/explore):** Figma compatible UI/UX mockup generations developed by Google
 * **[Claude Design](https://claude.ai/design):** Figma compatible UI/UX mockup generations developed by Anthropic
 * **Figma:** acollaborative cloud-based design platform used for UI/UX design, prototyping, and interface development
