@@ -80,7 +80,7 @@
 * [XCode Help: Prepare for App Distribution](https://help.apple.com/xcode/mac/current/#/dev91fe7130a): submitting apps to the App Store
 * [Xcode Help: Launching an App](https://help.apple.com/xcode/mac/current/#/dev60b6fbbc7): guide for launching an app on the App Store
 
-## Examples
+## Example Designs
 * [GitHub README Generator](https://github.com/andreasbm/readme?tab=readme-ov-file)
 * [Example GitHub Readme 1](https://github.com/RsaCtfTool/RsaCtfTool?tab=readme-ov-file)
 * [Example GitHub Buy Me a Coffee](https://github.com/tandpfun/skill-icons#readme)
