@@ -48,6 +48,10 @@
 * **Dribble:** social media site for digital designers
 * **Behance:** social media site for creative work
 * **[Godly](https://godly.website/):** website design inspiration
+* **[CSS Design Awards](https://www.cssdesignawards.com/):** web design awards platform that showcases and recognizes outstanding websites
+* **[Landbook](web design inspiration gallery):** web design inspiration gallery
+* **[Web Awards](https://www.awwwards.com/):** best website design awards archive
+* **[Mag Websites](https://mindsparklemag.com/websites):** showcases creative, modern, and award-worthy website designs
 * **[Figma Community](https://www.figma.com/community):** social media for Figma designs
 * **Diagrams.net:** create wireframes for websites, mobile apps, and software interfaces using built-in UI components
 * **[Google Gemini Stitch](https://www.usegalileo.ai/explore):** Figma compatible UI/UX mockup generations developed by Google
