@@ -107,7 +107,6 @@
 * [Amy's Personal Website](https://readymag.website/u381267271/4803125/)
 * [Zion L. Basque](https://www.zionbasque.com/)
 
-
 ## YouTubers
 * Traversy Media: web dev in ReactJS and NodeJS
 * AcademindL web dev and mobile pp dev
