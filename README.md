@@ -183,6 +183,7 @@
 * **Typescript:** a statically typed superset of JavaScript that adds type safety, tooling, and modern features
 * **Javascript XML (JSX):** a JavaScript syntax extension used in React to interface components with HTML-like code inside JavaScript
 * **Typescript XML (TSX):** Combines Typscript with JSX to build components HTML-like code inside JavaScript
+* **Razor:** markup syntax and templating engine in ASP.NET used to build dynamic web pages with embedded C# code
 * **Jekyll:** a Ruby-based static site generation framework that converts Markdown and templatess into optimized websites
 * **ReactJS:** a JavaScript library developed by Meta for building fast component-based user interfaces
 * **NextJS:** a React-based full-stack web framework for building fast web applications with server-side rendering and static site generation
@@ -207,7 +208,7 @@
 * **Visual Basic:** Microsoft programming language designed for easy development of Windows applications using a event-driven syntax
 * **Laravel:** a PHP backend web framework used to build modern web apps and APIs with MVC architecture
 * **Ruby on Rails:** backend web framework for server-side apps, APIs, database logic, authentication, and web routing
-* **.NET:** a Microsoft software development framework and runtime for building enterprise applications using C# and F#
+* **ASP.NET:** a Microsoft software development framework and runtime for building enterprise applications using C# and F#
 * **Flask:** a lightweight Python web framework used to build web applications, APIs, and backend services
 * **Django:** a high-level Python web framework that enables rapid development of secure, scalable, and database-driven web applications
 * **Spring Boot:** a Java-based backend framework that simplifies building production-ready web applications, APIs, and microservices
@@ -220,11 +221,13 @@
 * **GraphQL:** query language and API runtime that allows clients to request exactly the data they need from a server
 * **Azure Functions:** Microsoft’s serverless computing service that runs event-driven code on demand
 * **AWS Lambda:** a serverless computing service by Amazon that runs code automatically in response to events
+* **Zapier:** workflow automation platform that connects applications and automates tasks between services without requiring code
 * **Postman:** an API development and testing platform used to design, test, document, and monitor APIs
 * **Puppeteer:** Node.js library that automates and controls web browsers for testing, scraping, and web interaction tasks
 * **Beautiful Soup:** Python library used for parsing and extracting data from HTML and XML web pages
 * **Selenium:** browser automation framework used for web application testing and automated interaction with web pages
 * **Scrapy:** Python framework for building scalable web scraping and web crawling applications
+* **Apify:** cloud platform for web scraping, browser automation, and data extraction using customizable automation tools and actors
 * **Firebase**: Google’s backend-as-a-service (BaaS) with authentication, databases, hosting, analytics, and cloud functions
 
 ## Database
@@ -237,6 +240,7 @@
 * **[MongoDB](https://www.mongodb.com/)**: a NoSQL document-oriented database that stores data in flexible JSON-like documents
 * **AWS DynamoDB:** a fully managed NoSQL database service by Amazon to store semi-structured data for low-latency applications
 * **AWS Simple Storage Service (S3):** scalable cloud object storage service by AWS for storing unstructured data
+* **.NET Aspire SQL Server:** integration component in .NET Aspire used to configure, manage, and connect SQL Server database in cloud apps
 * **Object-Relational Mapping (ORM):** libraries that allow interaction with databases using programming languages rather than raw SQL
    * **Entity Framework**: a modern ORM tool by Microsoft for .NET and C# that simplifies database access
    * **Prisma**: a modern ORM tool for Node.js and TypeScript that simplifies database access
@@ -290,6 +294,7 @@
     * **Cypress:** an end-to-end testing framework for web applications that enables automated browser testing with real-time debugging
     * **TestFlight:** an Apple platform used to distribute and beta test mobile iOS, iPadOS, watchOS, and tvOS applications before release
     * **SonarQube:** code quality and security analysis platform that detects bugs, vulnerabilities, and maintainability issues
+    * **MSTest:** Microsoft’s unit testing framework for creating, running, and managing automated tests in .NET applications
 * **Continuous Integration and Continuous Deployment (CI/CD):** automates code integration, testing, and deployment
     * **GitHub Actions:** CI/CD automation platform within GitHub used to build, test, and deploy code through customizable workflows
     * **GitLab:**  provides Git repository hosting, version control, CI/CD pipelines, and tools for software development collaboration
