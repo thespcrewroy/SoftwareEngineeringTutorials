@@ -47,11 +47,12 @@
 * **Cofolios:** social media site for tech portfolios
 * **Dribble:** social media site for digital designers
 * **Behance:** social media site for creative work
+* **[Godly](https://godly.website/):** website design inspiration
+* **[Figma Community](https://www.figma.com/community):** social media for Figma designs
 * **Diagrams.net:** create wireframes for websites, mobile apps, and software interfaces using built-in UI components
 * **[Google Gemini Stitch](https://www.usegalileo.ai/explore):** Figma compatible UI/UX mockup generations developed by Google
 * **[Claude Design](https://claude.ai/design):** Figma compatible UI/UX mockup generations developed by Anthropic
 * **Figma:** acollaborative cloud-based design platform used for UI/UX design, prototyping, and interface development
-* **[Figma Community](https://www.figma.com/community):** social media for Figma designs
 * **[Fontawesome](https://fontawesome.com/):** an icon toolkit and library that provides scalable vector icons and social logos
 * **[Google Fonts](https://fonts.google.com/):** free web font library for integrating customizable fonts into websites
 * **[Figma Make](https://www.figma.com/community/make):** create websites from UIs, mockups, and user flows
