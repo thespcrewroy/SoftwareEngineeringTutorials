@@ -53,10 +53,10 @@
 * **[Web Awards](https://www.awwwards.com/):** best website design awards archive
 * **[Mag Websites](https://mindsparklemag.com/websites):** showcases creative, modern, and award-worthy website designs
 * **[New Media Institute Scavenger Hunt](https://docs.google.com/spreadsheets/d/1luJjhDhPwMBnHkpCKsrw1y8sARwUEWP5Qv93OTz1EJc/edit?gid=160026269#gid=160026269) | [New Media Institute Links](https://docs.google.com/document/d/1YWvshP0z4tZ5fI1Uek7g-vsuycfHVVF0NC6efWZU0PY/edit?tab=t.0):** UI/UX design resources by the New Media Institue of UGA
-* **[Figma Community](https://github.com/thespcrewroy/SoftwareEngineeringTutorials/blob/main/UIUXDesign/Community.md):** social media for Figma designs
+* **[Figma Community](https://github.com/thespcrewroy/SoftwareEngineeringTutorials/blob/main/UIUXDesign/FigmaCommunity.md):** social media for Figma designs
 * **Diagrams.net:** create wireframes for websites, mobile apps, and software interfaces using built-in UI components
-* **Wireframe.cc:** cloud-based tool that allows users to create wireframes for websites and mobile applications easily
-* **[Concepts](https://concepts.app/en/download):** drawing app used for lo-fidelity wireframes
+* **[Wireframe.cc](https://github.com/thespcrewroy/SoftwareEngineeringTutorials/blob/main/UIUXDesign/WireframeCC.md):** cloud-based tool that allows users to create wireframes for websites and mobile applications easily
+* **[Concepts](https://github.com/thespcrewroy/SoftwareEngineeringTutorials/blob/main/UIUXDesign/Concepts.md):** drawing app used for lo-fidelity wireframes
 * **[Google Gemini Stitch](https://www.usegalileo.ai/explore):** Figma compatible UI/UX mockup generations developed by Google
 * **[Claude Design](https://claude.ai/design):** Figma compatible UI/UX mockup generations developed by Anthropic
 * **[Figma](https://github.com/thespcrewroy/SoftwareEngineeringTutorials/blob/main/UIUXDesign/Figma.md):** acollaborative cloud-based design platform used for UI/UX design, prototyping, and interface development
