@@ -1,2 +1,2 @@
 * **[UIUX Club of Georgia](https://github.com/thespcrewroy/ProfessionalOrganizationTutorials/blob/main/UIUXClubofGeorgia/Figma.md)**
-* Freecodecamp [TBA]
+* **[Freecodecamp](https://github.com/thespcrewroy/YouTube/tree/main/Figma)**
