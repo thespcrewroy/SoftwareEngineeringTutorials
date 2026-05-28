@@ -37,6 +37,26 @@
 * Microsoft Office Speacialist
 * GCP Certification
 
+## Conferences & Events
+* [SASE National Convention](https://collegiate2023.saseconnect.org/)
+* [Outreach Hire Career Fair | GTech DEI](https://gtri.gatech.edu/outreach2hire)
+* [Google I/O](https://io.google/2023/)
+* [Apple WWDC](https://developer.apple.com/wwdc23/)
+* [Microsoft Ignite](https://ignite.microsoft.com/en-US/home)
+* [GitHub Universe](https://githubuniverse.com/)
+* [AWS Innovate](https://aws.amazon.com/events/innovate-online-conference/americas/)
+* [HacktoberFest](https://owasp.org/www-chapter-atlanta/)
+* [Major League Hacking](https://mlh.io/)
+    * [HackGT](https://hack.gt/)
+    * [UGAHacks](https://ugahacks.com/) | [MyByte](https://mybyte.ugahacks.com/login)
+    * [Hacklytics](https://hacklytics.io/)
+    * [AIATL](https://www.aiatl.io/)
+    * [StatusCode](https://hackathon.iiitkalyani.ac.in/)
+    * [GlobalHackWeek](https://ghw.mlh.io/?_gl=1*1gtd0hi*_ga*MTg1ODcwMDM3Mi4xNzEwMTI5Mjg3*_ga_E5KT6TC4TK*MTcxMDEzMTEyNi4yLjEuMTcxMDEzMTIyNi4wLjAuMA..)
+* [DevPost](https://devpost.com/)
+* [Google Summer of Code](https://summerofcode.withgoogle.com/)
+* [NASA Spcae Apps Challenge](https://www.spaceappschallenge.org/)
+
 ## Web Development Resources
 * [30 Days of React](https://github.com/Asabeneh/30-Days-Of-React): learn react programming roadmap
 * [Backend Developer Roadmap](https://roadmap.sh/backend): step-by-step guide to becoming a backend developer
