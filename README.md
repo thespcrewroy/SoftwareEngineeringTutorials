@@ -72,8 +72,8 @@
 * **Webflow:** web builder for custom professional sites
 * **Wix:** web builder for beginners
 * **Wordpress:** web builder offering the most-customization for software engineers
-* **[Codefoli](https://codefoli.com/):** AI-powered portfolio website builder
-* **[Rosslite](https://rossilite.com/):** build platforms, websites, and systems for business to operate
+* **Codefoli:** AI-powered portfolio website builder
+* **Rosslite:** build platforms, websites, and systems for business to operate
 * **Figma Sites:** AI-driven website and web app builder
 
 ## Cloud Computing & Infrastructure
@@ -113,7 +113,7 @@
 * **Evil Emacs:** an Emacs extension layer that brings Vim-style modal editing and keybindings into the Emacs environment
 * **Zed:** a high-performance, multiplayer code editor designed for fast collaboration and modern developer workflows
 * **VSCode:** lightweight and extensible code editor by Microsoft that supports debugging, extensions, and development
-* **[Cursor.ai](https://cursor.sh/pricing):** AI-powered code editor
+* **Cursor.ai:** AI-powered code editor
 * **BlueJ:** educational Java IDE designed to help beginners learn OOP and software development concepts
 * **NetBeans:** for developing, testing, and debugging applications in Java and other programming languages
 * **Eclipse:** used for developing, debugging, and managing software projects in multiple programming languages
@@ -123,7 +123,7 @@
 * **Visual Studio:** a IDE from Microsoft compatible with many languages, and used for developing desktop, web, cloud, and mobile apps
 * **Xcode:** Apple’s IDE used for building, testing, and deploying applications for iOS, macOS, watchOS, and tvOS
 * **Android Studio:** Google’s official IDE for coding, testing, debugging, and UI design for Android App Development
-* **[Google Gemini Antigravity](https://antigravity.google/):** AI-powered IDE developed by Google
+* **Gemini Antigravity:** AI-powered IDE developed by Google
 * **GitHub Copilot:** auto-complete for code-editors and IDEs
 
 ## Software Development Concepts
@@ -197,7 +197,7 @@
 * **Framer Motion:** a React animation library used to create smooth interactive animations and transitions for web applications
 * **MagicUI:** a collection of prebuilt animated UI components and design elements for React and Tailwind CSS
 * **RadixUI:** low-level React component library that provides accessible unstyled UI primitives for building customizable intefaces
-* **[ShadCN](https://ui.shadcn.com/)**: customizable React component library built with Tailwind CSS and Radix UI for creating modern web application interfaces
+* **ShadCN**: customizable React component library built with Tailwind CSS and Radix UI for creating modern web application interfaces
 * **Google Lighthouse:** an open-source auditing tool that analyzes web pages for performance, accessibility, and SEO
 
 ## Backend
@@ -235,12 +235,12 @@
 
 ## Database
 * **Redis:** an in-memory data store commonly used as a cache, database, and message broker for ultra-fast data access for real time apps
-* **[SQLite](https://github.com/sqlite/sqlite):** a serverless relational database engine that stores data locally in a single file
+* **SQLite:** a serverless relational database engine that stores data locally in a single file
 * **MySQL:** an open-source relational database management system (RDBMS) used to store, organize, and manage structured data using SQL
 * **PostgreSQL:** n open-source relational database system known for its reliability, advanced SQL features, and extensibility
 * **Supabase:** an open-source backend platform built on PostgreSQL that provides authentication, databases, storage, and real-time APIs
 * **Oracle Database:** an enterprise-grade relational database management system developed by Oracle for security, scaling, and management
-* **[MongoDB](https://www.mongodb.com/)**: a NoSQL document-oriented database that stores data in flexible JSON-like documents
+* **MongoDB**: a NoSQL document-oriented database that stores data in flexible JSON-like documents
 * **AWS DynamoDB:** a fully managed NoSQL database service by Amazon to store semi-structured data for low-latency applications
 * **AWS Simple Storage Service (S3):** scalable cloud object storage service by AWS for storing unstructured data
 * **.NET Aspire SQL Server:** integration component in .NET Aspire used to configure, manage, and connect SQL Server database in cloud apps
@@ -254,8 +254,8 @@
 * **MERN Stack:** a full-stack JavaScript technology stack consisting of MongoDB, Express.js, React, and Node.js
 * **[Google Gemini Opal](https://opal.google/landing/):** empower anyone to build and deploy AI mini apps without coding
 * **[Google Gemini Jules](https://jules.google.com/session):** coding agent developed by Google to perform app dev tasks
-* **[Claude Code](https://claude.ai/new):** coding agent developed by anthropic to perform development tasks
-* **[ChatGPT Codex](https://chatgpt.com/codex):** coding agent developed by OpenAI to perform development tasks
+* **Claude Code:** coding agent developed by anthropic to perform development tasks
+* **ChatGPT Codex:** coding agent developed by OpenAI to perform development tasks
 
 ## Computer Graphics
 * **Boid Flocks:** simulation algorithm that models the collective movement behavior of groups such as birds or fish using heuristics
@@ -318,13 +318,13 @@
     * **CONTRIBUTING.md:** details the coding standards, workflows, and submission guidelines contributors must follow
 * **LICENSE:** specifies the legal terms, permissions, and restrictions for using, modifying, and distributing a software project
 * **Markdown XML (MDX):** combines Markd own with JSX, allowing developers to embed React components directly inside Markdown
-* **[Docusaurus](https://docusaurus.io/):** static-site open-source documentation website generator framework built by Meta
+* **Docusaurus:** static-site open-source documentation website generator framework built by Meta
 * **Vitepress:** a static site generator built on top of Vite and Vue for building documentation websites
 * **Mkdocs:** a static site generator for creating project documentation websites using Markdown files
 * **Gatsby:** a React-based static site generation framework used to build fast and optimized websites
 * **GitHub Gist:** a lightweight GitHub feature for storing, sharing, and version-controlling individual code snippets and text files
 * **[Pastebin](https://pastebin.com/):** online service for storing and sharing plain text, code snippets, and logs
-* **[Scribe](https://get.scribehow.com/install-extension/):** AI-powered documentation generator 
+* **Scribe:** AI-powered documentation generator 
 
 ## Systems Programming
 * **C:** a procedural programming language widely used for operating systems, embedded systems, and low-level software
@@ -342,7 +342,7 @@
 ## Mobile App Development
 * **[Swift](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/):** modern programming language developed by Apple for building fast, safe, and efficient applications across Apple OS
 * **SFSymbols:** Apple’s iconography library that provides scalable vector symbols for use in iOS, macOS, watchOS, and tvOS
-* **[Quicktype.io](https://app.quicktype.io/):** automatically generate typed models from JSON data
+* **Quicktype.io:** automatically generate typed models from JSON data
 * **Kotlin:** a modern statically typed programming language designed for concise, safe, and interoperable development for Android
 * **[SwiftUI](https://developer.apple.com/documentation):** Apple’s declarative UI framework for building user interfaces across iOS, macOS, watchOS, and tvOS applications
 * **Jetpack Compose:** Android’s modern declarative UI toolkit by Google for building native Android interfaces
