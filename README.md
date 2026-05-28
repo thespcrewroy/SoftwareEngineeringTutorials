@@ -62,7 +62,6 @@
 * **[Figma](https://github.com/thespcrewroy/SoftwareEngineeringTutorials/blob/main/UIUXDesign/Figma.md):** acollaborative cloud-based design platform used for UI/UX design, prototyping, and interface development
 * **Fontawesome:** an icon toolkit and library that provides scalable vector icons and social logos
 * **Google Fonts:** free web font library for integrating customizable fonts into websites
-* **Figma Make:** create websites from UIs, mockups, and user flows
 * **GoDaddy Airo:** create websites, generate logos, and manage marketing tasks
 
 ## Web Builders
@@ -75,6 +74,7 @@
 * **Wordpress:** web builder offering the most-customization for software engineers
 * **[Codefoli](https://codefoli.com/):** AI-powered portfolio website builder
 * **[Rosslite](https://rossilite.com/):** build platforms, websites, and systems for business to operate
+* **Figma Sites:** AI-driven website and web app builder
 
 ## Cloud Computing & Infrastructure
 * **Network as a Service (NaaS):** customers rent networking services from cloud providers instead of their own physical network infra
@@ -173,6 +173,7 @@
 
 ## Frontend
 * **Codepen:** a social media platform for building, testing, and sharing front-end web projects
+* **Figma Make:** generate websites from UIs, mockups, and user flows using AI
 * **[Website Validator](https://validator.w3.org/):** validates HTML markup
 * **PHP:** server-side scripting language primarily used to build dynamic websites
 * **HTML:** standard markup language used to structure and display content on web pages
