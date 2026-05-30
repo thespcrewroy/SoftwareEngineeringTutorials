@@ -332,6 +332,7 @@
     * **TestFlight:** an Apple platform used to distribute and beta test mobile iOS, iPadOS, watchOS, and tvOS applications before release
     * **SonarQube:** code quality and security analysis platform that detects bugs, vulnerabilities, and maintainability issues
     * **MSTest:** Microsoft’s unit testing framework for creating, running, and managing automated tests in .NET applications
+    * **JUnit:** test automation framework for the Java programming language. 
 * **Continuous Integration and Continuous Deployment (CI/CD):** automates code integration, testing, and deployment
     * **GitHub Actions:** CI/CD automation platform within GitHub used to build, test, and deploy code through customizable workflows
     * **GitLab:**  provides Git repository hosting, version control, CI/CD pipelines, and tools for software development collaboration
