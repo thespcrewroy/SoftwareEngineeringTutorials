@@ -101,14 +101,14 @@
 * [Xcode Help: Launching an App](https://help.apple.com/xcode/mac/current/#/dev60b6fbbc7): guide for launching an app on the App Store
 
 ## Example Designs
-* [GitHub README Generator](https://github.com/andreasbm/readme?tab=readme-ov-file)
-* [Example GitHub Readme 1](https://github.com/RsaCtfTool/RsaCtfTool?tab=readme-ov-file)
+* [Example GitHub README 1](https://github.com/andreasbm/readme?tab=readme-ov-file)
+* [Example GitHub README 2](https://github.com/RsaCtfTool/RsaCtfTool?tab=readme-ov-file)
 * [Example GitHub Buy Me a Coffee](https://github.com/tandpfun/skill-icons#readme)
 * [Example GitHub Profile](https://github.com/bee-san?tab=overview&from=2024-12-01&to=2024-12-18)
 * [Example GitHub Account](https://github.com/cs1302uga)
 * [Student Organization: UGAHacks](https://ugahacks.com/#team)
 * [Anthony Sistilli: Example Insta Bio](https://linktr.ee/anthonysistilli)
-* [Pushpek Sidhu: Social Media Links](https://ash-portfolio.netlify.app/)
+* [Pushpek Sidhu: Example Social Media Links](https://ash-portfolio.netlify.app/)
 * [Codedex](https://www.codedex.io/)
 * [67 Cipher](https://legendile7.github.io/67cipher/)
 * [Noah Soloman](https://noahgsolomon.com/)
