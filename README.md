@@ -99,7 +99,7 @@
     * **[New Media Institute Links](https://docs.google.com/document/d/1YWvshP0z4tZ5fI1Uek7g-vsuycfHVVF0NC6efWZU0PY/edit?tab=t.0):** resources by the New Media Institue of UGA
     * **[Figma Community](https://github.com/thespcrewroy/SoftwareEngineeringTutorials/blob/main/UIUXDesign/FigmaCommunity.md):** social media for Figma designs
 * Design Trends
-    * **Bento UI:** design layout style that organizes content into visually distinct grid-based cards of varying sizes inspired by Japanese bento box
+    * **Bento UI:** organizes content into visually distinct grid-based cards of varying sizes inspired by Japanese bento box
 
 ## Web Builders
 * **Shopify:** web builder for e-commerce stores
