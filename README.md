@@ -166,11 +166,11 @@
 * **GitHub Copilot:** auto-complete for code-editors and IDEs
 
 ## Software Development Concepts
-* **Preload, Render, Precache, Lazy Loading (PRPL) Pattern**: a web performance architecture strategy that improves application loading speed
-* **Asynchronous JavaScript and XML (AJAX):** a web dev technique that allows web pages to send/receive data from servers asynchronously
-* **Create, Read, Update, Delete (CRUD):** four fundamental operations used to manage data in databases, REST APIs, and backend services
+* **Preload, Render, Precache, Lazy Loading (PRPL) Pattern**: a web performance architecture strategy that improves app loading speed
+* **Asynchronous JavaScript and XML (AJAX):** a web dev technique that allows web pages to data from servers asynchronously
+* **Create, Read, Update, Delete (CRUD):** 4 fundamental operations used to manage data in databases, REST APIs, and backends
 * **Test-Driven Development (TDD):** tests are written before code to guide implementation and ensure functionality
-* **Arrange, Act, Assert (AAA):** unit testing pattern that structures tests by setting up conditions, executing actions, and verifying outcomes
+* **Arrange, Act, Assert (AAA):** unit testing pattern that structures tests by setting up conditions, executing actions, and verifying
 * **SOLID Principles:** set of object-oriented design principles that improve software maintainability, scalability, and flexibility
     * **Single Responsibility Principle:** a class should have only one responsibility or reason to change
     * **Open/Closed Principle:** software entities should be open for extension but closed for modification
