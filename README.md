@@ -101,7 +101,6 @@
 * Design Trends
     * **Bento UI:** organizes content into visually distinct grid-based cards of varying sizes inspired by Japanese bento box
     * **Glassmorphism 2.0:** combining frosted-glass transparency with better readability
-    * **SpatialUIL** design approach that uses depth, layering, motion, lighting, and three-dimensional relationships
 
 ## Web Builders
 * **Shopify:** web builder for e-commerce stores
