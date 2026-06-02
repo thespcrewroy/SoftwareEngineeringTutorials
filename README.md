@@ -78,16 +78,6 @@
 
 ## UI/UX Design, Copywriting, and Typography
 * **Brandmark.io:** create AI-powered logo designs
-* **Cofolios:** social media site for tech portfolios
-* **Dribble:** social media site for digital designers
-* **Behance:** social media site for creative work
-* **Godly:** website design inspiration
-* **CSS Design Awards:** web design awards platform that showcases and recognizes outstanding websites
-* **Landbook:** web design inspiration gallery
-* **Web Awards:** best website design awards archive
-* **Mag Websites:** showcases creative, modern, and award-worthy website designs
-* **[New Media Institute Links](https://docs.google.com/document/d/1YWvshP0z4tZ5fI1Uek7g-vsuycfHVVF0NC6efWZU0PY/edit?tab=t.0):** UI/UX design resources by the New Media Institue of UGA
-* **[Figma Community](https://github.com/thespcrewroy/SoftwareEngineeringTutorials/blob/main/UIUXDesign/FigmaCommunity.md):** social media for Figma designs
 * **Diagrams.net:** create wireframes for websites, mobile apps, and software interfaces using built-in UI components
 * **[Wireframe.cc](https://github.com/thespcrewroy/SoftwareEngineeringTutorials/blob/main/UIUXDesign/WireframeCC.md):** cloud-based tool that allows users to create wireframes for websites and mobile applications easily
 * **[Concepts](https://github.com/thespcrewroy/SoftwareEngineeringTutorials/blob/main/UIUXDesign/Concepts.md):** drawing app used for lo-fidelity wireframes
@@ -97,6 +87,19 @@
 * **Fontawesome:** an icon toolkit and library that provides scalable vector icons and social logos
 * **Google Fonts:** free web font library for integrating customizable fonts into websites
 * **GoDaddy Airo:** create websites, generate logos, and manage marketing tasks
+* Inspiration
+    * * **Cofolios:** social media site for tech portfolios
+    * **Dribble:** social media site for digital designers
+    * **Behance:** social media site for creative work
+    * **Godly:** website design inspiration
+    * **CSS Design Awards:** web design awards platform that showcases and recognizes outstanding websites
+    * **Landbook:** web design inspiration gallery
+    * **Web Awards:** best website design awards archive
+    * **Mag Websites:** showcases creative, modern, and award-worthy website designs
+    * **[New Media Institute Links](https://docs.google.com/document/d/1YWvshP0z4tZ5fI1Uek7g-vsuycfHVVF0NC6efWZU0PY/edit?tab=t.0):** resources by the New Media Institue of UGA
+    * **[Figma Community](https://github.com/thespcrewroy/SoftwareEngineeringTutorials/blob/main/UIUXDesign/FigmaCommunity.md):** social media for Figma designs
+    * Design Trends
+    * **Bento UI:** design layout style that organizes content into visually distinct grid-based cards of varying sizes inspired by Japanese bento box
 
 ## Web Builders
 * **Shopify:** web builder for e-commerce stores
