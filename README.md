@@ -109,6 +109,7 @@
 * **SquareSpace:** web builder for beautiful design portfolios and websites
 * **Webflow:** web builder for custom professional sites
 * **Wix:** web builder for beginners
+* **Wix Harmony:** AI-powered hybrid website builder that allows you to generate a complete website layout 
 * **Wordpress:** web builder offering the most-customization for software engineers
 * **Codefoli:** AI-powered portfolio website builder
 * **Rosslite:** build platforms, websites, and systems for business to operate
