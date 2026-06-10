@@ -228,7 +228,7 @@
 * **Razor:** markup syntax and templating engine in ASP.NET used to build dynamic web pages with embedded C# code
 * **Jekyll:** a Ruby-based static site generation framework that converts Markdown and templatess into optimized websites
 * **ReactJS:** a JavaScript library developed by Meta for building fast component-based user interfaces
-* **NextJS:** a React-based full-stack web framework for building fast web applications with server-side rendering and static site generation
+* **NextJS:** a React-based web framework for building fast web applications with server-side rendering and static site generation
 * **VueJS:** a progressive JavaScript framework used to build interactive user interfaces and single-page web applications
 * **NuxtJS:** a Vue-based full-stack framework for building server-rendered, statically generated, and modern web applications
 * **Angular:** a TypeScript-based frontend web framework developed by Google for building dyanmic scalable websites
