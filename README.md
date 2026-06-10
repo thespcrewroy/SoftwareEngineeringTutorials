@@ -275,14 +275,14 @@
 ## Database
 * **Redis:** an in-memory data store commonly used as a cache, database, and message broker for ultra-fast data access for real time apps
 * **SQLite:** a serverless relational database engine that stores data locally in a single file
-* **MySQL:** an open-source relational database management system (RDBMS) used to store, organize, and manage structured data using SQL
+* **MySQL:** an open-source relational DBMS used to store, organize, and manage structured data using SQL
 * **PostgreSQL:** n open-source relational database system known for its reliability, advanced SQL features, and extensibility
-* **Supabase:** an open-source backend platform built on PostgreSQL that provides authentication, databases, storage, and real-time APIs
+* **Supabase:** an open-source BaaS on PostgreSQL that provides authentication, databases, storage, and APIs
 * **Oracle Database:** an enterprise-grade relational database management system developed by Oracle for security, scaling, and management
 * **MongoDB**: a NoSQL document-oriented database that stores data in flexible JSON-like documents
 * **AWS DynamoDB:** a fully managed NoSQL database service by Amazon to store semi-structured data for low-latency applications
 * **AWS Simple Storage Service (S3):** scalable cloud object storage service by AWS for storing unstructured data
-* **.NET Aspire SQL Server:** integration component in .NET Aspire used to configure, manage, and connect SQL Server database in cloud apps
+* **.NET Aspire SQL Server:** integration component in .NET Aspire used to configure, manage, and a SQL Server Database
 * **Object-Relational Mapping (ORM):** libraries that allow interaction with databases using programming languages rather than raw SQL
    * **Entity Framework**: a modern ORM tool by Microsoft for .NET and C# that simplifies database access
    * **Prisma**: a modern ORM tool for Node.js and TypeScript that simplifies database access
