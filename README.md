@@ -312,6 +312,7 @@
 * **Heroku:** cloud platform that simplifies application deployment, hosting, and scaling for developers
 * **AWS Elastic Beanstalk:** cloud deployment service that automatically manages infrastructure and scaling web apps on AWS
 * **Vercel:** cloud platform for deploying, hosting, and scaling frontend web applications and serverless functions
+* **iFastNet:** premium Hosting Provider, VPS hosting, and dedicated servers for backend web applications
 * **Netlify:** cloud platform for building, deploying, and hosting modern web apps with CI/CD and serverless features
 * **Hetzner:** cloud and dedicated hosting provider that offers scalable servers, storage, and infrastructure services
 * **Cloudinary:** cloud-based media management platform for storing, optimizing, transforming, and delivering images and videos
