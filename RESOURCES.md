@@ -76,8 +76,8 @@
 * [Google Cloud Labs](https://www.cloudskillsboost.google/users/sign_in): hands-on labs for learning Google Cloud services
 * [Google For Developers](https://developers.google.com/learn): developer docs, APIs, and learning resources from Google
 * [Java Developer Roadmap](https://roadmap.sh/java): step-by-step guide to becoming a Java developer
-* [Jetbrains Academy on Hyper Skill](https://hyperskill.org/providers/2?utm_medium=email&utm_campaign=education_auto-reply_student&utm_content=license-certificate-for-your-jetbrains-educational-pack): learn the Jetbrains stack
 * [JSMasteryPro](https://www.jsmastery.pro/): modern JavaScript and React projects with full tutorials
+* [Laws of UX](https://lawsofux.com/): learn the principles of UX design in this short course
 * [LearnToCloud](https://learntocloud.guide/): roadmap and resources for learning cloud computing skills
 * [LeetCode Learning](https://leetcode.com/): structured courses and study plans on LeetCode
 * [Markdown Guide](https://www.markdownguide.org/getting-started/): free reference guide to Markdown syntax and usage
