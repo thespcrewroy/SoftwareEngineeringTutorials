@@ -216,28 +216,31 @@
 * **[Website Validator](https://validator.w3.org/):** validates HTML markup
 * **PHP:** server-side scripting language primarily used to build dynamic websites
 * **HTML:** standard markup language used to structure and display content on web pages
-* **HTMX:** a lightweight HTML-based frontend library that makes dynamic server-driven web interactions without heavy JS frameworks
 * **CSS:** stylesheet language used to control the layout, design, and visual appearance of web pages.
 * **TailwindCSS:** a utility-first CSS framework by composing small reusable styling classes directly in HTML or JSX.
 * **Bootstrap:** a popular CSS framework using prebuilt UI components and layout utilities
 * **Javascript:** a versatile programming language used to create interactive websites
-* **jQuery:** a JavaScript library that simplifies DOM manipulation, event handling, animations, and AJAX interactions
 * **Typescript:** a statically typed superset of JavaScript that adds type safety, tooling, and modern features
 * **Javascript XML (JSX):** a JavaScript syntax extension used in React to interface components with HTML-like code inside JavaScript
 * **Typescript XML (TSX):** Combines Typscript with JSX to build components HTML-like code inside JavaScript
 * **Razor:** markup syntax and templating engine in ASP.NET used to build dynamic web pages with embedded C# code
 * **Jekyll:** a Ruby-based static site generation framework that converts Markdown and templatess into optimized websites
-* **ReactJS:** a JavaScript library developed by Meta for building fast component-based user interfaces
+* **ReactJS:** a JavaScript web framework developed by Meta for building fast component-based user interfaces
 * **NextJS:** a React-based web framework for building fast web applications with server-side rendering and static site generation
 * **VueJS:** a progressive JavaScript framework used to build interactive user interfaces and single-page web applications
 * **NuxtJS:** a Vue-based full-stack framework for building server-rendered, statically generated, and modern web applications
 * **Angular:** a TypeScript-based frontend web framework developed by Google for building dyanmic scalable websites
-* **Redux:** a state management library commonly used JS frameworks to manage and centralize application state predictably
-* **Framer Motion:** a React animation library used to create smooth interactive animations and transitions for web applications
 * **MagicUI:** a collection of prebuilt animated UI components and design elements for React and Tailwind CSS
-* **RadixUI:** low-level React component library that provides accessible unstyled UI primitives for building customizable intefaces
-* **ShadCN**: customizable React component library built with Tailwind CSS and Radix UI for creating modern web application interfaces
+
 * **Google Lighthouse:** an open-source auditing tool that analyzes web pages for performance, accessibility, and SEO
+* Libraries
+    * **jQuery:** a JavaScript library that simplifies DOM manipulation, event handling, animations, and AJAX interactions 
+    * **HTMX:** a lightweight HTML-based frontend library that makes dynamic server-driven web interactions without heavy JS frameworks
+    * **Redux:** a state management library commonly used JS frameworks to manage and centralize application state predictably
+    * **Framer Motion:** a React animation library used to create smooth interactive animations and transitions for web applications
+    * **RadixUI:** low-level React component library that provides accessible unstyled UI primitives for building customizable intefaces
+    * **ShadCN**: customizable React component library built with Tailwind CSS and Radix UI for creating modern web application interfaces
+
 
 ## Backend
 * **Java:** platform-independent object-oriented programming language widely used for enterprise applications
@@ -278,7 +281,7 @@
 * **MySQL:** an open-source relational DBMS used to store, organize, and manage structured data using SQL
 * **PostgreSQL:** n open-source relational database system known for its reliability, advanced SQL features, and extensibility
 * **Supabase:** an open-source BaaS on PostgreSQL that provides authentication, databases, storage, and APIs
-* **Oracle Database:** an enterprise-grade relational database management system developed by Oracle for security, scaling, and management
+* **Oracle Database:** an enterprise-grade relational database management system developed by Oracle
 * **MongoDB**: a NoSQL document-oriented database that stores data in flexible JSON-like documents
 * **AWS DynamoDB:** a fully managed NoSQL database service by Amazon to store semi-structured data for low-latency applications
 * **AWS Simple Storage Service (S3):** scalable cloud object storage service by AWS for storing unstructured data
