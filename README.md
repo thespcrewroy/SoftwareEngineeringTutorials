@@ -231,15 +231,14 @@
 * **NuxtJS:** a Vue-based full-stack framework for building server-rendered, statically generated, and modern web applications
 * **Angular:** a TypeScript-based frontend web framework developed by Google for building dyanmic scalable websites
 * **MagicUI:** a collection of prebuilt animated UI components and design elements for React and Tailwind CSS
-
 * **Google Lighthouse:** an open-source auditing tool that analyzes web pages for performance, accessibility, and SEO
 * Libraries
-    * **jQuery:** a JavaScript library that simplifies DOM manipulation, event handling, animations, and AJAX interactions 
-    * **HTMX:** a lightweight HTML-based frontend library that makes dynamic server-driven web interactions without heavy JS frameworks
-    * **Redux:** a state management library commonly used JS frameworks to manage and centralize application state predictably
-    * **Framer Motion:** a React animation library used to create smooth interactive animations and transitions for web applications
-    * **RadixUI:** low-level React component library that provides accessible unstyled UI primitives for building customizable intefaces
-    * **ShadCN**: customizable React component library built with Tailwind CSS and Radix UI for creating modern web application interfaces
+    * **jQuery:** simplifies DOM manipulation, event handling, animations, and AJAX interactions 
+    * **HTMX:** makes dynamic server-driven web interactions without heavy JS frameworks
+    * **Redux:** a state management library commonly to manage and centralize application state predictably
+    * **Framer Motion:** used to create smooth interactive animations and transitions for web applications
+    * **RadixUI:** low-level React component library that provides accessible unstyled UI primitives
+    * **ShadCN**: scaffolding tool built with Tailwind CSS and Radix UI for creating modern web app interfaces
 
 
 ## Backend
