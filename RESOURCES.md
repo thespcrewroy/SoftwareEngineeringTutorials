@@ -127,6 +127,8 @@
 * [Amy's Personal Website](https://readymag.website/u381267271/4803125/)
 * [Zion L. Basque](https://www.zionbasque.com/)
 * [Whatsapp](https://www.whatsapp.com/download)
+* [Rosslite](https://rossilite.com/)
+
 
 ## YouTubers
 * Traversy Media: web dev in ReactJS and NodeJS
