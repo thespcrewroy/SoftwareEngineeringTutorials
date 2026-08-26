@@ -358,7 +358,7 @@
 * **Markdown (MD):** a lightweight markup language used to format plain text into structured documents with simple syntax
     * **README.md:** provides an overview, setup instructions, and usage details for a software project
     * **SECURITY.md:** outlines security policies, vulnerability reporting procedures, and supported software versions
-    * **CODE_OF_CONDUCT.md:** defines community behavior standards, participation guidelines, and enforcement policies for contributors
+    * **CODE_OF_CONDUCT.md:** defines community behavior standards, participation guidelines, and enforcement policies
     * **CONTRIBUTING.md:** details the coding standards, workflows, and submission guidelines contributors must follow
 * **LICENSE:** specifies the legal terms, permissions, and restrictions for using, modifying, and distributing a software project
 * **Markdown XML (MDX):** combines Markd own with JSX, allowing developers to embed React components directly inside Markdown
