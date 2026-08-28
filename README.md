@@ -48,7 +48,7 @@
 * **GitHub Projects:**  GitHub used to organize tasks, track progress, and manage software development workflows
 * **GitHub Issues:** built-in GitHub tracking system used to report bugs, manage tasks, discuss features, and coordinate projects
 * **ServiceNow:** an enterprise cloud-based ticketing platform for IT service management and business workflow automatiom
-* **Trello:** visual project management tool that uses boards, lists, and cards to organize tasks and team workflows.
+* **Trello:** visual project management tool that uses boards, lists, and cards to organize tasks and team workflows
 * **Azure DevOps:** provides tools for version control, project tracking, and collaboration
 * **Slack:** workplace collaboration platform that supports messaging, file sharing, integrations, and team coordination
 
@@ -419,6 +419,7 @@
 * **Mapbox:** mapping and geospatial platform that provides customizable maps, navigation, location services, and spatial data tools
 
 ## Developer Tools
+* **GitHub Apps:** operate via webhooks and APIs independently using applets
 * **Chrome Devtools:** inspect, test, profile, and debug websites and web applications
 * **Bitly:** a URL shortening and link management platform used to create, track, and share shortened web links
 * **Linktree:** a link-in-bio platform that lets users share multiple links through a single customizable landing page
