@@ -101,6 +101,7 @@
 * [Xcode Help: Launching an App](https://help.apple.com/xcode/mac/current/#/dev60b6fbbc7): guide for launching an app on the App Store
 
 ## Example Designs
+* **[New Media Institute Links](https://docs.google.com/document/d/1YWvshP0z4tZ5fI1Uek7g-vsuycfHVVF0NC6efWZU0PY/edit?tab=t.0):** resources by the New Media Institue of UGA
 * [Example GitHub README 1](https://github.com/andreasbm/readme?tab=readme-ov-file)
 * [Example GitHub README 2](https://github.com/RsaCtfTool/RsaCtfTool?tab=readme-ov-file)
 * [Example GitHub Buy Me a Coffee](https://github.com/tandpfun/skill-icons#readme)
