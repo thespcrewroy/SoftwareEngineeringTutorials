@@ -86,6 +86,7 @@
 * [Refactoring Guru](https://refactoring.guru/): discover and apply refactoring patterns
 * [Sphere Online Judge](https://www.spoj.com/): online judge system with 20,000 competitive prog problems
 * [StackUp](https://app.stackup.dev/): earn rewards by completing coding quests and campaigns
+* [TeachYourselfCS](https://teachyourselfcs.com/#distributed-systems): for self-taught engineer or bootcamp grad pacers
 * [The Odin Project](https://www.theodinproject.com/): free full-stack web development curriculum
 * [ThreeJSMastery](https://threejs-journey.com/?c=p3#bruno-simon): tutorials for building 3D graphics and animations with Three.js
 * [VisualGo](https://visualgo.net/en): animated visualization of data structures and algorithms
