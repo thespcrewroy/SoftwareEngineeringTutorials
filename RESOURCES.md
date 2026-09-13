@@ -38,43 +38,43 @@
 * Simulation and Modeling (CSCI 4210)
 
 ## Communities
-* Discord Groups
-    * [Google Labs](https://discord.gg/googlelabs)
-    * [CS50](https://discord.gg/cs50)
-    * [Major League Hacking](https://discord.gg/mlh)
-    * [HackToberFest](https://discord.gg/hacktoberfest)
-    * [CodeDex Community](https://discord.gg/codedex)
-    * [DigitalOcean Community](https://discord.gg/digitalocean)
-    * [CodeHub @ UGA](https://discord.gg/b3dyyFCVre)
-    * [SolveUGA](https://discord.gg/FQ8NwhATdh)
-    * [Applied CS VIPR](https://discord.gg/V4MCtPPPwg)
-    * [Computer Science @ UGA](https://discord.gg/QG3STEkGet)
-    * [ACM + ACM-W @ UGA](https://discord.gg/qbRxaqhMve)
-    * [DevDogs](https://discord.gg/gaq9PtTxw4)
+* Discord
+    * [Google Labs](https://discord.gg/googlelabs): an official community for exploring, testing, and discussing Google’s latest experimental AI tools
+    * [CS50](https://discord.gg/cs50): a learning community where students can discuss Harvard’s CS50 courses and ask programming questions
+    * [Major League Hacking](https://discord.gg/mlh): a global community for hackathon participants to attend events
+    * [HackToberFest](https://discord.gg/hacktoberfest): a community that helps developers discover open-source projects and make contributions
+    * [CodeDex Community](https://discord.gg/codedex): a beginner-friendly coding community where learners can study programming and share projects
+    * [DigitalOcean Community](https://discord.gg/digitalocean): a developer community for discussing cloud computing, infrastructure and open-source
+    * [CodeHub @ UGA](https://discord.gg/b3dyyFCVre): a UGA student organization where members develop programming skills through workshops
+    * [SolveUGA](https://discord.gg/FQ8NwhATdh): a UGA community focused on strengthening problem-solving and technical interview skills
+    * [Applied CS VIPR](https://discord.gg/V4MCtPPPwg): a community for UGA students participating in applied computer science research
+    * [Computer Science @ UGA](https://discord.gg/QG3STEkGet): a general community for UGA computer science students to discuss courses.
+    * [ACM + ACM-W @ UGA](https://discord.gg/qbRxaqhMve): The community for UGA’s ACM and ACM-W chapters offering technical events.
+    * [DevDogs](https://discord.gg/gaq9PtTxw4): A Google-recognized UGA developer organization where students collaborate on full-stack software projects.
 * Meetup
-    * [Modern Web ATL - Alpharetta](https://www.meetup.com/modernwebatl/?eventOrigin=your_groups)
-    * [Developers of Athens](https://www.meetup.com/developers-of-athens/?eventOrigin=your_groups)
-    * [Google Developer Group - Athens](https://www.meetup.com/google-developer-group-athens/?eventOrigin=your_groups)
+    * [Modern Web ATL - Alpharetta](https://www.meetup.com/modernwebatl/?eventOrigin=your_groups): a community for learning and discussing modern web technologies
+    * [Developers of Athens](https://www.meetup.com/developers-of-athens/?eventOrigin=your_groups): a local community for developers to learn, collaborate, and network
+    * [Google Developer Group - Athens](https://www.meetup.com/google-developer-group-athens/?eventOrigin=your_groups): an Athens community for exploring Google technologies and connecting with developers
 
 ## Conferences & Events
-* [SASE National Convention](https://collegiate2023.saseconnect.org/)
-* [Outreach Hire Career Fair | GTech DEI](https://gtri.gatech.edu/outreach2hire)
-* [Google I/O](https://io.google/2023/)
-* [Apple WWDC](https://developer.apple.com/wwdc23/)
-* [Microsoft Ignite](https://ignite.microsoft.com/en-US/home)
-* [GitHub Universe](https://githubuniverse.com/)
-* [AWS Innovate](https://aws.amazon.com/events/innovate-online-conference/americas/)
-* [HacktoberFest](https://owasp.org/www-chapter-atlanta/)
-* [Major League Hacking](https://mlh.io/)
-    * [HackGT](https://hack.gt/)
-    * [UGAHacks](https://ugahacks.com/) | [MyByte](https://mybyte.ugahacks.com/login)
-    * [Hacklytics](https://hacklytics.io/)
-    * [AIATL](https://www.aiatl.io/)
-    * [StatusCode](https://hackathon.iiitkalyani.ac.in/)
-    * [GlobalHackWeek](https://ghw.mlh.io/?_gl=1*1gtd0hi*_ga*MTg1ODcwMDM3Mi4xNzEwMTI5Mjg3*_ga_E5KT6TC4TK*MTcxMDEzMTEyNi4yLjEuMTcxMDEzMTIyNi4wLjAuMA..)
-* [DevPost](https://devpost.com/)
-* [Google Summer of Code](https://summerofcode.withgoogle.com/)
-* [NASA Spcae Apps Challenge](https://www.spaceappschallenge.org/)
+* [SASE National Convention](https://collegiate2023.saseconnect.org/): a conference for Asian STEM professionals and students
+* [Outreach Hire Career Fair | GTech DEI](https://gtri.gatech.edu/outreach2hire): a Georgia Tech career fair connecting diverse talent with employers
+* [Google I/O](https://io.google/2023/): Google’s annual developer conference for new technologies and products
+* [Apple WWDC](https://developer.apple.com/wwdc23/): Apple’s annual conference for developers and software announcements
+* [Microsoft Ignite](https://ignite.microsoft.com/en-US/home): a conference covering Microsoft technology, cloud, and AI
+* [GitHub Universe](https://githubuniverse.com/): GitHub’s conference for developers, open source, and software innovation
+* [AWS Innovate](https://aws.amazon.com/events/innovate-online-conference/americas/): a virtual conference about AWS cloud technologies
+* [HacktoberFest](https://owasp.org/www-chapter-atlanta/): an annual event encouraging contributions to open-source projects
+* [DevPost](https://devpost.com/): a platform for discovering hackathons and submitting projects
+* [Google Summer of Code](https://summerofcode.withgoogle.com/): a program connecting contributors with open-source organizations
+* [NASA Spcae Apps Challenge](https://www.spaceappschallenge.org/): a global hackathon solving challenges using NASA data
+* [Major League Hacking](https://mlh.io/): a global community offering hackathons, technical events, and developer programs
+    * [HackGT](https://hack.gt/): Georgia Tech’s flagship student-run hackathon
+    * [UGAHacks](https://ugahacks.com/) | [MyByte](https://mybyte.ugahacks.com/login): UGA’s annual student hackathon and participant portal
+    * [Hacklytics](https://hacklytics.io/): Georgia Tech’s data science and AI hackathon
+    * [AIATL](https://www.aiatl.io/): an Atlanta hackathon focused on artificial intelligence
+    * [StatusCode](https://hackathon.iiitkalyani.ac.in/): a student hackathon for building innovative technology projects
+    * [GlobalHackWeek](https://ghw.mlh.io/?_gl=1*1gtd0hi*_ga*MTg1ODcwMDM3Mi4xNzEwMTI5Mjg3*_ga_E5KT6TC4TK*MTcxMDEzMTEyNi4yLjEuMTcxMDEzMTIyNi4wLjAuMA..): MLH’s virtual event series for learning skills and building projects
 
 ## Examples
 * [New Media Institute Links](https://docs.google.com/document/d/1YWvshP0z4tZ5fI1Uek7g-vsuycfHVVF0NC6efWZU0PY/edit?tab=t.0)
