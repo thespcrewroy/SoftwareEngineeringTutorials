@@ -131,7 +131,6 @@
 * [Whatsapp](https://www.whatsapp.com/download)
 * [Rosslite](https://rossilite.com/)
 
-
 ## YouTubers
 * Traversy Media: web dev in ReactJS and NodeJS
 * AcademindL web dev and mobile pp dev
