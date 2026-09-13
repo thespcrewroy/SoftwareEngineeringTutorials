@@ -1,5 +1,12 @@
 # Software Engineering Resources
 
+## Certifications
+* AWS Cloud Practitioner
+* AWS AI Practitioner
+* AWS Cloud Solutions Architect
+* Microsoft Office Speacialist
+* GCP Certification
+
 ## College Courses
 * Computing, Ethics, and Society (CSCI 3030)
 * Intro to Computer Science and Object Oriented Programming (CSCI 1301-1301L)
@@ -30,13 +37,6 @@
 * Virtual Reality (CSCI 4830)
 * Simulation and Modeling (CSCI 4210)
 
-## Certifications
-* AWS Cloud Practitioner
-* AWS AI Practitioner
-* AWS Cloud Solutions Architect
-* Microsoft Office Speacialist
-* GCP Certification
-
 ## Conferences & Events
 * [SASE National Convention](https://collegiate2023.saseconnect.org/)
 * [Outreach Hire Career Fair | GTech DEI](https://gtri.gatech.edu/outreach2hire)
@@ -57,7 +57,60 @@
 * [Google Summer of Code](https://summerofcode.withgoogle.com/)
 * [NASA Spcae Apps Challenge](https://www.spaceappschallenge.org/)
 
-## Web Development Resources
+## Examples
+* **[New Media Institute Links](https://docs.google.com/document/d/1YWvshP0z4tZ5fI1Uek7g-vsuycfHVVF0NC6efWZU0PY/edit?tab=t.0):** resources by the New Media Institue of UGA
+* [Example GitHub README 1](https://github.com/andreasbm/readme?tab=readme-ov-file)
+* [Example GitHub README 2](https://github.com/RsaCtfTool/RsaCtfTool?tab=readme-ov-file)
+* [Example GitHub Buy Me a Coffee](https://github.com/tandpfun/skill-icons#readme)
+* [Example GitHub Profile](https://github.com/bee-san?tab=overview&from=2024-12-01&to=2024-12-18)
+* [Example GitHub Account](https://github.com/cs1302uga)
+* [Student Organization: UGAHacks](https://ugahacks.com/#team)
+* [Anthony Sistilli: Example Insta Bio](https://linktr.ee/anthonysistilli)
+* [Pushpek Sidhu: Example Social Media Links](https://ash-portfolio.netlify.app/)
+* [Codedex](https://www.codedex.io/)
+* [67 Cipher](https://legendile7.github.io/67cipher/)
+* [Noah Soloman](https://noahgsolomon.com/)
+* [Chaz Meritt](https://chazmerritt.com/writings.html)
+* [Tyler Mazurek](https://tylermazurek.com/)
+* [Andy Truong](https://www.andytruong.dev/)
+* [Arnav Aurora](https://arnava2004.github.io/#)
+* [Bruno Simon](https://bruno-simon.com/)
+* [Ed Hinrichsen](https://www.edwardh.io/)
+* [Prasoon](https://prasoon-mahawar.dev/)
+* [Daniel Moya](https://moyadaniel.com/)
+* [Binill](https://www.thegr8binil.me/)
+* [Arthur Walendroff](https://wallenart.dev/)
+* [Arjun Bector](https://arjunbector.live/)
+* [AshwinKumar Pillai](https://ash-portfolio.netlify.app/)
+* [Amy's Personal Website](https://readymag.website/u381267271/4803125/)
+* [Zion L. Basque](https://www.zionbasque.com/)
+* [Whatsapp](https://www.whatsapp.com/download)
+* [Rosslite](https://rossilite.com/)
+
+## Forums
+* [OpenAI Developer Forum](https://community.openai.com/): developers discuss APIs, tools, best practices, and technical topics related to OpenAI technologies
+* [Docusaurus Blog](https://docusaurus.io/blog): official blog for Docusaurus that shares updates, tutorials, and insights about the documentation
+* [The GitHub blog](https://github.blog/): shares news, tutorials, engineering insights, product updates, and software development trends
+
+## Newsletters
+* [theprimeagen](https://www.reddit.com/r/theprimeagen/): focused on programming, software engineering, developer culture
+* [DEV Community](https://dev.to/): an online platform where developers share articles, tutorials, discussions, and insights
+* [Web Dev](https://web.dev/): building and maintaining websites and web applications using frontend, backend, and database technologies
+* [YCombinator Hacker News](https://news.ycombinator.com/news): social news focused on technology, startups, programming, and entrepreneurship
+* [Stories About Software](https://daedtech.com/): software engineering blog by Erik Dietrich that shares insights, opinions, and stories about programming
+
+## Podcasts
+* [The ReadME Podcast](https://github.com/readme/podcast): developer-focused podcast by GitHub about software, open source, and the people
+  
+## Resources - Mobile App Development
+* [Hackingwithswift.com](http://hackingwithswift.com): free Swift and iOS tutorials with practical projects
+* [Appcoda](https://www.appcoda.com/ios-8-action-extensions-tutorial/): iOS and Swift tutorials and books for app developers
+* [Kelidos Blog](https://www.kaleidosblog.com/how-to-upload-images-using-swift-2-send-multipart-post-request#google_vignette): tutorial for image upload
+* [SwiftUITutorials from Apple](https://developer.apple.com/tutorials/swiftui): Apple's official SwiftUI tutorials for beginners
+* [XCode Help: Prepare for App Distribution](https://help.apple.com/xcode/mac/current/#/dev91fe7130a): submitting apps to the App Store
+* [Xcode Help: Launching an App](https://help.apple.com/xcode/mac/current/#/dev60b6fbbc7): guide for launching an app on the App Store
+
+## Resources - Web Development
 * [30 Days of React](https://github.com/Asabeneh/30-Days-Of-React): learn react programming roadmap
 * [Backend Developer Roadmap](https://roadmap.sh/backend): step-by-step guide to becoming a backend developer
 * [Boot.Dev](https://www.boot.dev/): backend development courses with a gamified learning experience
@@ -93,44 +146,6 @@
 * [W3 Schools](https://www.w3schools.com/): beginner-friendly web development tutorials for HTML, CSS, and JS
 * [Zero To Mastery](https://zerotomastery.io/courses/): comprehensive coding courses from beginner to advanced
 
-## Mobile App Development Resources
-* [Hackingwithswift.com](http://hackingwithswift.com): free Swift and iOS tutorials with practical projects
-* [Appcoda](https://www.appcoda.com/ios-8-action-extensions-tutorial/): iOS and Swift tutorials and books for app developers
-* [Kelidos Blog](https://www.kaleidosblog.com/how-to-upload-images-using-swift-2-send-multipart-post-request#google_vignette): tutorial for image upload
-* [SwiftUITutorials from Apple](https://developer.apple.com/tutorials/swiftui): Apple's official SwiftUI tutorials for beginners
-* [XCode Help: Prepare for App Distribution](https://help.apple.com/xcode/mac/current/#/dev91fe7130a): submitting apps to the App Store
-* [Xcode Help: Launching an App](https://help.apple.com/xcode/mac/current/#/dev60b6fbbc7): guide for launching an app on the App Store
-
-## Examples
-* **[New Media Institute Links](https://docs.google.com/document/d/1YWvshP0z4tZ5fI1Uek7g-vsuycfHVVF0NC6efWZU0PY/edit?tab=t.0):** resources by the New Media Institue of UGA
-* [Example GitHub README 1](https://github.com/andreasbm/readme?tab=readme-ov-file)
-* [Example GitHub README 2](https://github.com/RsaCtfTool/RsaCtfTool?tab=readme-ov-file)
-* [Example GitHub Buy Me a Coffee](https://github.com/tandpfun/skill-icons#readme)
-* [Example GitHub Profile](https://github.com/bee-san?tab=overview&from=2024-12-01&to=2024-12-18)
-* [Example GitHub Account](https://github.com/cs1302uga)
-* [Student Organization: UGAHacks](https://ugahacks.com/#team)
-* [Anthony Sistilli: Example Insta Bio](https://linktr.ee/anthonysistilli)
-* [Pushpek Sidhu: Example Social Media Links](https://ash-portfolio.netlify.app/)
-* [Codedex](https://www.codedex.io/)
-* [67 Cipher](https://legendile7.github.io/67cipher/)
-* [Noah Soloman](https://noahgsolomon.com/)
-* [Chaz Meritt](https://chazmerritt.com/writings.html)
-* [Tyler Mazurek](https://tylermazurek.com/)
-* [Andy Truong](https://www.andytruong.dev/)
-* [Arnav Aurora](https://arnava2004.github.io/#)
-* [Bruno Simon](https://bruno-simon.com/)
-* [Ed Hinrichsen](https://www.edwardh.io/)
-* [Prasoon](https://prasoon-mahawar.dev/)
-* [Daniel Moya](https://moyadaniel.com/)
-* [Binill](https://www.thegr8binil.me/)
-* [Arthur Walendroff](https://wallenart.dev/)
-* [Arjun Bector](https://arjunbector.live/)
-* [AshwinKumar Pillai](https://ash-portfolio.netlify.app/)
-* [Amy's Personal Website](https://readymag.website/u381267271/4803125/)
-* [Zion L. Basque](https://www.zionbasque.com/)
-* [Whatsapp](https://www.whatsapp.com/download)
-* [Rosslite](https://rossilite.com/)
-
 ## YouTubers
 * Traversy Media: web dev in ReactJS and NodeJS
 * AcademindL web dev and mobile pp dev
@@ -144,19 +159,8 @@
 * [Matt Pocock](https://www.youtube.com/@mattpocockuk): typescript developer
 * [Web Dev Simplified](https://www.youtube.com/@WebDevSimplified/videos): pure web dev content
 
-## Podcasts
-* [The ReadME Podcast](https://github.com/readme/podcast): developer-focused podcast by GitHub about software, open source, and the people
 
-## Newsletters
-* [theprimeagen](https://www.reddit.com/r/theprimeagen/): focused on programming, software engineering, developer culture
-* [DEV Community](https://dev.to/): an online platform where developers share articles, tutorials, discussions, and insights
-* [Web Dev](https://web.dev/): building and maintaining websites and web applications using frontend, backend, and database technologies
-* [YCombinator Hacker News](https://news.ycombinator.com/news): social news focused on technology, startups, programming, and entrepreneurship
-* [Stories About Software](https://daedtech.com/): software engineering blog by Erik Dietrich that shares insights, opinions, and stories about programming
 
-## Forums
-* [OpenAI Developer Forum](https://community.openai.com/): developers discuss APIs, tools, best practices, and technical topics related to OpenAI technologies
-* [Docusaurus Blog](https://docusaurus.io/blog): official blog for Docusaurus that shares updates, tutorials, and insights about the documentation
-* [The GitHub blog](https://github.blog/): shares news, tutorials, engineering insights, product updates, and software development trends
+
 
 
