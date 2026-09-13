@@ -96,6 +96,7 @@
 * [Bruno Simon](https://bruno-simon.com/)
 * [Ed Hinrichsen](https://www.edwardh.io/)
 * [Prasoon](https://prasoon-mahawar.dev/)
+* [PwnSec](https://pwnsec.ctf.ae/#event)
 * [Daniel Moya](https://moyadaniel.com/)
 * [Binill](https://www.thegr8binil.me/)
 * [Arthur Walendroff](https://wallenart.dev/)
