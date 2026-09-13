@@ -132,6 +132,10 @@
 * [XCode Help: Prepare for App Distribution](https://help.apple.com/xcode/mac/current/#/dev91fe7130a): submitting apps to the App Store
 * [Xcode Help: Launching an App](https://help.apple.com/xcode/mac/current/#/dev60b6fbbc7): guide for launching an app on the App Store
 
+### Research
+* [CSRankings](https://csrankings.org/#/index?sec&us): the only way to understand university research rankings in computer science
+* [Google Scholar](https://scholar.google.com/): the one-stop resource for gathering citations on public works
+
 ### Web Development
 * [30 Days of React](https://github.com/Asabeneh/30-Days-Of-React): learn react programming roadmap
 * [Backend Developer Roadmap](https://roadmap.sh/backend): step-by-step guide to becoming a backend developer
