@@ -166,12 +166,12 @@
 * [Zero To Mastery](https://zerotomastery.io/courses/): comprehensive coding courses from beginner to advanced
 
 ## YouTubers
-* Traversy Media: web dev in ReactJS and NodeJS
-* AcademindL web dev and mobile pp dev
-* Codecourse: web dev using PHP and Laravel
-* The Coding Train: creative coding using p5.js
-* Programming with Mosh: coding from python to C#
-* Derek Banas: python, java, and Swift development
+* [Traversy Media](https://www.youtube.com/traversymedia): web dev in ReactJS and NodeJS
+* [Academind](https://www.youtube.com/@academind): web dev and mobile pp dev
+* [Codecourse](https://www.youtube.com/@codecourse): web dev using PHP and Laravel
+* [The Coding Train](https://www.youtube.com/@TheCodingTrain): creative coding using p5.js
+* [Programming with Mosh](https://www.youtube.com/@programmingwithmosh): coding from python to C#
+* [Derek Banas](https://www.youtube.com/@derekbanas): python, java, and Swift development
 * [Coding with Chris](https://www.youtube.com/@CodeWithChris): SwiftUI dev
 * [Jared Davidson](https://www.youtube.com/@Archetapp/videos): SwiftuI dev
 * [CodeAesthetic](https://www.youtube.com/@CodeAesthetic): code styling best practices
