@@ -410,6 +410,9 @@
 * **Soroban:** smart contract platform built on the Stellar blockchain that enables scalable and developer-friendly app development
 * **Stellar:** an open-source blockchain network designed for low-cost cross-border payments and digital asset transfers
 
+## FinTech
+- **PayPal**: an online platform for sending, receiving, and processing payments
+
 ## Geographic Information Systems (GIS)
 * **[ArcGIS](https://usg.maps.arcgis.com/home/webscene/viewer.html):** GIS for mapping, spatial analysis, geospatial data management, and visualization
 * **QGIS:** open-source GIS pplication used for creating, analyzing, and visualizing geospatial data and maps
