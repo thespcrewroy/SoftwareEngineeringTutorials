@@ -37,6 +37,25 @@
 * Virtual Reality (CSCI 4830)
 * Simulation and Modeling (CSCI 4210)
 
+## Communities
+* Discord Groups
+    * [Google Labs](https://discord.gg/googlelabs)
+    * [CS50](https://discord.gg/cs50)
+    * [Major League Hacking](https://discord.gg/mlh)
+    * [HackToberFest](https://discord.gg/hacktoberfest)
+    * [CodeDex Community](https://discord.gg/codedex)
+    * [DigitalOcean Community](https://discord.gg/digitalocean)
+    * [CodeHub @ UGA](https://discord.gg/b3dyyFCVre)
+    * [SolveUGA](https://discord.gg/FQ8NwhATdh)
+    * [Applied CS VIPR](https://discord.gg/V4MCtPPPwg)
+    * [Computer Science @ UGA](https://discord.gg/QG3STEkGet)
+    * [ACM + ACM-W @ UGA](https://discord.gg/qbRxaqhMve)
+    * [DevDogs](https://discord.gg/gaq9PtTxw4)
+* Meetup
+    * [Modern Web ATL - Alpharetta](https://www.meetup.com/modernwebatl/?eventOrigin=your_groups)
+    * [Developers of Athens](https://www.meetup.com/developers-of-athens/?eventOrigin=your_groups)
+    * [Google Developer Group - Athens](https://www.meetup.com/google-developer-group-athens/?eventOrigin=your_groups)
+
 ## Conferences & Events
 * [SASE National Convention](https://collegiate2023.saseconnect.org/)
 * [Outreach Hire Career Fair | GTech DEI](https://gtri.gatech.edu/outreach2hire)
