@@ -122,7 +122,9 @@
 ## Podcasts
 * [The ReadME Podcast](https://github.com/readme/podcast): developer-focused podcast by GitHub about software, open source, and the people
   
-## Resources - Mobile App Development
+## Resources
+
+### Mobile App Development
 * [Hackingwithswift.com](http://hackingwithswift.com): free Swift and iOS tutorials with practical projects
 * [Appcoda](https://www.appcoda.com/ios-8-action-extensions-tutorial/): iOS and Swift tutorials and books for app developers
 * [Kelidos Blog](https://www.kaleidosblog.com/how-to-upload-images-using-swift-2-send-multipart-post-request#google_vignette): tutorial for image upload
@@ -130,7 +132,7 @@
 * [XCode Help: Prepare for App Distribution](https://help.apple.com/xcode/mac/current/#/dev91fe7130a): submitting apps to the App Store
 * [Xcode Help: Launching an App](https://help.apple.com/xcode/mac/current/#/dev60b6fbbc7): guide for launching an app on the App Store
 
-## Resources - Web Development
+### Web Development
 * [30 Days of React](https://github.com/Asabeneh/30-Days-Of-React): learn react programming roadmap
 * [Backend Developer Roadmap](https://roadmap.sh/backend): step-by-step guide to becoming a backend developer
 * [Boot.Dev](https://www.boot.dev/): backend development courses with a gamified learning experience
