@@ -426,3 +426,6 @@
 * **Overleaf:** cloud-based collaborative LaTeX editor for writing, editing, and publishing technical and academic documents
 * **XQuartz:** open-source X Window System server that enables Linux and Unix graphical applications to run on macOS
 * **Stack Overflow:** a question-and-answer website for computer programmers
+
+<p align="right"><a href="#top">🔼 Back to top</a></p>
+</small>
