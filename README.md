@@ -352,6 +352,7 @@
     * **Jenkins:** automates software building, testing, and deployment through customizable pipelines
 
 ## Documentation
+* **[Open Bug Bounty](https://www.openbugbounty.org/):** a platform for reporting web vulnerabilities through coordinated disclosure
 * **OpenAPI:** a specification standard for describing and documenting RESTful APIs in a machine-readable format
 * **AsyncAPI:** specification framework for documenting and designing event-driven APIS for messaging and streaming systems
 * **Markdown (MD):** a lightweight markup language used to format plain text into structured documents with simple syntax
@@ -369,7 +370,7 @@
 * **[Pastebin](https://pastebin.com/):** online service for storing and sharing plain text, code snippets, and logs
 * **Scribe:** AI-powered documentation generator 
 
-## Systems Programming
+## Systems Programming Optimization
 * **C:** a procedural programming language widely used for operating systems, embedded systems, and low-level software
 * **C++:** a high-performance programming language used mainly for performance cirtical applications
 * **GNU Debugger:** CLI debugger used to analyze, troubleshoot, and control the execution of programs written in systems languages
