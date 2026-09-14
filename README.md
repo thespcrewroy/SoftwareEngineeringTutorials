@@ -324,6 +324,7 @@
 ## DevOps
 * **Orchestration:** the coordination of automated tasks across the SDLC, enabling teams to manage complex environments efficiently
     * **Ansible:** open-source IT automation tool used to configure systems, deploy applications, and orchestrate infrastructure
+    * **Chef:** automates how infrastructure code (cookbooks and recipes) is tested, versioned, and deployed to live servers
     * **Kubernetes (K8s):** automates the deployment, scaling, networking, and management of containerized applications
     * **Puppet:** automates infrastructure provisioning and system configuration across servers
     * **SaltStack:** automates infrastructure management, remote execution, and system configuration at scale using Python
