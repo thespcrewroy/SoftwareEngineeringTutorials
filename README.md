@@ -343,7 +343,6 @@
     * **SonarQube:** code quality and security analysis platform that detects bugs, vulnerabilities, and maintainability issues
     * **MSTest:** Microsoft’s unit testing framework for creating, running, and managing automated tests in .NET applications
     * **JUnit:** test automation framework for the Java programming language.
-    * **Snyk**: a platform for identifying vulnerabilities in code, dependencies, containers, and infrastructure
     * **[Open Bug Bounty](https://www.openbugbounty.org/):** a platform for reporting web vulnerabilities through coordinated disclosure
 * **Continuous Integration and Continuous Deployment (CI/CD):** automates code integration, testing, and deployment
     * **GitHub Actions:** CI/CD automation platform within GitHub used to build, test, and deploy code through customizable workflows
