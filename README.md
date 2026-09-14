@@ -208,6 +208,7 @@
 * **.xml:** markup language used to structure, store, and transport data in a readable and hierarchical format
 * **.gitignore:** git configuration file that specifies which files and folders should be excluded from version control tracking.
 * **.nginx:** commonly associated with NGINX server settings for routing, proxies, server load balancing
+* **~/.ssh**: the user-specific directory that stores SSH keys, configuration files, known hosts, and authorized keys
 
 ## Frontend
 * **Codepen:** a social media platform for building, testing, and sharing front-end web projects
