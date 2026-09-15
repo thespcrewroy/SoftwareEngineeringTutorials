@@ -57,6 +57,8 @@
     * [Google Developer Group - Athens](https://www.meetup.com/google-developer-group-athens/?eventOrigin=your_groups): an Athens community for exploring Google technologies and connecting with developers
 
 ## Conferences & Events
+* [2 August] [Atlanta Tech Week](https://www.atl.tech/): bring together founders, investors, operators and builders
+* [4 September] [Atlanta FinTech Week](https://atlfintechweek.com/):where global fintech infrastructure gets built, tested, and governed
 * [SASE National Convention](https://collegiate2023.saseconnect.org/): a conference for Asian STEM professionals and students
 * [Outreach Hire Career Fair | GTech DEI](https://gtri.gatech.edu/outreach2hire): a Georgia Tech career fair connecting diverse talent with employers
 * [Google I/O](https://io.google/2023/): Google’s annual developer conference for new technologies and products
