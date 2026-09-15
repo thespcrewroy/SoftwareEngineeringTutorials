@@ -119,11 +119,14 @@
 * [The GitHub blog](https://github.blog/): shares news, tutorials, engineering insights, product updates, and software development trends
 
 ## Internships
+- [1 July - 1 August] [GitHub Campus Experts](https://education.github.com/campus_experts/): empowers students to be leaders of technical communities on college campuses
 - [2 August – 2 November] [UberSTAR](https://jobs.uber.com/en/teams/emerging-talent/): early-career software-engineering internship
 - [1 September – 1 October] [NSA Student Internships](https://www.intelligencecareers.gov/nsa/students-and-internships): internships in cybersecurity, intelligence, and tech
 - [1 September – 1 November] [Cigna TECDP](https://jobs.thecignagroup.com/us/en/technology-development-program): technology internship and early-career development program
 - [1 September – 1 November] [Cigna Summer Internship](https://jobs.thecignagroup.com/us/en/summer-internship-program): summer internships across technical and business fields
 - [4 September] [Google STEP](https://buildyourfuture.withgoogle.com/programs/step): software-engineering internship for early undergraduate students
+- [1 October - 4 October] [Khan Academy Internship Program](https://www.khanacademy.org/careers/interns): emote summer software engineering internship for CS students
+- [2 October - 4 October] [Coding it Forward Summer Fellowship](https://codingitforward.com/fellowship): paid ten-week Fellowship empowers early-career technologists
 - [1 January] [Dropbox Emerging Talent Internship](https://www.dropbox.jobs/en/emerging-talent/): 12-week summer internship with real-world projects
 - [1 January] [Outreachy](https://www.outreachy.org/docs/applicant/): paid remote internships in open-source projects
 - [3 January] [Amazon Future Engineer](https://www.amazonfutureengineer.com/scholarships): scholarship and software-engineering internship program
