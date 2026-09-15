@@ -58,25 +58,27 @@
 
 ## Competitions
 * [3 August] [StatusCode](https://hackathon.iiitkalyani.ac.in/): a student hackathon for building innovative technology projects
+* [2 September] [HackMIT](https://hackmit.org/): weekend-long event where students from around the globe come together 
 * [4 September] [HackGT](https://hack.gt/): Georgia Tech’s flagship student-run hackathon
 * [4 September] [HacktoberFest](https://owasp.org/www-chapter-atlanta/): an annual event encouraging contributions to open-source projects
-* [1 October] [NASA International Space Apps Challenge](https://www.spaceappschallenge.org/)
+* [1 October] [NASA International Space Apps Challenge](https://www.spaceappschallenge.org/): the largest annual global hackathon o
 * [1 November] [AIATL](https://www.aiatl.io/): an Atlanta hackathon focused on artificial intelligence
-* [1 January - 1 May] [Congressional App Challenge](https://www.congressionalappchallenge.us/)
-* [3 February - 1 April] [Google Summer of Code](https://developers.google.com/open-source/gsoc/timeline)
+* [1 January - 1 May] [Congressional App Challenge](https://www.congressionalappchallenge.us/): design an application for government use
+* [3 February - 1 April] [Google Summer of Code](https://developers.google.com/open-source/gsoc/timeline): bringing new contributors into open source SDE
 * [1 February] [UGAHacks](https://ugahacks.com/) | [MyByte](https://mybyte.ugahacks.com/login): UGA’s annual student hackathon and participant portal
 * [3 February] [Hacklytics](https://hacklytics.io/): Georgia Tech’s data science and AI hackathon
 * [GlobalHackWeek](https://ghw.mlh.io/?_gl=1*1gtd0hi*_ga*MTg1ODcwMDM3Mi4xNzEwMTI5Mjg3*_ga_E5KT6TC4TK*MTcxMDEzMTEyNi4yLjEuMTcxMDEzMTIyNi4wLjAuMA..): MLH’s virtual event series
 
 ## Conferences & Events
 * [2 August] [Atlanta Tech Week](https://www.atl.tech/): bring together founders, investors, operators and builders
+* [3 September] [AWS Innovate](https://aws.amazon.com/events/innovate-online-conference/americas/): a virtual conference about AWS cloud technologies
 * [4 September] [Atlanta FinTech Week](https://atlfintechweek.com/):where global fintech infrastructure gets built, tested, and governed
 * [2 October] [SASE National Convention](https://collegiate2023.saseconnect.org/): a conference for Asian STEM professionals and students
+* [4 October] [Google DevFest Atlanta](https://developers.google.com/community/devfest): world’s largest community-driven tech conference
 * [4 October] [GitHub Universe](https://githubuniverse.com/): GitHub’s conference for developers, open source, and software innovation
 * [3 November] [Microsoft Ignite](https://ignite.microsoft.com/en-US/home): a conference covering Microsoft technology, cloud, and AI
 * [3 May] [Google I/O](https://io.google/2023/): Google’s annual developer conference for new technologies and products
 * [2 June] [Apple WWDC](https://developer.apple.com/wwdc23/): Apple’s annual conference for developers and software announcements
-* [3 September] [AWS Innovate](https://aws.amazon.com/events/innovate-online-conference/americas/): a virtual conference about AWS cloud technologies
 * [DevPost](https://devpost.com/): a platform for discovering hackathons and submitting projects
     
 ## Examples
