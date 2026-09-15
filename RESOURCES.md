@@ -77,6 +77,7 @@
 * [4 October] [Google DevFest Atlanta](https://developers.google.com/community/devfest): world’s largest community-driven tech conference
 * [4 October] [GitHub Universe](https://githubuniverse.com/): GitHub’s conference for developers, open source, and software innovation
 * [3 November] [Microsoft Ignite](https://ignite.microsoft.com/en-US/home): a conference covering Microsoft technology, cloud, and AI
+* [4 February] [Industrial Mathematics Day](https://www.math.uga.edu/events/content/2025/industrial-mathematics-day-spring-2026): free event for math and CS members
 * [2 April] [ImmerseGT](https://www.immersegt.org/): one of the biggest XR/VR hackathons
 * [3 May] [Google I/O](https://io.google/2023/): Google’s annual developer conference for new technologies and products
 * [2 June] [Apple WWDC](https://developer.apple.com/wwdc23/): Apple’s annual conference for developers and software announcements
