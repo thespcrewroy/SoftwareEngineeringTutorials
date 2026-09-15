@@ -54,7 +54,7 @@
 * Meetup
     * [Modern Web ATL - Alpharetta](https://www.meetup.com/modernwebatl/?eventOrigin=your_groups): a community for learning and discussing modern web technologies
     * [Developers of Athens](https://www.meetup.com/developers-of-athens/?eventOrigin=your_groups): a local community for developers to learn, collaborate, and network
-    * [Google Developer Group - Athens](https://www.meetup.com/google-developer-group-athens/?eventOrigin=your_groups): an Athens community for exploring Google technologies and connecting with developers
+    * [Google Developer Group - Athens](https://www.meetup.com/google-developer-group-athens/?eventOrigin=your_groups): an Athens community for exploring Google tech
 
 ## Competitions
 * [3 August] [StatusCode](https://hackathon.iiitkalyani.ac.in/): a student hackathon for building innovative technology projects
@@ -119,15 +119,16 @@
 * [The GitHub blog](https://github.blog/): shares news, tutorials, engineering insights, product updates, and software development trends
 
 ## Internships
-* [2 August - 2 November] [UberSTAR](https://www.uber.com/us/en/careers/uberstar/)
-* [1 September - 1 October] [NASA](https://www.intelligencecareers.gov/nsa/students-and-internships)
-* [1 September - 1 November] [Cigna Tech Development](https://jobs.thecignagroup.com/us/en/technology-development-program)
-* [1 September - 1 November] [Cigna Summer Internship](https://jobs.thecignagroup.com/us/en/summer-internship-program)
-* [4 September] [Google STEP](https://buildyourfuture.withgoogle.com/programs/step)
-* [1 January] [Dropbox Launch Internship Program](https://jobs.dropbox.com/teams/emerging-talent#open-positions)
-* [1 January] [Outreachy Remote Tech Internship Program](https://www.outreachy.org/docs/applicant/)
-* [1 January - 1 February] [Microsoft the New Technologist Internship Program](https://www.newtechnologists.com/index.html)
-* [2 March] [NASA JPL Lab](https://www.jpl.nasa.gov/edu/intern/apply/summer-internship-program/)
+- [2 August – 2 November] [UberSTAR](https://jobs.uber.com/en/teams/emerging-talent/): early-career software-engineering internship
+- [1 September – 1 October] [NSA Student Internships](https://www.intelligencecareers.gov/nsa/students-and-internships): internships in cybersecurity, intelligence, and tech
+- [1 September – 1 November] [Cigna TECDP](https://jobs.thecignagroup.com/us/en/technology-development-program): technology internship and early-career development program
+- [1 September – 1 November] [Cigna Summer Internship](https://jobs.thecignagroup.com/us/en/summer-internship-program): summer internships across technical and business fields
+- [4 September] [Google STEP](https://buildyourfuture.withgoogle.com/programs/step): software-engineering internship for early undergraduate students
+- [1 January] [Dropbox Emerging Talent Internship](https://www.dropbox.jobs/en/emerging-talent/): 12-week summer internship with real-world projects
+- [1 January] [Outreachy](https://www.outreachy.org/docs/applicant/): paid remote internships in open-source projects
+- [3 January] [Amazon Future Engineer](https://www.amazonfutureengineer.com/scholarships): scholarship and software-engineering internship program
+- [1 January – 1 February] [The New Technologists](https://www.newtechnologists.com/): paid technical training and career-development program
+- [2 March] [NASA JPL Summer Internship](https://www.jpl.nasa.gov/edu/internships/apply/jpl-summer-internship-program/): internships supporting NASA science projects
 
 ## Newsletters
 * [theprimeagen](https://www.reddit.com/r/theprimeagen/): focused on programming, software engineering, developer culture
@@ -155,6 +156,7 @@
 
 ### Web Development
 * [30 Days of React](https://github.com/Asabeneh/30-Days-Of-React): learn react programming roadmap
+* [Amazon Future Engineers](https://www.amazonfutureengineer.com/): free childhood-to-career program offering K–12 CS education
 * [Backend Developer Roadmap](https://roadmap.sh/backend): step-by-step guide to becoming a backend developer
 * [Boot.Dev](https://www.boot.dev/): backend development courses with a gamified learning experience
 * [Codecademy](https://www.codecademy.com/): interactive coding lessons for beginners across many languages
