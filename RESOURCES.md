@@ -72,11 +72,12 @@
 ## Conferences & Events
 * [2 August] [Atlanta Tech Week](https://www.atl.tech/): bring together founders, investors, operators and builders
 * [3 September] [AWS Innovate](https://aws.amazon.com/events/innovate-online-conference/americas/): a virtual conference about AWS cloud technologies
-* [4 September] [Atlanta FinTech Week](https://atlfintechweek.com/):where global fintech infrastructure gets built, tested, and governed
 * [2 October] [SASE National Convention](https://collegiate2023.saseconnect.org/): a conference for Asian STEM professionals and students
+* [3 October] [Atlanta Developers Confernece](https://www.atldevcon.com/): the #1 tech conference listing
 * [4 October] [Google DevFest Atlanta](https://developers.google.com/community/devfest): world’s largest community-driven tech conference
 * [4 October] [GitHub Universe](https://githubuniverse.com/): GitHub’s conference for developers, open source, and software innovation
 * [3 November] [Microsoft Ignite](https://ignite.microsoft.com/en-US/home): a conference covering Microsoft technology, cloud, and AI
+* [2 April] [ImmerseGT](https://www.immersegt.org/): one of the biggest XR/VR hackathons
 * [3 May] [Google I/O](https://io.google/2023/): Google’s annual developer conference for new technologies and products
 * [2 June] [Apple WWDC](https://developer.apple.com/wwdc23/): Apple’s annual conference for developers and software announcements
 * [DevPost](https://devpost.com/): a platform for discovering hackathons and submitting projects
