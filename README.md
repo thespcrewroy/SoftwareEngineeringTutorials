@@ -330,9 +330,10 @@
     * **SaltStack:** automates infrastructure management, remote execution, and system configuration at scale using Python
     * **.NET Aspire:** cloud-native development framework for building, orchestrating, and managing distributed .NET applications
     * **Redhat Openshift:** Kubernetes-based container platform for building, deploying, managing, and scaling cloud-native applications
-* **Containerization/Virtualization:** create isolated computing environments to eliminate dependecy issues accross different infrastructures
+* **Containerization:** create isolated computing environments to eliminate dependecy issues accross different infrastructures
     * **Docker:** packages applications and their dependencies into portable, isolated containers
     * **Podman:** containerization platform for building, running, and managing containers without requiring a centralized daemon
+* **Virtualization:** create entire operating systems to eliminate dependency isues accross infrastructure
     * **AWS Elastic Compute Cloud (EC2):** scalable virtual servers in the cloud for hosting applications as a service
     * **AWS Virtual Private Cloud (VPC):** isolated virtual networks within AWS for securely hosting and managing cloud resources
 * **Unit Testing:** software testing method that verifies individual components or functions of an application work correctly in isolation
