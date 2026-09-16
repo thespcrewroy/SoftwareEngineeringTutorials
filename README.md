@@ -243,6 +243,10 @@
 
 ## Backend
 * **Java:** platform-independent object-oriented programming language widely used for enterprise applications
+* **Lisp:** multi-paradigm language that was the earliest functional programming language and second high-level language
+* **Fortran:** an early computer programming language designed for high-speed mathematical
+* **Haskell:** purely functional programming language known for its mathematical purity, laziness, and strong typing
+* **OCaml:** heavily emphasizes functional programming, type safety, and raw performance
 * **Python:** versatile high-level programming language known for its readability and use in web development
 * **Ruby:** dynamic OOP programming language designed for simplicity and developer productivity
 * **Golang:** statically typed language developed by Google to build scalable backend systems, cloud services, and concurrent apps
@@ -375,10 +379,12 @@
 ## Systems Programming Optimization
 * **C:** a procedural programming language widely used for operating systems, embedded systems, and low-level software
 * **C++:** a high-performance programming language used mainly for performance cirtical applications
+* **F'**: an open-source, component-driven flight software development framework
 * **GNU Debugger:** CLI debugger used to analyze, troubleshoot, and control the execution of programs written in systems languages
 * **Lua:** lightweight embeddable scripting language designed for fast execution for games, embedded systems, and app scripting
 * **Rust:** systems programming language focused on performance, memory safety, and concurrency garbage collection
 * **WebAssembly (Wasm):** a low-level binary instruction format for optimizing performance on frotends when used with JavaScript
+* **GNU Radio**: free software development framework that provides signal processing functions for software-defined radio
 
 ## Desktop App Development
 * **.NET:** a Microsoft software development platform and runtime for building enterprise applications using C# and F#
