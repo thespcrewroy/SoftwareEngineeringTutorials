@@ -108,6 +108,7 @@
 * [Binill](https://www.thegr8binil.me/)
 * [Arthur Walendroff](https://wallenart.dev/)
 * [Arjun Bector](https://arjunbector.live/)
+* [Sri Adithya ZyphenSVC](https://zyphensvc.com/)
 * [AshwinKumar Pillai](https://ash-portfolio.netlify.app/)
 * [Amy's Personal Website](https://readymag.website/u381267271/4803125/)
 * [Zion L. Basque](https://www.zionbasque.com/)
