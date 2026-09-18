@@ -330,6 +330,7 @@
     * **Ansible:** open-source IT automation tool used to configure systems, deploy applications, and orchestrate infrastructure
     * **Chef:** automates how infrastructure code (cookbooks and recipes) is tested, versioned, and deployed to live servers
     * **Kubernetes (K8s):** automates the deployment, scaling, networking, and management of containerized applications
+    * **Power Automate:** handles workflow automation, streamlining repetitive tasks, and triggering actions across different apps
     * **Puppet:** automates infrastructure provisioning and system configuration across servers
     * **SaltStack:** automates infrastructure management, remote execution, and system configuration at scale using Python
     * **.NET Aspire:** cloud-native development framework for building, orchestrating, and managing distributed .NET applications
