@@ -417,6 +417,7 @@
 * **[Google Gemini Genie](https://labs.google/fx/projectgenie):** generate fully pre-packaged video games with AI
 
 ## Web3
+* **Smart Contracts:** self-executing computer program stored on a blockchain that carry out actions when predetermined conditions are met
 * **Soroban:** smart contract platform built on the Stellar blockchain that enables scalable and developer-friendly app development
 * **Stellar:** an open-source blockchain network designed for low-cost cross-border payments and digital asset transfers
 
