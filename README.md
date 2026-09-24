@@ -53,6 +53,7 @@
 * **Slack:** workplace collaboration platform that supports messaging, file sharing, integrations, and team coordination
 
 ## System Design Concepts
+* **12 Factor Architectural Design:** best practices for building modern, scalable, and portable SaaS apps that run in the cloud
 * **Unified Modeling Language (UML):** a standardized visual modeling language used to design software systems
     * **Astah UML**: a software modeling tool used to create UML diagrams
     * **StarUML:** a software modeling tool used to create UML diagrams and software architectures
