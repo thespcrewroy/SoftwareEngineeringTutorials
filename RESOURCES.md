@@ -114,6 +114,7 @@
 * [Zion L. Basque](https://www.zionbasque.com/)
 * [Whatsapp](https://www.whatsapp.com/download)
 * [Rosslite](https://rossilite.com/)
+* [SpotrCars](https://spotrcars.com/)
 
 ## Forums
 * [OpenAI Developer Forum](https://community.openai.com/): developers discuss APIs, tools, best practices, and technical topics related to OpenAI technologies
