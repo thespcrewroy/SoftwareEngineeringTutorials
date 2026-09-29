@@ -123,6 +123,13 @@
 * **Function as a Service (FaaS):** run event-driven functions without managing servers or infrastructure.
 * **Backend as a Service (BaaS):** provides ready-made backend features such as databases, authentication, and APIs
 * **Containerization as a Service (CaaS):** deployment, management, and orchestration of containerized apps using Docker/K8s
+* **Containerization:** create isolated computing environments to eliminate dependecy issues accross different infrastructures
+    * **Docker:** packages applications and their dependencies into portable, isolated containers
+    * **Podman:** containerization platform for building, running, and managing containers without requiring a centralized daemon
+* **Virtualization:** create entire operating systems to eliminate dependency isues accross infrastructure
+    * **AWS Elastic Compute Cloud (EC2):** scalable virtual servers in the cloud for hosting applications as a service
+    * **AWS Virtual Private Cloud (VPC):** isolated virtual networks within AWS for securely hosting and managing cloud resources
+    * **Proxmox VE:** open-source virtualization platform for managing virtual machines and Linux containers
 * **Digital Ocean:** cloud infrastructure platform providing virtual servers, databases, storage, networking, deployment, etc.
 * **Gitpod:** cloud-based development environment platform that provides ready-to-code workspaces directly from Git repos
 * **GitHub Codespaces:** cloud-based development environment that provides fully configured coding workspaces in GitHub
@@ -338,12 +345,6 @@
     * **SaltStack:** automates infrastructure management, remote execution, and system configuration at scale using Python
     * **.NET Aspire:** cloud-native development framework for building, orchestrating, and managing distributed .NET applications
     * **Redhat Openshift:** Kubernetes-based container platform for building, deploying, managing, and scaling cloud-native applications
-* **Containerization:** create isolated computing environments to eliminate dependecy issues accross different infrastructures
-    * **Docker:** packages applications and their dependencies into portable, isolated containers
-    * **Podman:** containerization platform for building, running, and managing containers without requiring a centralized daemon
-* **Virtualization:** create entire operating systems to eliminate dependency isues accross infrastructure
-    * **AWS Elastic Compute Cloud (EC2):** scalable virtual servers in the cloud for hosting applications as a service
-    * **AWS Virtual Private Cloud (VPC):** isolated virtual networks within AWS for securely hosting and managing cloud resources
 * **Unit Testing:** software testing method that verifies individual components or functions of an application work correctly in isolation
     * **Pytest:** a Python testing framework used for writing and running simple to complex automated test cases
     * **Jest:** a JavaScript testing framework commonly used for testing React applications and other frontend or backend code.
