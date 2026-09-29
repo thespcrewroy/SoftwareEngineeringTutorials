@@ -278,6 +278,7 @@
 * **Scrapy:** Python framework for building scalable web scraping and web crawling applications
 * **Apify:** cloud platform for web scraping, browser automation, and data extraction using customizable automation tools and actors
 * **Firebase**: Google’s backend-as-a-service (BaaS) with authentication, databases, hosting, analytics, and cloud functions
+* **Authentik:** self-hosted, open source, identity provider 
 
 ## Database
 * **Redis:** an in-memory data store commonly used as a cache, database, and message broker for ultra-fast data access for real time apps
@@ -310,7 +311,7 @@
 * **p5.js:** JavaScript library for artists designed create interactive graphics and designs in the browser
 * **Bokeh:** a Python visualization library used to create interactive, web-based data visualizations and dashboards
 
-## Deployment & Hosting
+## Hosting
 * **Blue Host:** a web hosting provider that offers domain, business emails, website hosting, and WordPress integration services
 * **Porkbun:** a domain registrar and web services provider known for affordable domain registration, hosting, and DNS management
 * **GoDaddy:** a domain registrar and web hosting company that provides website, email, and online business services
@@ -319,6 +320,7 @@
 * **Heroku:** cloud platform that simplifies application deployment, hosting, and scaling for developers
 * **AWS Elastic Beanstalk:** cloud deployment service that automatically manages infrastructure and scaling web apps on AWS
 * **Vercel:** cloud platform for deploying, hosting, and scaling frontend web applications and serverless functions
+* **DokPloy:** open-source self-hostable PaaS that simplifies the deployment and management of applications and databases
 * **iFastNet:** premium Hosting Provider, VPS hosting, and dedicated servers for backend web applications
 * **Netlify:** cloud platform for building, deploying, and hosting modern web apps with CI/CD and serverless features
 * **Hetzner:** cloud and dedicated hosting provider that offers scalable servers, storage, and infrastructure services
