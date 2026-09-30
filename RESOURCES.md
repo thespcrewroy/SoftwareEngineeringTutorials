@@ -72,6 +72,8 @@
 ## Conferences & Events
 * [2 August] [Atlanta Tech Week](https://www.atl.tech/): bring together founders, investors, operators and builders
 * [3 September] [AWS Innovate](https://aws.amazon.com/events/innovate-online-conference/americas/): a virtual conference about AWS cloud technologies
+* [1 October] [UGA Fall Career and Internship Fair](https://career.uga.edu/calendar/career_fairs): brings in employers from around the country to recruit talent
+* [1 October] [UGA Fall CS & Engineering Career and Internship Fair](https://career.uga.edu/calendar/career_fairs): brings in employers from around the country to recruit talent
 * [2 October] [SASE National Convention](https://collegiate2023.saseconnect.org/): a conference for Asian STEM professionals and students
 * [3 October] [Atlanta Developers Confernece](https://www.atldevcon.com/): the #1 tech conference listing
 * [4 October] [Google DevFest Atlanta](https://developers.google.com/community/devfest): world’s largest community-driven tech conference
@@ -124,16 +126,18 @@
 ## Internships
 - [1 July - 1 August] [GitHub Campus Experts](https://education.github.com/campus_experts/): empowers students to be leaders of technical communities on college campuses
 - [2 August – 2 November] [UberSTAR](https://jobs.uber.com/en/teams/emerging-talent/): early-career software-engineering internship
+- [4 August - 1 November] [Microsoft Explore](https://careers.microsoft.com/v2/global/en/exploremicrosoft):  12-week summer internship program for 1st and 2nd years
 - [1 September – 1 October] [NSA Student Internships](https://www.intelligencecareers.gov/nsa/students-and-internships): internships in cybersecurity, intelligence, and tech
 - [1 September – 1 November] [Cigna TECDP](https://jobs.thecignagroup.com/us/en/technology-development-program): technology internship and early-career development program
 - [1 September – 1 November] [Cigna Summer Internship](https://jobs.thecignagroup.com/us/en/summer-internship-program): summer internships across technical and business fields
 - [4 September] [Google STEP](https://buildyourfuture.withgoogle.com/programs/step): software-engineering internship for early undergraduate students
+- [1 October - Rolling] [NVidia Ignite](https://www.nvidia.com/en-us/about-nvidia/careers/university-recruiting/): 12 week everything you need to know about building your career
 - [1 October - 4 October] [Khan Academy Internship Program](https://www.khanacademy.org/careers/interns): emote summer software engineering internship for CS students
 - [2 October - 4 October] [Coding it Forward Summer Fellowship](https://codingitforward.com/fellowship): paid ten-week Fellowship empowers early-career technologists
 - [1 January] [Dropbox Emerging Talent Internship](https://www.dropbox.jobs/en/emerging-talent/): 12-week summer internship with real-world projects
 - [1 January] [Outreachy](https://www.outreachy.org/docs/applicant/): paid remote internships in open-source projects
 - [3 January] [Amazon Future Engineer](https://www.amazonfutureengineer.com/scholarships): scholarship and software-engineering internship program
-- [1 January – 1 February] [The New Technologists](https://www.newtechnologists.com/): paid technical training and career-development program
+- [1 January – 1 February] [Microsoft The New Technologists](https://www.newtechnologists.com/): paid technical training and career-development program
 - [2 March] [NASA JPL Summer Internship](https://www.jpl.nasa.gov/edu/internships/apply/jpl-summer-internship-program/): internships supporting NASA science projects
 
 ## Newsletters
