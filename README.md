@@ -259,10 +259,11 @@
 * **Ruby:** dynamic OOP programming language designed for simplicity and developer productivity
 * **Golang:** statically typed language developed by Google to build scalable backend systems, cloud services, and concurrent apps
 * **Scala:** statically typed programming language that combines object-oriented and functional programming
+* **Job Control Language (JCL):** scripting language used to instruct and communicate with IBM mainframe operating systems
 * **COBOL:** programming language designed for business, finance, and admin mainframe systems
 * **Google Apps Script:** cloud-based scripting platform using JavaScript to integrate Google Workspace workflows
 * **Director Lingo:** a verbose object-oriented (OO) scripting language for use in Adobe Director 
-* **Visual Basic (VBA):** Microsoft programming language designed for easy development of Windows applications using a event-driven syntax
+* **Visual Basic (VBA):** Microsoft programming language designed for easy development of event-driven Windows apps
 * **Laravel:** a PHP backend web framework used to build modern web apps and APIs with MVC architecture
 * **Ruby on Rails:** backend web framework for server-side apps, APIs, database logic, authentication, and web routing
 * **ASP.NET:** a Microsoft software development framework and runtime for building enterprise applications using C# and F#
@@ -295,6 +296,7 @@
 * **PostgreSQL:** n open-source relational database system known for its reliability, advanced SQL features, and extensibility
 * **Supabase:** an open-source BaaS on PostgreSQL that provides authentication, databases, storage, and APIs
 * **Oracle Database:** an enterprise-grade relational database management system developed by Oracle
+* **IBM Db2:** a family of enterprise-grade relational database management systems
 * **MongoDB**: a NoSQL document-oriented database that stores data in flexible JSON-like documents
 * **AWS DynamoDB:** a fully managed NoSQL database service by Amazon to store semi-structured data for low-latency applications
 * **AWS Simple Storage Service (S3):** scalable cloud object storage service by AWS for storing unstructured data
