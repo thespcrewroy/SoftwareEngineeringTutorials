@@ -264,7 +264,6 @@
 * **Job Control Language (JCL):** scripting language used to instruct and communicate with IBM mainframe operating systems
 * **COBOL:** programming language designed for business, finance, and admin mainframe systems
 * **Google Apps Script:** cloud-based scripting platform using JavaScript to integrate Google Workspace workflows
-* **Director Lingo:** a verbose object-oriented (OO) scripting language for use in Adobe Director 
 * **Visual Basic (VBA):** Microsoft programming language designed for easy development of event-driven Windows apps
 * **Laravel:** a PHP backend web framework used to build modern web apps and APIs with MVC architecture
 * **Ruby on Rails:** backend web framework for server-side apps, APIs, database logic, authentication, and web routing
@@ -315,13 +314,18 @@
 * **[Google Gemini Jules](https://jules.google.com/session):** coding agent developed by Google to perform app dev tasks
 * **Claude Code:** coding agent developed by anthropic to perform development tasks
 * **ChatGPT Codex:** coding agent developed by OpenAI to perform development tasks
+* **NVidia NVRHI:** acts as a common interface that maps seamlessly to major graphics APIs including Direct3D and Vulcan
 
 ## Computer Graphics
+* **High-Level Shader Langauge (HLSL):** C-like programming language developed by Microsoft for writing custom GPU shaders in DirectX
+* **Slang Shading Language:** modular language and compiler created for real-time computer graphics, ray tracing, and neural graphics
 * **Boid Flocks:** simulation algorithm that models the collective movement behavior of groups such as birds or fish using heuristics
 * **Processing:** an open-source programming language and visual arts framework for creating interactive graphics
 * **ThreeJS:** a JavaScript library used to create and render 3D graphics and animations in web browsers using WebGL
 * **p5.js:** JavaScript library for artists designed create interactive graphics and designs in the browser
 * **Bokeh:** a Python visualization library used to create interactive, web-based data visualizations and dashboards
+* **OpenGL:** a graphics API that interacts with the GPU for rendering 2D and 3D vector graphics
+* **DirectX:** a collection of APIs built by Microsoft to handle 3D graphics, texture rendering, and audio processing for Windows games
 
 ## Hosting
 * **Blue Host:** a web hosting provider that offers domain, business emails, website hosting, and WordPress integration services
@@ -422,8 +426,6 @@
 * **Godot:** open-source game engine used for developing 2D and 3D games with a lightweight and flexible development environment
 * **Roblox Studio:** official game development environment for creating, testing, and publishing experiences on Roblox
 * **Cocos2d-x:** open-source cross-platform game development framework used for building 2D games
-* **OpenGL:** a graphics API that interacts with the GPU for rendering 2D and 3D vector graphics
-* **DirectX:** a collection of APIs built by Microsoft to handle 3D graphics, texture rendering, and audio processing for Windows games
 * **[Google Gemini Genie](https://labs.google/fx/projectgenie):** generate fully pre-packaged video games with AI
 
 ## Web3
