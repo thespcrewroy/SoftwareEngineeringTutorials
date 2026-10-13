@@ -423,6 +423,7 @@
 * **Roblox Studio:** official game development environment for creating, testing, and publishing experiences on Roblox
 * **Cocos2d-x:** open-source cross-platform game development framework used for building 2D games
 * **OpenGL:** a graphics API that interacts with the GPU for rendering 2D and 3D vector graphics
+* **DirectX:** a collection of APIs built by Microsoft to handle 3D graphics, texture rendering, and audio processing for Windows games
 * **[Google Gemini Genie](https://labs.google/fx/projectgenie):** generate fully pre-packaged video games with AI
 
 ## Web3
