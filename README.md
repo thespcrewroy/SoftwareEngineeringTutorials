@@ -198,6 +198,7 @@
 * **Gradle:** an open-source build automation tool used for dependency management, testing, and automation
 * **Bun:** fast all-in-one JavaScript NodeJS runtime and toolkit that includes a package manager, bundler, and testing
 * **Vite:** a fast frontend build tool and development server
+* **CMake:** family of tools designed to build, test (CTest), and package (CPack) software for C/C++
   
 ## Package Managers
 * **Npm:** the default package manager for Node.js used to install, manage, and share JavaScript libraries and tools
@@ -206,6 +207,7 @@
 * **MacPorts:** an open-source package manager for macOS that simplifies installing and maintaining Unix-based software
 * **Homebew:** package manager for macOS and Linux used to install, update, and manage software from the command line
 * **Conda:** package and environment management system used to install dependencies and manage isolated environments
+* **vcpkg:** C/C++ package manager maintained by Microsoft and the C++ community
 
 ## Configuration
 * **.editorconfig:** helps maintain consistent coding styles/settings across different editors and IDEs for a code repository
