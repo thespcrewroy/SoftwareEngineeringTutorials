@@ -262,7 +262,7 @@
 * **COBOL:** programming language designed for business, finance, and admin mainframe systems
 * **Google Apps Script:** cloud-based scripting platform using JavaScript to integrate Google Workspace workflows
 * **Director Lingo:** a verbose object-oriented (OO) scripting language for use in Adobe Director 
-* **Visual Basic:** Microsoft programming language designed for easy development of Windows applications using a event-driven syntax
+* **Visual Basic (VBA):** Microsoft programming language designed for easy development of Windows applications using a event-driven syntax
 * **Laravel:** a PHP backend web framework used to build modern web apps and APIs with MVC architecture
 * **Ruby on Rails:** backend web framework for server-side apps, APIs, database logic, authentication, and web routing
 * **ASP.NET:** a Microsoft software development framework and runtime for building enterprise applications using C# and F#
