@@ -80,11 +80,11 @@
 ## UI/UX Design, Copywriting, and Typography
 * **Brandmark.io:** create AI-powered logo designs
 * **Diagrams.net:** create wireframes for websites, mobile apps, and software interfaces using built-in UI components
-* **[Wireframe.cc](https://github.com/thespcrewroy/SoftwareEngineeringTutorials/blob/main/UIUXDesign/WireframeCC.md):** cloud-based tool that allows users to create wireframes for websites and mobile applications easily
+* **[Wireframe.cc](https://github.com/thespcrewroy/SoftwareEngineeringTutorials/blob/main/UIUXDesign/WireframeCC.md):** cloud-based tool that allows users to create wireframes
 * **[Concepts](https://github.com/thespcrewroy/SoftwareEngineeringTutorials/blob/main/UIUXDesign/Concepts.md):** drawing app used for lo-fidelity wireframes
 * **Google Gemini Stitch:** Figma compatible UI/UX mockup generations developed by Google
 * **Claude Design:** Figma compatible UI/UX mockup generations developed by Anthropic
-* **[Figma](https://github.com/thespcrewroy/SoftwareEngineeringTutorials/blob/main/UIUXDesign/Figma.md):** acollaborative cloud-based design platform used for UI/UX design, prototyping, and interface development
+* **[Figma](https://github.com/thespcrewroy/SoftwareEngineeringTutorials/blob/main/UIUXDesign/Figma.md):** a collaborative cloud-based design platform used for UI/UX design
 * **Fontawesome:** an icon toolkit and library that provides scalable vector icons and social logos
 * **Google Fonts:** free web font library for integrating customizable fonts into websites
 * **GoDaddy Airo:** create websites, generate logos, and manage marketing tasks
@@ -295,15 +295,20 @@
 * **Authentik:** self-hosted, open source, identity provider 
 
 ## Database
-* **Redis:** an in-memory data store commonly used as a cache, database, and message broker for ultra-fast data access for real time apps
-* **SQLite:** a serverless relational database engine that stores data locally in a single file
-* **MySQL:** an open-source relational DBMS used to store, organize, and manage structured data using SQL
-* **PostgreSQL:** n open-source relational database system known for its reliability, advanced SQL features, and extensibility
-* **Supabase:** an open-source BaaS on PostgreSQL that provides authentication, databases, storage, and APIs
-* **Oracle Database:** an enterprise-grade relational database management system developed by Oracle
-* **IBM Db2:** a family of enterprise-grade relational database management systems
-* **MongoDB**: a NoSQL document-oriented database that stores data in flexible JSON-like documents
-* **AWS DynamoDB:** a fully managed NoSQL database service by Amazon to store semi-structured data for low-latency applications
+* **In-Memory Database:** stores all data directly in random-access memory (RAM) instead of traditional disk storage (SSD/HDD)
+    * **Redis:** an in-memory data store commonly used as a cache, database, and message broker for ultra-fast data access for real time apps
+* **Time-Series Database:** specialized for sequential data points indexed strictly by time (timestamps)
+    * **Prometheus:** monitoring and alerting toolkit built around a time-series database (TSD)
+* **Relational Database:** organized into rigid, tabular rows and columns with fixed schemas
+    * **SQLite:** a serverless relational database engine that stores data locally in a single file
+    * **MySQL:** an open-source relational DBMS used to store, organize, and manage structured data using SQL
+    * **PostgreSQL:** an open-source relational database system known for its reliability, advanced SQL features, and extensibility
+    * **Supabase:** an open-source BaaS on PostgreSQL that provides authentication, databases, storage, and APIs
+    * **Oracle Database:** an enterprise-grade relational database management system developed by Oracle
+    * **IBM Db2:** a family of enterprise-grade relational database management systems
+* **Non-Relational Database:** flexible non-table models that includes key-value pairs, JSON documents, wide-columns, or graphs
+    * **MongoDB**: a NoSQL document-oriented database that stores data in flexible JSON-like documents
+    * **AWS DynamoDB:** a fully managed NoSQL database service by Amazon to store semi-structured data for low-latency applications
 * **AWS Simple Storage Service (S3):** scalable cloud object storage service by AWS for storing unstructured data
 * **.NET Aspire SQL Server:** integration component in .NET Aspire used to configure, manage, and a SQL Server Database
 * **Object-Relational Mapping (ORM):** libraries that allow interaction with databases using programming languages rather than raw SQL
