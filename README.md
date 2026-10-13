@@ -221,7 +221,6 @@
 * **.json:** lightweight data-interchange format that stores structured data using key-value pairs and arrays
 * **.xml:** markup language used to structure, store, and transport data in a readable and hierarchical format
 * **.gitignore:** git configuration file that specifies which files and folders should be excluded from version control tracking.
-* **.nginx:** commonly associated with NGINX server settings for routing, proxies, server load balancing
 * **~/.ssh**: the user-specific directory that stores SSH keys, configuration files, known hosts, and authorized keys
 
 ## Frontend
@@ -355,6 +354,9 @@
 
 ## DevOps
 * **Orchestration:** the coordination of automated tasks across the SDLC, enabling teams to manage complex environments efficiently
+    * **NGINX** commonly associated with NGINX server settings for routing, proxies, server load balancing
+    * **httpd (Apache HTTP Server):** daemon that processes incoming network requests and delivers web pages over HTTP or HTTPS
+    * **Caddy:** an open-source web server and reverse proxy written in Goland that automates HTTPS delivery and load balacing
     * **Ansible:** open-source IT automation tool used to configure systems, deploy applications, and orchestrate infrastructure
     * **Chef:** automates how infrastructure code (cookbooks and recipes) is tested, versioned, and deployed to live servers
     * **Kubernetes (K8s):** automates the deployment, scaling, networking, and management of containerized applications
