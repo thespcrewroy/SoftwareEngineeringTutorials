@@ -241,6 +241,7 @@
 * **ReactJS:** a JavaScript web framework developed by Meta for building fast component-based user interfaces
 * **NextJS:** a React-based web framework for building fast web applications with server-side rendering and static site generation
 * **VueJS:** a progressive JavaScript framework used to build interactive user interfaces and single-page web applications
+* **Svelt:** front-end web framework created by Rich Harris that uses a compiler instead of a heavy browser-side runtime
 * **NuxtJS:** a Vue-based full-stack framework for building server-rendered, statically generated, and modern web applications
 * **Angular:** a TypeScript-based frontend web framework developed by Google for building dyanmic scalable websites
 * **MagicUI:** a collection of prebuilt animated UI components and design elements for React and Tailwind CSS
