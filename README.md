@@ -192,9 +192,10 @@
     * **Test:** stage where the software is evaluated for bugs, security issues, performance, and functionality
     * **Deploy:** release and distribute the software to users or production environments
     * **Maintain:** ongoing phase of updating, monitoring, fixing, and improving the software after release
- * **Server Side Rendering:** the server generates the complete HTML page first which is great for SEO search bots to catch
- * **Client Side Renfering:** the server sends a blank HTML shell and Javascript files to the browser for it to build the page
- * **Incremental Static Regeneration):** lets you see static pages and update them on the server on demand or at a set interval
+ * **Server Side Rendering (SSR):** the server generates the HTML page first which is great for SEO search bots to catch
+ * **Client Side Renfering (CSR):** the server sends a blank HTML shell and JS files to the browser for it to build the page
+ * **Incremental Static Regeneration (ISR):** see static pages and update them on the server on demand or at a set interval
+ * **State Management:** tracking, storing, and updating data and UI controls over time so an app stays consistent and responsive
 
 ## Build Tools
 * **Apache Maven**: a build automation and project management tool primarily used for Java projects and packages
