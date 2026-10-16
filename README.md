@@ -160,7 +160,7 @@
 * **Evil Emacs:** an Emacs extension layer that brings Vim-style modal editing and keybindings into the Emacs environment
 * **Zed:** a high-performance, multiplayer code editor designed for fast collaboration and modern developer workflows
 * **VSCode:** lightweight and extensible code editor by Microsoft that supports debugging, extensions, and development
-* **Cursor.ai:** AI-powered code editor
+* **Cursor:** AI-powered code editor
 * **BlueJ:** educational Java IDE designed to help beginners learn OOP and software development concepts
 * **NetBeans:** for developing, testing, and debugging applications in Java and other programming languages
 * **Eclipse:** used for developing, debugging, and managing software projects in multiple programming languages
