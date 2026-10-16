@@ -149,6 +149,7 @@
 * **BitBucket:** git-based platform by Atlassian that supports code collaboration, version control, and CI/CD integration
 
 ## Text Editors, Code Editors, & Integrated Development Environments (IDEs)
+* **Devin Desktop (formerly Windsurf):** AI-powered VS Code IDE with integrated coding agents for local development
 * **Nano:** simple command-line text editor for creating and editing files in Unix and Linux environments
 * **Sublime Text:** a fast and lightweight text editor known for its speed, simplicity, and powerful multi-cursor editing features
 * **Notepad++:** a lightweight Windows text and source code editor that supports multiple programming languages and plugins
@@ -322,6 +323,7 @@
 * **MERN Stack:** a full-stack JavaScript technology stack consisting of MongoDB, Express.js, React, and Node.js
 * **[Google Gemini Opal](https://opal.google/landing/):** empower anyone to build and deploy AI mini apps without coding
 * **[Google Gemini Jules](https://jules.google.com/session):** coding agent developed by Google to perform app dev tasks
+* **Devin Cloud:** auto cloud-based AI software engineering agent that independently plans, writes, tests, and submits code
 * **Claude Code:** coding agent developed by anthropic to perform development tasks
 * **ChatGPT Codex:** coding agent developed by OpenAI to perform development tasks
 * **NVidia NVRHI:** acts as a common interface that maps seamlessly to major graphics APIs including Direct3D and Vulcan
