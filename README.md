@@ -134,6 +134,7 @@
 * **Gitpod:** cloud-based development environment platform that provides ready-to-code workspaces directly from Git repos
 * **GitHub Codespaces:** cloud-based development environment that provides fully configured coding workspaces in GitHub
 * **Terraform:** automates the creation and management of cloud and on-premises infrastructure using infrastructure as Code (IaC)
+* **Virtual Private Cloud (VPC):** logically isolated private network hosted within a public cloud provider's infrastructure
 * **Amazon Web Services (AWS):** comprehensive cloud computing platform
 * **AWS Cloud Development Kit (CDK):** framework that provides AWS services using programming languages instead of config giles
 * **Microsft Azure:** Microsoft’s cloud computing platform
