@@ -90,6 +90,7 @@
 * [Example GitHub README 1](https://github.com/bump-hackgt/bump)
 * [Example GitHub README 2](https://github.com/RsaCtfTool/RsaCtfTool?tab=readme-ov-file)
 * [Example GitHub README 3](https://github.com/BenjaminWalkerBond/auto_grocer)
+* [Example GitHub 4](https://github.com/thespcrewroy/TheHackPackWebsite)
 * [Example GitHub Buy Me a Coffee](https://github.com/tandpfun/skill-icons#readme)
 * [Example GitHub Profile](https://github.com/bee-san?tab=overview&from=2024-12-01&to=2024-12-18)
 * [Example GitHub Account](https://github.com/cs1302uga)
