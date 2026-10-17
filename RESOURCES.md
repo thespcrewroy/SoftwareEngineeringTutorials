@@ -119,6 +119,9 @@
 * [Whatsapp](https://www.whatsapp.com/download)
 * [Rosslite](https://rossilite.com/)
 * [SpotrCars](https://spotrcars.com/)
+* [EZApply](https://easyapply.com/)
+* [Arcade](https://arcade.lsg.io/)
+* [ScreenPlay](https://screenplay.lsg.io/)
 
 ## Forums
 * [OpenAI Developer Forum](https://community.openai.com/): developers discuss APIs, tools, best practices, and technical topics related to OpenAI technologies
