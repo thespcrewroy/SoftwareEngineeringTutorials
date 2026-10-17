@@ -8,10 +8,10 @@
 * GCP Certification
 
 ## College Courses
-* Computing, Ethics, and Society (CSCI 3030)
-* Intro to Computer Science and Object Oriented Programming (CSCI 1301-1301L)
+* **[Computing, Ethics, and Society (CSCI 3030)](https://quizlet.com/user/royswapnil07/folders/computing-ethics-and-society-csci-3030?funnelUUID=d0081ab2-b274-427a-8645-204a74d6f0c7)**
+* **[Intro to Computer Science and Object Oriented Programming (CSCI 1301-1301L)](https://quizlet.com/user/royswapnil07/folders/intro-to-computing-and-programming-csci-1301)**
 * C++ For Engineers (EGR 230)
-* Software Development using Object Oriented Programming (CSCI 1302)
+* **[Software Development using Object Oriented Programming (CSCI 1302)](https://quizlet.com/user/royswapnil07/folders/software-development-csci-1302?funnelUUID=71fdb9a7-eefa-4c5e-8a86-76514116946c) | [Supplemental](https://github.com/thespcrewroy/CSCI1302-SoftwareDevelopment)**
 * Functional Programming (CSCI 4520)
 * Systems Programming (CSCI 1730-1730L)
 * **[Discrete Math for Computer Science (MATH/CSCI 2610)](https://quizlet.com/user/royswapnil07/folders/discrete-math-for-computation-csci-2610?funnelUUID=9627ae4b-aea8-43a2-9bec-569f77f4265a) | [Supplemental](https://github.com/thespcrewroy/CSCI2670-Automata)**
