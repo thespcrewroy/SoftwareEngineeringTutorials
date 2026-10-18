@@ -116,6 +116,7 @@
 * [AshwinKumar Pillai](https://ash-portfolio.netlify.app/)
 * [Amy's Personal Website](https://readymag.website/u381267271/4803125/)
 * [Zion L. Basque](https://www.zionbasque.com/)
+* [Zion L. Basque Blog](https://mahaloz.re/)
 * [Whatsapp](https://www.whatsapp.com/download)
 * [Rosslite](https://rossilite.com/)
 * [SpotrCars](https://spotrcars.com/)
@@ -125,8 +126,6 @@
 
 ## Forums
 * [OpenAI Developer Forum](https://community.openai.com/): developers discuss APIs, tools, best practices, and technical topics related to OpenAI technologies
-* [Docusaurus Blog](https://docusaurus.io/blog): official blog for Docusaurus that shares updates, tutorials, and insights about the documentation
-* [The GitHub blog](https://github.blog/): shares news, tutorials, engineering insights, product updates, and software development trends
 
 ## Internships
 - [1 July - 1 August] [GitHub Campus Experts](https://education.github.com/campus_experts/): empowers students to be leaders of technical communities on college campuses
@@ -151,6 +150,8 @@
 * [Web Dev](https://web.dev/): building and maintaining websites and web applications using frontend, backend, and database technologies
 * [YCombinator Hacker News](https://news.ycombinator.com/news): social news focused on technology, startups, programming, and entrepreneurship
 * [Stories About Software](https://daedtech.com/): software engineering blog by Erik Dietrich that shares insights, opinions, and stories about programming
+* [Docusaurus Blog](https://docusaurus.io/blog): official blog for Docusaurus that shares updates, tutorials, and insights about the documentation
+* [The GitHub blog](https://github.blog/): shares news, tutorials, engineering insights, product updates, and software development trends
 
 ## Podcasts
 * [The ReadME Podcast](https://github.com/readme/podcast): developer-focused podcast by GitHub about software, open source, and the people
