@@ -132,7 +132,7 @@
 - [1 July - 1 August] [GitHub Campus Experts](https://education.github.com/campus_experts/): empowers students to be leaders of technical communities on college campuses
 - [2 August – 2 November] [UberSTAR](https://jobs.uber.com/en/teams/emerging-talent/): early-career software-engineering internship
 - [4 August - 1 November] [Microsoft Explore](https://careers.microsoft.com/v2/global/en/exploremicrosoft):  12-week summer internship program for 1st and 2nd years
-* [4 August - 1 November] [Code For Good @ JPMorgan Chase](https://tinyurl.com/4c9fdc2r): build solutions for nonprofits while being directly considered for JPMorgan internship
+- [4 August - 1 November] [Code For Good @ JPMorgan Chase](https://tinyurl.com/4c9fdc2r): build for nonprofits while considered for JPMorgan internship
 - [1 September – 1 October] [NSA Student Internships](https://www.intelligencecareers.gov/nsa/students-and-internships): internships in cybersecurity, intelligence, and tech
 - [1 September – 1 November] [Cigna TECDP](https://jobs.thecignagroup.com/us/en/technology-development-program): technology internship and early-career development program
 - [1 September – 1 November] [Cigna Summer Internship](https://jobs.thecignagroup.com/us/en/summer-internship-program): summer internships across technical and business fields
