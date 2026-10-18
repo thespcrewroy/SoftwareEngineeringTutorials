@@ -8,16 +8,16 @@
 * GCP Certification
 
 ## College Courses
-* **[Computing, Ethics, and Society (CSCI 3030)](https://quizlet.com/user/royswapnil07/folders/computing-ethics-and-society-csci-3030?funnelUUID=d0081ab2-b274-427a-8645-204a74d6f0c7)**
-* **[Intro to Computer Science and Object Oriented Programming (CSCI 1301-1301L)](https://quizlet.com/user/royswapnil07/folders/intro-to-computing-and-programming-csci-1301)**
+* **[Computing, Ethics, and Society (CSCI 3030)](https://tinyurl.com/bdhh89c2)**
+* **[Intro to Computer Science and Object Oriented Programming (CSCI 1301-1301L)](https://tinyurl.com/7urj9s8w)**
 * C++ For Engineers (EGR 230)
-* **[Software Development using Object Oriented Programming (CSCI 1302)](https://quizlet.com/user/royswapnil07/folders/software-development-csci-1302?funnelUUID=71fdb9a7-eefa-4c5e-8a86-76514116946c) | [Supplemental](https://github.com/thespcrewroy/CSCI1302-SoftwareDevelopment)**
+* **[Software Development using Object Oriented Programming (CSCI 1302)](https://tinyurl.com/yrmyh3k5) | [Supplemental](https://tinyurl.com/3kwwe92w)**
 * Functional Programming (CSCI 4520)
 * Systems Programming (CSCI 1730-1730L)
-* **[Discrete Math for Computer Science (MATH/CSCI 2610)](https://quizlet.com/user/royswapnil07/folders/discrete-math-for-computation-csci-2610?funnelUUID=9627ae4b-aea8-43a2-9bec-569f77f4265a) | [Supplemental](https://github.com/thespcrewroy/CSCI2670-Automata)**
-* **[Introduction to Theory of Computing & Automata (CSCI 2670)](https://quizlet.com/user/royswapnil07/folders/theory-of-computing-csci-2670?funnelUUID=2f1e8108-6fda-4619-be4f-4a5867f7824c) | [Supplemental](https://github.com/thespcrewroy/CSCI2670-Automata)**
-* **[Data Structures (CSCI 2720)](https://quizlet.com/user/royswapnil07/folders/data-structures-csci-2720?funnelUUID=eb08c076-2d68-4556-9a8b-7ecc4baa73f7) | [Supplemental](https://github.com/thespcrewroy/CSCI4470-Algorithms)**
-* **[Algorithms (CSCI 4470)](https://quizlet.com/user/royswapnil07/folders/algorithms-csci-4470?funnelUUID=812d39b1-fe3c-410a-9012-93a59f6f2c65) | [Supplemental](https://github.com/thespcrewroy/CSCI4470-Algorithms)**
+* **[Discrete Math for Computer Science (MATH/CSCI 2610)](https://tinyurl.com/d6hsk99r) | [Supplemental](https://github.com/thespcrewroy/CSCI2670-Automata)**
+* **[Introduction to Theory of Computing & Automata (CSCI 2670)](https://tinyurl.com/2s4kub4t) | [Supplemental](https://github.com/thespcrewroy/CSCI2670-Automata)**
+* **[Data Structures (CSCI 2720)](https://tinyurl.com/yc2rb28z) | [Supplemental](https://github.com/thespcrewroy/CSCI4470-Algorithms)**
+* **[Algorithms (CSCI 4470)](https://tinyurl.com/3z7h4uny) | [Supplemental](https://github.com/thespcrewroy/CSCI4470-Algorithms)**
 * Combinatorics (CSCI 4670)
 * Graph Theory (MATH 4690)
 * New Media Design (NMIX 4011)
@@ -32,7 +32,7 @@
 * Introduction to Computational Investing (CSCI 4170)
 * Principles of FinTech (BUSN 3700)
 * Software Engineering (CSCI 4050)
-* **[Database Management (CSCI 4370)](https://quizlet.com/user/royswapnil07/folders/database-management-csci-4370) | [Supplemental](https://github.com/thespcrewroy/CSCI4370-DatabaseManagement)**
+* **[Database Management (CSCI 4370)](https://tinyurl.com/3ybsb6p4) | [Supplemental](https://github.com/thespcrewroy/CSCI4370-DatabaseManagement)**
 * Cloud Computing (CSCI 4795)
 * Virtual Reality (CSCI 4830)
 * Simulation and Modeling (CSCI 4210)
@@ -61,7 +61,8 @@
 * [2 September] [HackMIT](https://hackmit.org/): weekend-long event where students from around the globe come together 
 * [4 September] [HackGT](https://hack.gt/): Georgia Tech’s flagship student-run hackathon
 * [4 September] [HacktoberFest](https://owasp.org/www-chapter-atlanta/): an annual event encouraging contributions to open-source projects
-* [1 October] [NASA International Space Apps Challenge](https://www.spaceappschallenge.org/): the largest annual global hackathon o
+* [1 October] [NASA International Space Apps Challenge](https://www.spaceappschallenge.org/): the largest annual global hackathon
+* [2 October] [Home Depot Hometown AI Innovation Challenge](https://tinyurl.com/2n8nm8tc): case competition of students from the Atlanta ("Hometown") area
 * [1 November] [AIATL](https://www.aiatl.io/): an Atlanta hackathon focused on artificial intelligence
 * [1 November] [Code For Good @ JPMorgan Chase](https://tinyurl.com/4c9fdc2r): build tech for nonprofits while being directly considered for JPMorgan internship
 * [1 January - 1 May] [Congressional App Challenge](https://www.congressionalappchallenge.us/): design an application for government use
