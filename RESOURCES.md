@@ -63,7 +63,7 @@
 * [4 September] [HacktoberFest](https://owasp.org/www-chapter-atlanta/): an annual event encouraging contributions to open-source projects
 * [1 October] [NASA International Space Apps Challenge](https://www.spaceappschallenge.org/): the largest annual global hackathon o
 * [1 November] [AIATL](https://www.aiatl.io/): an Atlanta hackathon focused on artificial intelligence
-* [1 November] [Code For Good @ JPMorgan Chase](https://tinyurl.com/4c9fdc2r): build techsolutions for nonprofits while being directly considered for JPMorgan internship
+* [1 November] [Code For Good @ JPMorgan Chase](https://tinyurl.com/4c9fdc2r): build tech for nonprofits while being directly considered for JPMorgan internship
 * [1 January - 1 May] [Congressional App Challenge](https://www.congressionalappchallenge.us/): design an application for government use
 * [3 February - 1 April] [Google Summer of Code](https://developers.google.com/open-source/gsoc/timeline): bringing new contributors into open source SDE
 * [1 February] [UGAHacks](https://ugahacks.com/) | [MyByte](https://mybyte.ugahacks.com/login): UGA’s annual student hackathon and participant portal
