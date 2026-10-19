@@ -311,13 +311,13 @@
 * **Non-Relational Database:** flexible non-table models that includes key-value pairs, JSON documents, wide-columns, or graphs
     * **MongoDB**: a NoSQL document-oriented database that stores data in flexible JSON-like documents
     * **AWS DynamoDB:** a fully managed NoSQL database service by Amazon to store semi-structured data for low-latency applications
-- **Vector Database:** specialized for nearest-neighbor lookups using mathematical distances for AI and ML pipelines
-    - **Pinecone:** a fully managed, cloud-native vector database designed for high-performance vector search
-    - **Milvus:** an open-source vector database built for scalable similarity search and AI applications
-    - **Qdrant:** a vector database and vector search engine written in Rust with extended filtering support
-    - **Chroma:** an open-source vector database designed for building LLM applications easily
-    - **Weaviate:** an open-source vector database that stores both objects and vectors with flexible search capabilities
-    - **pgvector:** an open-source vector similarity search extension for PostgreSQL
+* **Vector Database:** specialized for nearest-neighbor lookups using mathematical distances for AI and ML pipelines
+    * **Pinecone:** a fully managed, cloud-native vector database designed for high-performance vector search
+    * **Milvus:** an open-source vector database built for scalable similarity search and AI applications
+    * **Qdrant:** a vector database and vector search engine written in Rust with extended filtering support
+    * **Chroma:** an open-source vector database designed for building LLM applications easily
+    * **Weaviate:** an open-source vector database that stores both objects and vectors with flexible search capabilities
+    * **pgvector:** an open-source vector similarity search extension for PostgreSQL
 * **AWS Simple Storage Service (S3):** scalable cloud object storage service by AWS for storing unstructured data
 * **.NET Aspire SQL Server:** integration component in .NET Aspire used to configure, manage, and a SQL Server Database
 * **Object-Relational Mapping (ORM):** libraries that allow interaction with databases using programming languages rather than raw SQL
