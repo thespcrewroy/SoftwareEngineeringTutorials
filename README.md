@@ -349,7 +349,7 @@
     * **HEIC (High Efficiency Image Container):** space-efficient photo format commonly used by Apple
     * **ICO (Icon):** image format for website favicons and Windows icons
     * **JPEG XL (JXL):** modern image format supporting lossy, lossless, and HDR images
-* **High-Level Shader Langauge (HLSL):** C-like programming language developed by Microsoft for writing custom GPU shaders in DirectX
+* **High-Level Shader Langauge (HLSL):** C-like programming language for writing custom GPU shaders in DirectX
 * **Slang Shading Language:** modular language and compiler created for real-time computer graphics, ray tracing, and neural graphics
 * **Boid Flocks:** simulation algorithm that models the collective movement behavior of groups such as birds or fish using heuristics
 * **Processing:** an open-source programming language and visual arts framework for creating interactive graphics
