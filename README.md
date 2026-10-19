@@ -298,7 +298,7 @@
 
 ## Database
 * **In-Memory Database:** stores all data directly in random-access memory (RAM) instead of traditional disk storage (SSD/HDD)
-    * **Redis:** an in-memory data store commonly used as a cache, database, and message broker for ultra-fast data access for real time apps
+    * **Redis:** commonly used as a cache, database, and message broker for ultra-fast data access for real time apps
 * **Time-Series Database:** specialized for sequential data points indexed strictly by time (timestamps)
     * **Prometheus:** monitoring and alerting toolkit built around a time-series database (TSD)
 * **Relational Database:** organized into rigid, tabular rows and columns with fixed schemas
@@ -311,6 +311,13 @@
 * **Non-Relational Database:** flexible non-table models that includes key-value pairs, JSON documents, wide-columns, or graphs
     * **MongoDB**: a NoSQL document-oriented database that stores data in flexible JSON-like documents
     * **AWS DynamoDB:** a fully managed NoSQL database service by Amazon to store semi-structured data for low-latency applications
+- **Vector Database:** specialized for nearest-neighbor lookups using mathematical distances for AI and ML pipelines
+    - **Pinecone:** a fully managed, cloud-native vector database designed for high-performance vector search
+    - **Milvus:** an open-source vector database built for scalable similarity search and AI applications
+    - **Qdrant:** a vector database and vector search engine written in Rust with extended filtering support
+    - **Chroma:** an open-source vector database designed for building LLM applications easily
+    - **Weaviate:** an open-source vector database that stores both objects and vectors with flexible search capabilities
+    - **pgvector:** an open-source vector similarity search extension for PostgreSQL
 * **AWS Simple Storage Service (S3):** scalable cloud object storage service by AWS for storing unstructured data
 * **.NET Aspire SQL Server:** integration component in .NET Aspire used to configure, manage, and a SQL Server Database
 * **Object-Relational Mapping (ORM):** libraries that allow interaction with databases using programming languages rather than raw SQL
