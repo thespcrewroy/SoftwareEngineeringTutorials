@@ -336,6 +336,19 @@
 * **NVidia NVRHI:** acts as a common interface that maps seamlessly to major graphics APIs including Direct3D and Vulcan
 
 ## Computer Graphics
+* **Image Formats**
+    * **SVG (Scalable Vector Graphics):** XML-based vector format for scalable logos, icons, and illustrations
+    * **PNG (Portable Network Graphics):** lossless raster format supporting transparency
+    * **JPEG/JPG (Joint Photographic Experts Group):** lossy raster format optimized for photographs
+    * **WebP:** modern image format supporting compression, transparency, and animation
+    * **AVIF (AV1 Image File Format):** highly compressed image format supporting transparency and HDR
+    * **GIF (Graphics Interchange Format):** raster format supporting simple animations and 256 colors
+    * **APNG (Animated Portable Network Graphics):** lossless animated PNG format supporting transparency
+    * **BMP (Bitmap):** raster format for storing uncompressed images
+    * **TIFF (Tagged Image File Format):** high-quality raster format for photography and printing
+    * **HEIC (High Efficiency Image Container):** space-efficient photo format commonly used by Apple
+    * **ICO (Icon):** image format for website favicons and Windows icons
+    * **JPEG XL (JXL):** modern image format supporting lossy, lossless, and HDR images
 * **High-Level Shader Langauge (HLSL):** C-like programming language developed by Microsoft for writing custom GPU shaders in DirectX
 * **Slang Shading Language:** modular language and compiler created for real-time computer graphics, ray tracing, and neural graphics
 * **Boid Flocks:** simulation algorithm that models the collective movement behavior of groups such as birds or fish using heuristics
