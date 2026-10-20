@@ -375,6 +375,7 @@
 * **Cloudinary:** cloud-based media management platform for storing, optimizing, transforming, and delivering images and videos
 * **Pythonanywhere:** cloud-based platform for developing, hosting, and running Python applications directly from a web browser
 * **CloudFlare**: massive CDN, domain registrar, and security provider for web infrastructure.
+* **Void:** open-source full-stack SDK, CLI, and deployment platform for building Vite apps and deploying them to Cloudflare
 
 ## DevOps
 * **Orchestration:** the coordination of automated tasks across the SDLC, enabling teams to manage complex environments efficiently
