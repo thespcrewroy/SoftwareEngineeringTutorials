@@ -114,6 +114,7 @@
 * [PwnSec](https://pwnsec.ctf.ae/#event)
 * [Daniel Moya](https://moyadaniel.com/)
 * [Divesh Gupta](https://diveshgupta.com/resume/)
+* [Parker Anderson](https://parkera.tech/)
 * [Binill](https://www.thegr8binil.me/)
 * [Arthur Walendroff](https://wallenart.dev/)
 * [Arjun Bector](https://arjunbector.live/)
