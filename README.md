@@ -393,11 +393,13 @@
 * **Unit Testing:** software testing method that verifies individual components or functions of an application work correctly in isolation
     * **Pytest:** a Python testing framework used for writing and running simple to complex automated test cases
     * **Jest:** a JavaScript testing framework commonly used for testing React applications and other frontend or backend code.
-    * **Cypress:** an end-to-end testing framework for web applications that enables automated browser testing with real-time debugging
     * **TestFlight:** an Apple platform used to distribute and beta test mobile iOS, iPadOS, watchOS, and tvOS applications before release
     * **SonarQube:** code quality and security analysis platform that detects bugs, vulnerabilities, and maintainability issues
     * **MSTest:** Microsoft’s unit testing framework for creating, running, and managing automated tests in .NET applications
     * **JUnit:** test automation framework for the Java programming language.
+* **End-to-End (E2E) Testing:** tests complete application workflows to verify that components work together correctly
+    * **Playwright:** Microsoft's open-source browser automation framework for end-to-end testing across Chromium, Firefox, and WebKit
+    * **Cypress:** an end-to-end testing framework for web applications with real-time debugging
 * **Continuous Integration and Continuous Deployment (CI/CD):** automates code integration, testing, and deployment
     * **GitHub Actions:** CI/CD automation platform within GitHub used to build, test, and deploy code through customizable workflows
     * **GitLab:**  provides Git repository hosting, version control, CI/CD pipelines, and tools for software development collaboration
