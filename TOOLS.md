@@ -1,5 +1,3 @@
-# Software Engineering Tutorials
-
 <details>
 <summary>📖 Table of Contents</summary>
 <br />
