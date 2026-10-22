@@ -32,9 +32,8 @@
 
 ## Project Management and Collaboration
 - **Agile**
-    - **Kanban**
-        - **[GitHub Projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects)**: GitHub boards and tables for organizing tasks and tracking progress
-        - **[Trello](https://trello.com/)**: visual project management with boards, lists, and cards
+    - **[GitHub Projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects)**: GitHub boards and tables for organizing tasks and tracking progress
+    - **[Trello](https://trello.com/)**: visual project management with boards, lists, and cards    
 - **[Azure DevOps](https://learn.microsoft.com/en-us/azure/devops/)**: Microsoft's suite for version control, project tracking, and collaboration
 - **Issue Tracking**
     - **[GitHub Issues](https://docs.github.com/en/issues)**: GitHub's built-in tracker for bugs, tasks, feature discussions, and project coordination
