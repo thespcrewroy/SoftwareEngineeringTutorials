@@ -202,6 +202,7 @@
 - **[Codepen](https://codepen.io/)**: a social platform for building, testing, and sharing frontend web projects
 - **Component Library**
     - **[MagicUI](https://magicui.design/docs)**: prebuilt animated UI components and design elements for React and Tailwind CSS
+    - **[ng-brutalism](https://github.com/khangtrannn/ng-brutalism)**: neo-brutalist UI component library for Angular built with Tailwind v4
     - **[RadixUI](https://www.radix-ui.com/primitives/docs)**: low-level React library of accessible, unstyled UI primitives
     - **[ShadCN](https://ui.shadcn.com/docs)**: copy-in components built with Tailwind CSS and Radix UI for modern web interfaces
 - **[CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)**: stylesheet language used to control the layout, design, and visual appearance of web pages
