@@ -4,491 +4,505 @@
 <summary>📖 Table of Contents</summary>
 <br />
 
-- [Project Management Concepts](#project-management-concepts)
-- [Project Management and Collaboration](#project-management-and-collaboration)
-- [System Design Concepts](#system-design-concepts)
-- [UI/UX Design, Copywriting, and Typography](#uiux-design-copywriting-and-typography)
-- [Web Builders](#web-builders)
-- [Cloud Computing & Infrastructure](#cloud-computing--infrastructure)
-- [Version Control](#version-control)
-- [Text Editors, Code Editors, & Integrated Development Environments (IDEs)](#text-editors-code-editors--integrated-development-environments-ides)
-- [Software Development Concepts](#software-development-concepts)
-- [Build Tools](#build-tools)
-- [Package Managers](#package-managers)
-- [Configuration](#configuration)
-- [Frontend](#frontend)
 - [Backend](#backend)
-- [Database](#database)
-- [Full Stack](#full-stack)
+- [Build Tools](#build-tools)
+- [Cloud Computing & Infrastructure](#cloud-computing--infrastructure)
 - [Computer Graphics](#computer-graphics)
+- [Configuration](#configuration)
+- [Database](#database)
 - [Deployment & Hosting](#deployment--hosting)
+- [Desktop App Development](#desktop-app-development)
+- [Developer Tools](#developer-tools)
 - [DevOps](#devops)
 - [Documentation](#documentation)
-- [Systems Programming](#systems-programming)
-- [Desktop App Development](#desktop-app-development)
-- [Mobile App Development](#mobile-app-development)
+- [Frontend](#frontend)
+- [Full Stack](#full-stack)
 - [Game Development](#game-development)
-- [Web3](#web3)
 - [Geographic Information Systems (GIS)](#geographic-information-systems-gis)
-- [Developer Tools](#developer-tools)
+- [Mobile App Development](#mobile-app-development)
+- [Package Managers](#package-managers)
+- [Project Management and Collaboration](#project-management-and-collaboration)
+- [Software Development](#software-development)
+- [System Design](#system-design)
+- [Systems Programming](#systems-programming)
+- [Text Editors, Code Editors, & Integrated Development Environments (IDEs)](#text-editors-code-editors--integrated-development-environments-ides)
+- [UI/UX Design, Copywriting, and Typography](#uiux-design-copywriting-and-typography)
+- [Version Control](#version-control)
+- [Web Builders](#web-builders)
+- [Web3](#web3)
 
 </details>
 
-## Project Management Concepts
- * **Waterfall Methodology:** each project phase is completed sequentially before moving to the next stage
- * **Agile Methodology:** emphasizes iterative progress, collaboration, adaptability, and continuous delivery of value
- * **SCRUM:** agile project management framework that organizes work into iterative sprints for collaboration efficiency
- 
-## Project Management and Collaboration
-* **Microsoft Office Suite:** collection of productivity applications such as Word, Excel, PowerPoint, and Outlook
-* **Google Workspace:** cloud-based productivity and collaboration suite  with Gmail, Docs, Drive, Meet, Calendar, etc.
-* **Linear:** a modern project management and issue-tracking tool designed for fast software development team workflows
-* **Notion:** all-in-one workspace platform for note-taking, project management, documentation, and collaboration
-* **JIRA:** Atlassian project management and issue-tracking tool widely used for agile software development and collaboration
-* **GitHub Projects:**  GitHub used to organize tasks, track progress, and manage software development workflows
-* **GitHub Issues:** built-in GitHub tracking system used to report bugs, manage tasks, discuss features, and coordinate projects
-* **ServiceNow:** an enterprise cloud-based ticketing platform for IT service management and business workflow automatiom
-* **Trello:** visual project management tool that uses boards, lists, and cards to organize tasks and team workflows
-* **Azure DevOps:** provides tools for version control, project tracking, and collaboration
-* **Slack:** workplace collaboration platform that supports messaging, file sharing, integrations, and team coordination
-
-## System Design Concepts
-* **12 Factor Architectural Design:** best practices for building modern, scalable, and portable SaaS apps that run in the cloud
-* **Unified Modeling Language (UML):** a standardized visual modeling language used to design software systems
-    * **Astah UML**: a software modeling tool used to create UML diagrams
-    * **StarUML:** a software modeling tool used to create UML diagrams and software architectures
-    * **Umbrello:** an open-source UML modeling tool
-    * **UML Designer:** an Eclipse-based modeling tool used to create and visualize UML diagrams for system architecture
-* **Model-View-Controller (MVC) Architecture:** a software design pattern that separates an app into three interconnected components
-    * **Model:** manages data and business logic
-    * **View:** handles layout and display
-    * **Controller:** routes commands and user input
-* **Model-View-ViewModel (MVM) Architecture:** software architectural pattern that separates app logic, UI, and data binding
-* **Model-View-Presenter (MVP):** the presenter handles user interaction logic between the model and the view
-* **Clean Architecture:** a software design approach that organizes applications into layered independent components
-* **Microservices Architecture:** structures applications as independently deployable services that communicate over networks
-* **Monolithic Architecture:** all application components are built and deployed as a single unified system
-* **Modular Monolith Architecture:** a a single deployable monolithic organized into well-separated internal modules
-* **Serverless Architecture:** cloud computing model where apps run on 3rd party infra, and auto-scale without managing a server
-* **Service-Oriented Architecture (SOA):** reusable services communicate over a network to support business processes
-* **Scheduled Polling:** system communication approach where applications periodically check new data at fixed time intervals
-* **Event-Driven Architecture:** system components communicate and react to events asynchronously as they occur
-* **RESTful API:** web service architecture that uses standard HTTP methods to enable comms and data exchange between system
-* **gRPC API:** high-performance remote procedure call framework for comms between distributed systems using Protocol Buffers
-* **Flux:** architecture by Facebook that emphasizes building unidirectional data flows for frontends using ReactJS
-
-## UI/UX Design, Copywriting, and Typography
-* **Miro:** AI innovation workspace where teams of any size can dream, design, and build their future together.
-* **Brandmark.io:** create AI-powered logo designs
-* **Diagrams.net:** create wireframes for websites, mobile apps, and software interfaces using built-in UI components
-* **[Wireframe.cc](https://github.com/thespcrewroy/SoftwareEngineeringTutorials/blob/main/UIUXDesign/WireframeCC.md):** cloud-based tool that allows users to create wireframes
-* **[Concepts](https://github.com/thespcrewroy/SoftwareEngineeringTutorials/blob/main/UIUXDesign/Concepts.md):** drawing app used for lo-fidelity wireframes
-* **Google Gemini Stitch:** Figma compatible UI/UX mockup generations developed by Google
-* **Claude Design:** Figma compatible UI/UX mockup generations developed by Anthropic
-* **[Figma](https://github.com/thespcrewroy/SoftwareEngineeringTutorials/blob/main/UIUXDesign/Figma.md):** a collaborative cloud-based design platform used for UI/UX design
-* **Fontawesome:** an icon toolkit and library that provides scalable vector icons and social logos
-* **Google Fonts:** free web font library for integrating customizable fonts into websites
-* **GoDaddy Airo:** create websites, generate logos, and manage marketing tasks
-* Inspiration
-    * **Cofolios:** social media site for tech portfolios
-    * **Dribble:** social media site for digital designers
-    * **Behance:** social media site for creative work
-    * **Godly:** website design inspiration
-    * **CSS Design Awards:** web design awards platform that showcases and recognizes outstanding websites
-    * **Landbook:** web design inspiration gallery
-    * **Web Awards:** best website design awards archive
-    * **Mag Websites:** showcases creative, modern, and award-worthy website designs
-    * **[Figma Community](https://github.com/thespcrewroy/SoftwareEngineeringTutorials/blob/main/UIUXDesign/FigmaCommunity.md):** social media for Figma designs
-* Design Trends
-    * **Bento UI:** organizes content into visually distinct grid-based cards of varying sizes inspired by Japanese bento box
-    * **Glassmorphism 2.0:** combining frosted-glass transparency with better readability
-
-## Web Builders
-* **Shopify:** web builder for e-commerce stores
-    * **Aftersell:** offers post-purchase upsells without needing coding experience
-    * **Upcart:** customizable cart drawers with in-cart upsells, cross-sells, and rewards
-* **SquareSpace:** web builder for beautiful design portfolios and websites
-* **Webflow:** web builder for custom professional sites
-* **Wix:** web builder for beginners
-* **Wix Harmony:** AI-powered hybrid website builder that allows you to generate a complete website layout 
-* **Wordpress:** web builder offering the most-customization for software engineers
-* **Codefoli:** AI-powered portfolio website builder
-* **Rosslite:** build platforms, websites, and systems for business to operate
-* **Figma Sites:** AI-driven website and web app builder
-* **[GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/):** prettify your github profile using this amazing readme generator
-* **[GitHub Stats Extended](https://github.com/stats-organization/github-stats-extendedv):** generates various stats cards about your GitHub contributions, languages, and more
-
-## Cloud Computing & Infrastructure
-* **Network as a Service (NaaS):** customers rent networking services from cloud providers instead of their own physical network infra
-* **Infrastructure as a Service (IaaS):** provides virtualized computing resources such as servers, storage, and networking
-* **Platform as a Service (PaaS):** offers a managed platform for developing, running, and deploying applications
-* **Software as a Service (SaaS):** applications are accessed through the internet on a subscription basis
-* **Function as a Service (FaaS):** run event-driven functions without managing servers or infrastructure.
-* **Backend as a Service (BaaS):** provides ready-made backend features such as databases, authentication, and APIs
-* **Containerization as a Service (CaaS):** deployment, management, and orchestration of containerized apps using Docker/K8s
-* **Containerization:** create isolated computing environments to eliminate dependecy issues accross different infrastructures
-    * **Docker:** packages applications and their dependencies into portable, isolated containers
-    * **Podman:** containerization platform for building, running, and managing containers without requiring a centralized daemon
-* **Virtualization:** create entire operating systems to eliminate dependency isues accross infrastructure
-    * **AWS Elastic Compute Cloud (EC2):** scalable virtual servers in the cloud for hosting applications as a service
-    * **AWS Virtual Private Cloud (VPC):** isolated virtual networks within AWS for securely hosting and managing cloud resources
-    * **Proxmox VE:** open-source virtualization platform for managing virtual machines and Linux containers
-* **Digital Ocean:** cloud infrastructure platform providing virtual servers, databases, storage, networking, deployment, etc.
-* **Gitpod:** cloud-based development environment platform that provides ready-to-code workspaces directly from Git repos
-* **GitHub Codespaces:** cloud-based development environment that provides fully configured coding workspaces in GitHub
-* **Terraform:** automates the creation and management of cloud and on-premises infrastructure using infrastructure as Code (IaC)
-* **Virtual Private Cloud (VPC):** logically isolated private network hosted within a public cloud provider's infrastructure
-* **Amazon Web Services (AWS):** comprehensive cloud computing platform
-* **AWS Cloud Development Kit (CDK):** framework that provides AWS services using programming languages instead of config giles
-* **Microsft Azure:** Microsoft’s cloud computing platform
-* **Google Cloud Platform (GCP):** a cloud services platform by Google
-
-## Version Control
-* **Git:** distributed version control system used to track code changes, manage collaboration, and maintain project history
-* **GitHub:** cloud-based platform for hosting, managing, and collaborating on Git repositories and software projects
-* **GitHub Dekstop:** free and open-source app that simplifies working with Git repositories through a graphical user interface
-* **GitLab:**  provides Git repository hosting, version control, CI/CD pipelines, and tools for software development collaboration
-* **GitKraken:** graphical Git client and with visualizations forde branches, commits, and pull requests
-* **BitBucket:** git-based platform by Atlassian that supports code collaboration, version control, and CI/CD integration
-
-## Text Editors, Code Editors, & Integrated Development Environments (IDEs)
-* **Devin Desktop (formerly Windsurf):** AI-powered VS Code IDE with integrated coding agents for local development
-* **Nano:** simple command-line text editor for creating and editing files in Unix and Linux environments
-* **Sublime Text:** a fast and lightweight text editor known for its speed, simplicity, and powerful multi-cursor editing features
-* **Notepad++:** a lightweight Windows text and source code editor that supports multiple programming languages and plugins
-* **Vi:** lightweight command-line text editor commonly used for editing files and code in Unix and Linux systems.
-* **Vim:** lightweight and highly configurable text editor designed for efficient keyboard-based code editing and development
-* **NeoVim:** a highly extensible terminal-based text editor built for efficient coding and customization with modern plugins
-* **Emacs:** highly customizable text editor and development environment used for programming, editing, and task automation
-* **Doom Emacs:** a highly optimized and modular Emacs configuration framework designed for speed, ergonomics, and productivity
-* **Evil Emacs:** an Emacs extension layer that brings Vim-style modal editing and keybindings into the Emacs environment
-* **Zed:** a high-performance, multiplayer code editor designed for fast collaboration and modern developer workflows
-* **VSCode:** lightweight and extensible code editor by Microsoft that supports debugging, extensions, and development
-* **Cursor:** AI-powered code editor
-* **BlueJ:** educational Java IDE designed to help beginners learn OOP and software development concepts
-* **NetBeans:** for developing, testing, and debugging applications in Java and other programming languages
-* **Eclipse:** used for developing, debugging, and managing software projects in multiple programming languages
-* **IntelliJ:** a powerful IDE by JetBrains designed primarily for Java and JVM-based application developmen
-* **PyCharm:** a Python-focused IDE by JetBrains that provides intelligent code assistance, debugging, and testing
-* **WebStorm:** a JetBrains IDE for JavaScript and web development that offers coding assistance, debugging, and framework integration
-* **Visual Studio:** a IDE from Microsoft compatible with many languages, and used for developing desktop, web, cloud, and mobile apps
-* **Xcode:** Apple’s IDE used for building, testing, and deploying applications for iOS, macOS, watchOS, and tvOS
-* **Android Studio:** Google’s official IDE for coding, testing, debugging, and UI design for Android App Development
-* **Gemini Antigravity:** AI-powered IDE developed by Google
-* **GitHub Copilot:** auto-complete for code-editors and IDEs
-
-## Software Development Concepts
-* **Preload, Render, Precache, Lazy Loading (PRPL) Pattern**: a web performance architecture strategy that improves app loading speed
-* **Asynchronous JavaScript and XML (AJAX):** a web dev technique that allows web pages to data from servers asynchronously
-* **Create, Read, Update, Delete (CRUD):** 4 fundamental operations used to manage data in databases, REST APIs, and backends
-* **Test-Driven Development (TDD):** tests are written before code to guide implementation and ensure functionality
-* **Arrange, Act, Assert (AAA):** unit testing pattern that structures tests by setting up conditions, executing actions, and verifying
-* **SOLID Principles:** set of object-oriented design principles that improve software maintainability, scalability, and flexibility
-    * **Single Responsibility Principle:** a class should have only one responsibility or reason to change
-    * **Open/Closed Principle:** software entities should be open for extension but closed for modification
-    * **Liskov Substitution Principle:** subtypes should be replaceable for their base types without altering program correctness
-    * **Interface Segregation Principle:** clients should not be forced to depend on interfaces they do not use
-    * **Dependency Inversion Principle:** high-level modules should depend on abstractions rather than concrete implementations
-* **Software Development Life Cycle (SDLC):** structured process for deveoping software and software systems
-    * **Plan:** goals, requirements, feasibility, timelines, and resources are identified and organized
-    * **Analyze:** business and technical requirements are gathered, evaluated, and documented
-    * **Design:** creating the software architecture, user interfaces, databases, and system specifications
-    * **Develop:** phase where developers write and build the application’s code and core functionality
-    * **Test:** stage where the software is evaluated for bugs, security issues, performance, and functionality
-    * **Deploy:** release and distribute the software to users or production environments
-    * **Maintain:** ongoing phase of updating, monitoring, fixing, and improving the software after release
- * **Server Side Rendering (SSR):** the server generates the HTML page first which is great for SEO search bots to catch
- * **Client Side Renfering (CSR):** the server sends a blank HTML shell and JS files to the browser for it to build the page
- * **Incremental Static Regeneration (ISR):** see static pages and update them on the server on demand or at a set interval
- * **State Management:** tracking, storing, and updating data and UI controls over time so an app stays consistent and responsive
+## Backend
+- **API (Application Programming Interface)**
+    - **API Gateway**
+        - **[AWS API Gateway](https://docs.aws.amazon.com/apigateway/)**: managed service for creating, securing, monitoring, and scaling APIs
+- **API Testing**
+    - **[Postman](https://learning.postman.com/docs/)**: an API platform used to design, test, document, and monitor APIs
+- **Authentication**
+    - **IdP (Identity Provider)**
+        - **[Authentik](https://docs.goauthentik.io/)**: a self-hosted, open-source identity provider
+- **Backend Framework**
+    - **[ASP.NET](https://learn.microsoft.com/en-us/aspnet/core/)**: a Microsoft framework for building web apps and APIs with C# and F#
+        - **[Razor](https://learn.microsoft.com/en-us/aspnet/core/mvc/views/razor)**: ASP.NET's markup syntax for building dynamic web pages with embedded C# code
+    - **[Django](https://docs.djangoproject.com/)**: a high-level Python web framework for rapid development of secure, database-driven web apps
+    - **[ExpressJS](https://expressjs.com/)**: a lightweight backend web framework for Node.js used to build APIs and microservices
+    - **[FastAPI](https://fastapi.tiangolo.com/)**: a modern Python framework for high-performance APIs with automatic validation and async support
+    - **[Flask](https://flask.palletsprojects.com/)**: a lightweight Python web framework used to build web apps, APIs, and backend services
+    - **[Laravel](https://laravel.com/docs)**: a PHP web framework used to build modern web apps and APIs with MVC architecture
+    - **[NestJS](https://docs.nestjs.com/)**: a TypeScript backend framework for Node.js used to build modular, scalable server-side apps
+    - **[Ruby on Rails](https://guides.rubyonrails.org/)**: a Ruby web framework for server-side apps, APIs, database logic, and routing
+    - **[Spring Boot](https://spring.io/projects/spring-boot)**: a Java framework that simplifies building production-ready web apps, APIs, and microservices
+- **Browser Automation**
+    - **[Playwright](https://playwright.dev/docs/intro)**: automates multiple browsers for web testing, scraping, and automated workflows
+    - **[Puppeteer](https://pptr.dev/)**: a Node.js library that automates and controls Chrome and Firefox
+    - **[Selenium](https://www.selenium.dev/documentation/)**: a browser automation framework for testing and interacting with web pages
+- **[Golang](https://go.dev/doc/)**: Google's statically typed language for scalable backend systems, cloud services, and concurrent apps
+- **[Google Apps Script](https://developers.google.com/apps-script)**: cloud-based JavaScript platform for integrating Google Workspace workflows
+- **[Java](https://dev.java/learn/)**: a platform-independent object-oriented programming language widely used for enterprise applications
+- **JavaScript Runtime**
+    - **[Bun](https://bun.sh/docs)**: a fast all-in-one JavaScript runtime with a built-in package manager, bundler, and test runner
+    - **JavaScript Engine**
+        - **[V8](https://v8.dev/docs)**: Google's open-source JavaScript and WebAssembly engine used by Chrome and Node.js
+    - **[NodeJS](https://nodejs.org/en/docs)**: a JavaScript runtime built on Chrome’s V8 engine for running JavaScript on the server
+- **[PHP](https://www.php.net/manual/en/)**: server-side scripting language primarily used to build dynamic websites
+- **[Python](https://docs.python.org/3/)**: a versatile high-level programming language known for its readability
+- **[Ruby](https://www.ruby-lang.org/en/documentation/)**: a dynamic object-oriented language designed for simplicity and developer productivity
+- **[Scala](https://docs.scala-lang.org/)**: a statically typed language that combines object-oriented and functional programming
+- **[VBA (Visual Basic for Applications)](https://learn.microsoft.com/en-us/office/vba/api/overview/)**: Microsoft's language for automating Office apps with macros
+- **Web Scraping**
+    - **[Apify](https://docs.apify.com/)**: cloud platform for web scraping, browser automation, and data extraction using reusable actors
+    - **[Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)**: a Python library for parsing and extracting data from HTML and XML
+    - **[Scrapy](https://docs.scrapy.org/)**: a Python framework for building scalable web scrapers and crawlers
 
 ## Build Tools
-* **Apache Maven**: a build automation and project management tool primarily used for Java projects and packages
-* **Gradle:** an open-source build automation tool used for dependency management, testing, and automation
-* **Bun:** fast all-in-one JavaScript NodeJS runtime and toolkit that includes a package manager, bundler, and testing
-* **Vite:** a fast frontend build tool and development server
-* **CMake:** family of tools designed to build, test (CTest), and package (CPack) software for C/C++
-  
-## Package Managers
-* **Npm:** the default package manager for Node.js used to install, manage, and share JavaScript libraries and tools
-* **Bun:** fast all-in-one JavaScript NodeJS runtime and toolkit that includes a package manager, bundler, and testing
-* **Yarn:** a fast and reliable JavaScript package manager designed to improve dependency management and project consistency
-* **MacPorts:** an open-source package manager for macOS that simplifies installing and maintaining Unix-based software
-* **Homebew:** package manager for macOS and Linux used to install, update, and manage software from the command line
-* **Conda:** package and environment management system used to install dependencies and manage isolated environments
-* **vcpkg:** C/C++ package manager maintained by Microsoft and the C++ community
+- **Build Automation**
+    - **[Apache Maven](https://maven.apache.org/guides/getting-started/)**: a build automation and project management tool primarily used for Java projects
+    - **[CMake](https://cmake.org/cmake/help/latest/)**: tools to build, test (CTest), and package (CPack) C and C++ software
+    - **[Gradle](https://docs.gradle.org/)**: an open-source build automation tool used for dependency management, testing, and automation
+- **Module Bundler**
+    - **[Vite](https://vite.dev/guide/)**: a fast frontend build tool and development server
 
-## Configuration
-* **.editorconfig:** helps maintain consistent coding styles/settings across different editors and IDEs for a code repository
-* **.env:** stores environment variables away from the source code such as API keys, database credentials, and app settings
-* **.yaml:** commonly used for settings, automation workflows, infrastructure definitions, and data serialization
-* **.config:** genericly used by applications and systems to store user preferences, settings, and runtime configurations
-* **.json:** lightweight data-interchange format that stores structured data using key-value pairs and arrays
-* **.xml:** markup language used to structure, store, and transport data in a readable and hierarchical format
-* **.gitignore:** git configuration file that specifies which files and folders should be excluded from version control tracking.
-* **~/.ssh**: the user-specific directory that stores SSH keys, configuration files, known hosts, and authorized keys
-
-## Frontend
-* **Codepen:** a social media platform for building, testing, and sharing front-end web projects
-* **Figma Make:** generate websites from UIs, mockups, and user flows using AI
-* **[Website Validator](https://validator.w3.org/):** validates HTML markup
-* **PHP:** server-side scripting language primarily used to build dynamic websites
-* **HTML:** standard markup language used to structure and display content on web pages
-* **CSS:** stylesheet language used to control the layout, design, and visual appearance of web pages.
-* **TailwindCSS:** a utility-first CSS framework by composing small reusable styling classes directly in HTML or JSX.
-* **Bootstrap:** a popular CSS framework using prebuilt UI components and layout utilities
-* **Javascript:** a versatile programming language used to create interactive websites
-* **Typescript:** a statically typed superset of JavaScript that adds type safety, tooling, and modern features
-* **Javascript XML (JSX):** a JavaScript syntax extension used in React to interface components with HTML-like code inside JavaScript
-* **Typescript XML (TSX):** Combines Typscript with JSX to build components HTML-like code inside JavaScript
-* **Razor:** markup syntax and templating engine in ASP.NET used to build dynamic web pages with embedded C# code
-* **Jekyll:** a Ruby-based static site generation framework that converts Markdown and templatess into optimized websites
-* **ReactJS:** a JavaScript web framework developed by Meta for building fast component-based user interfaces
-* **NextJS:** a React-based web framework for building fast web applications with server-side rendering and static site generation
-* **VueJS:** a progressive JavaScript framework used to build interactive user interfaces and single-page web applications
-* **SveltJS:** Javascript framework created by Rich Harris that uses a compiler instead of a heavy browser-side runtime
-* **NuxtJS:** a Vue-based full-stack framework for building server-rendered, statically generated, and modern web applications
-* **Angular:** a TypeScript-based frontend web framework developed by Google for building dyanmic scalable websites
-* **MagicUI:** a collection of prebuilt animated UI components and design elements for React and Tailwind CSS
-* **Google Lighthouse:** an open-source auditing tool that analyzes web pages for performance, accessibility, and SEO
-* Libraries
-    * **jQuery:** simplifies DOM manipulation, event handling, animations, and AJAX interactions 
-    * **HTMX:** makes dynamic server-driven web interactions without heavy JS frameworks
-    * **Redux:** a state management library commonly to manage and centralize application state predictably
-    * **Framer Motion:** used to create smooth interactive animations and transitions for web applications
-    * **RadixUI:** low-level React component library that provides accessible unstyled UI primitives
-    * **ShadCN**: scaffolding tool built with Tailwind CSS and Radix UI for creating modern web app interfaces
-
-
-## Backend
-* **Java:** platform-independent object-oriented programming language widely used for enterprise applications
-* **Lisp:** multi-paradigm language that was the earliest functional programming language and second high-level language
-* **Fortran:** an early computer programming language designed for high-speed mathematical
-* **Haskell:** purely functional programming language known for its mathematical purity, laziness, and strong typing
-* **OCaml:** heavily emphasizes functional programming, type safety, and raw performance
-* **Python:** versatile high-level programming language known for its readability and use in web development
-* **Ruby:** dynamic OOP programming language designed for simplicity and developer productivity
-* **Golang:** statically typed language developed by Google to build scalable backend systems, cloud services, and concurrent apps
-* **Scala:** statically typed programming language that combines object-oriented and functional programming
-* **Job Control Language (JCL):** scripting language used to instruct and communicate with IBM mainframe operating systems
-* **COBOL:** programming language designed for business, finance, and admin mainframe systems
-* **Google Apps Script:** cloud-based scripting platform using JavaScript to integrate Google Workspace workflows
-* **Visual Basic (VBA):** Microsoft programming language designed for easy development of event-driven Windows apps
-* **Laravel:** a PHP backend web framework used to build modern web apps and APIs with MVC architecture
-* **Ruby on Rails:** backend web framework for server-side apps, APIs, database logic, authentication, and web routing
-* **ASP.NET:** a Microsoft software development framework and runtime for building enterprise applications using C# and F#
-* **Flask:** a lightweight Python web framework used to build web applications, APIs, and backend services
-* **Django:** a high-level Python web framework that enables rapid development of secure, scalable, and database-driven web applications
-* **Spring Boot:** a Java-based backend framework that simplifies building production-ready web applications, APIs, and microservices
-* **NodeJS:** a JavaScript runtime built on Chrome’s V8 engine that allows developers to run JavaScript on the server for backend services
-* **NestJS:** a TypeScript-based backend framework for Node.js used to build modular scalable server-side apps and APIs
-* **ExpressJS:** a lightweight backend web framework for Node.js used to build APIs and microservices
-* **AWS API Gateway:** managed service for creating, securing, monitoring, and scaling APIs
-* **FastAPI:** a modern Python web framework for building high-performance APIs with automatic validation, type hints, and async support
-* **Websocket API:** browser-based interface that allows web apps to communivate without HTTP requests for live chat and online gaming
-* **GraphQL:** query language and API runtime that allows clients to request exactly the data they need from a server
-* **Azure Functions:** Microsoft’s serverless computing service that runs event-driven code on demand
-* **AWS Lambda:** a serverless computing service by Amazon that runs code automatically in response to events
-* **Zapier:** workflow automation platform that connects applications and automates tasks between services without requiring code
-* **Postman:** an API development and testing platform used to design, test, document, and monitor APIs
-* **Playwright:** for web testing, scraping, and automated workflows across multiple browsers
-* **Puppeteer:** Node.js library that automates and controls web browsers for testing, scraping, and web interaction tasks
-* **Beautiful Soup:** Python library used for parsing and extracting data from HTML and XML web pages
-* **Selenium:** browser automation framework used for web application testing and automated interaction with web pages
-* **Scrapy:** Python framework for building scalable web scraping and web crawling applications
-* **Apify:** cloud platform for web scraping, browser automation, and data extraction using customizable automation tools and actors
-* **Firebase**: Google’s backend-as-a-service (BaaS) with authentication, databases, hosting, analytics, and cloud functions
-* **Authentik:** self-hosted, open source, identity provider 
-
-## Database
-* **In-Memory Database:** stores all data directly in random-access memory (RAM) instead of traditional disk storage (SSD/HDD)
-    * **Redis:** commonly used as a cache, database, and message broker for ultra-fast data access for real time apps
-* **Time-Series Database:** specialized for sequential data points indexed strictly by time (timestamps)
-    * **Prometheus:** monitoring and alerting toolkit built around a time-series database (TSD)
-* **Relational Database:** organized into rigid, tabular rows and columns with fixed schemas
-    * **SQLite:** a serverless relational database engine that stores data locally in a single file
-    * **MySQL:** an open-source relational DBMS used to store, organize, and manage structured data using SQL
-    * **PostgreSQL:** an open-source relational database system known for its reliability, advanced SQL features, and extensibility
-    * **Supabase:** an open-source BaaS on PostgreSQL that provides authentication, databases, storage, and APIs
-    * **Oracle Database:** an enterprise-grade relational database management system developed by Oracle
-    * **IBM Db2:** a family of enterprise-grade relational database management systems
-* **Non-Relational Database:** flexible non-table models that includes key-value pairs, JSON documents, wide-columns, or graphs
-    * **MongoDB**: a NoSQL document-oriented database that stores data in flexible JSON-like documents
-    * **AWS DynamoDB:** a fully managed NoSQL database service by Amazon to store semi-structured data for low-latency applications
-* **Vector Database:** specialized for nearest-neighbor lookups using mathematical distances for AI and ML pipelines
-    * **Pinecone:** a fully managed, cloud-native vector database designed for high-performance vector search
-    * **Milvus:** an open-source vector database built for scalable similarity search and AI applications
-    * **Qdrant:** a vector database and vector search engine written in Rust with extended filtering support
-    * **Chroma:** an open-source vector database designed for building LLM applications easily
-    * **Weaviate:** an open-source vector database that stores both objects and vectors with flexible search capabilities
-    * **pgvector:** an open-source vector similarity search extension for PostgreSQL
-* **AWS Simple Storage Service (S3):** scalable cloud object storage service by AWS for storing unstructured data
-* **.NET Aspire SQL Server:** integration component in .NET Aspire used to configure, manage, and a SQL Server Database
-* **Object-Relational Mapping (ORM):** libraries that allow interaction with databases using programming languages rather than raw SQL
-   * **Entity Framework**: a modern ORM tool by Microsoft for .NET and C# that simplifies database access
-   * **Prisma**: a modern ORM tool for Node.js and TypeScript that simplifies database access
-   * **Java Database Connectivity (JDBC)**: a Java API ORM that simplifies relational database access
-   * **Drizzle:** a lightweight Javascript/TypeScript ORM that provides type-safe SQL queries and schema management
-
-## Full Stack
-* **MERN Stack:** a full-stack JavaScript technology stack consisting of MongoDB, Express.js, React, and Node.js
-* **[Google Gemini Opal](https://opal.google/landing/):** empower anyone to build and deploy AI mini apps without coding
-* **[Google Gemini Jules](https://jules.google.com/session):** coding agent developed by Google to perform app dev tasks
-* **Devin Cloud:** auto cloud-based AI software engineering agent that independently plans, writes, tests, and submits code
-* **Claude Code:** coding agent developed by anthropic to perform development tasks
-* **ChatGPT Codex:** coding agent developed by OpenAI to perform development tasks
-* **NVidia NVRHI:** acts as a common interface that maps seamlessly to major graphics APIs including Direct3D and Vulcan
+## Cloud Computing & Infrastructure
+- **CDE (Cloud Development Environment)**
+    - **[GitHub Codespaces](https://docs.github.com/en/codespaces)**: cloud-based, fully configured coding workspaces in GitHub
+    - **[Ona (formerly Gitpod)](https://ona.com/)**: cloud development environments that launch ready-to-code workspaces from Git repos
+- **Cloud Service Model**
+    - **BaaS (Backend as a Service)**
+        - **[Firebase](https://firebase.google.com/docs)**: Google’s BaaS with authentication, databases, hosting, analytics, and cloud functions
+        - **[Supabase](https://supabase.com/docs)**: an open-source BaaS on PostgreSQL that provides authentication, databases, storage, and APIs
+    - **FaaS (Function as a Service)**
+        - **[AWS Lambda](https://docs.aws.amazon.com/lambda/)**: Amazon's serverless service that runs code automatically in response to events
+            - **[AWS Chalice](https://aws.github.io/chalice/)**: a Python serverless framework for deploying apps to AWS Lambda
+        - **[Azure Functions](https://learn.microsoft.com/en-us/azure/azure-functions/)**: Microsoft’s serverless service that runs event-driven code on demand
+        - **[Serverless Framework](https://www.serverless.com/framework/docs)**: a CLI for building and deploying serverless apps across cloud providers
+    - **PaaS (Platform as a Service)**
+        - **[AWS Elastic Beanstalk](https://docs.aws.amazon.com/elasticbeanstalk/)**: deploys web apps on AWS and automatically manages their infrastructure and scaling
+        - **[DokPloy](https://docs.dokploy.com/)**: open-source, self-hostable PaaS for deploying and managing applications and databases
+        - **[Heroku](https://devcenter.heroku.com/)**: cloud platform that simplifies application deployment, hosting, and scaling
+        - **[PythonAnywhere](https://help.pythonanywhere.com/)**: cloud platform for developing, hosting, and running Python apps from a browser
+- **Containerization**
+    - **Container Orchestration**
+        - **[Kubernetes (K8s)](https://kubernetes.io/docs/concepts/overview/)**: automates the deployment, scaling, networking, and management of containerized apps
+            - **[K8Studio](https://k8studio.io/)**: a desktop IDE for managing Kubernetes clusters
+            - **[K9s](https://k9scli.io/)**: a terminal UI for navigating and managing Kubernetes clusters
+            - **[Lens](https://lenshq.io/)**: a desktop Kubernetes IDE for viewing and managing clusters
+        - **[Red Hat OpenShift](https://docs.redhat.com/en/documentation/openshift_container_platform/)**: Kubernetes-based platform for building, deploying, and scaling cloud-native apps
+    - **[Docker](https://docs.docker.com/get-started/)**: packages applications and their dependencies into portable, isolated containers
+        - **[Dive](https://github.com/wagoodman/dive)**: inspects Docker image layers to find wasted space
+    - **[Podman](https://docs.podman.io/)**: a daemonless platform for building, running, and managing containers
+- **CSP (Cloud Service Provider)**
+    - **[Amazon Web Services (AWS)](https://docs.aws.amazon.com/)**: Amazon's comprehensive cloud computing platform
+    - **[DigitalOcean](https://docs.digitalocean.com/)**: cloud platform providing virtual servers, databases, storage, networking, and deployment
+    - **[Google Cloud Platform (GCP)](https://cloud.google.com/docs)**: Google's cloud services platform
+    - **[Microsoft Azure](https://learn.microsoft.com/en-us/azure/)**: Microsoft’s cloud computing platform
+- **IaC (Infrastructure as Code)**
+    - **[AWS CDK (Cloud Development Kit)](https://docs.aws.amazon.com/cdk/)**: defines AWS infrastructure in programming languages instead of config files
+    - **[Terraform](https://developer.hashicorp.com/terraform/docs)**: automates creating and managing cloud and on-premises infrastructure as code
+        - **[Atlantis](https://www.runatlantis.io/docs/)**: runs Terraform plan and apply through pull requests
+- **[LocalStack](https://docs.localstack.cloud/)**: emulates AWS services locally for development and testing
+- **Virtualization**
+    - **[AWS EC2 (Elastic Compute Cloud)](https://docs.aws.amazon.com/ec2/)**: scalable virtual servers in the cloud for hosting applications
+    - **[Proxmox VE](https://pve.proxmox.com/pve-docs/)**: open-source virtualization platform for managing virtual machines and Linux containers
+- **VPC (Virtual Private Cloud)**
+    - **[AWS VPC](https://docs.aws.amazon.com/vpc/)**: isolated virtual networks in AWS for securely hosting and managing cloud resources
 
 ## Computer Graphics
-* **Image Formats**
-    * **SVG (Scalable Vector Graphics):** XML-based vector format for scalable logos, icons, and illustrations
-    * **PNG (Portable Network Graphics):** lossless raster format supporting transparency
-    * **JPEG/JPG (Joint Photographic Experts Group):** lossy raster format optimized for photographs
-    * **WebP:** modern image format supporting compression, transparency, and animation
-    * **AVIF (AV1 Image File Format):** highly compressed image format supporting transparency and HDR
-    * **GIF (Graphics Interchange Format):** raster format supporting simple animations and 256 colors
-    * **APNG (Animated Portable Network Graphics):** lossless animated PNG format supporting transparency
-    * **BMP (Bitmap):** raster format for storing uncompressed images
-    * **TIFF (Tagged Image File Format):** high-quality raster format for photography and printing
-    * **HEIC (High Efficiency Image Container):** space-efficient photo format commonly used by Apple
-    * **ICO (Icon):** image format for website favicons and Windows icons
-    * **JPEG XL (JXL):** modern image format supporting lossy, lossless, and HDR images
-* **High-Level Shader Langauge (HLSL):** C-like programming language for writing custom GPU shaders in DirectX
-* **Slang Shading Language:** modular language and compiler created for real-time computer graphics, ray tracing, and neural graphics
-* **Boid Flocks:** simulation algorithm that models the collective movement behavior of groups such as birds or fish using heuristics
-* **Processing:** an open-source programming language and visual arts framework for creating interactive graphics
-* **ThreeJS:** a JavaScript library used to create and render 3D graphics and animations in web browsers using WebGL
-* **p5.js:** JavaScript library for artists designed create interactive graphics and designs in the browser
-* **Bokeh:** a Python visualization library used to create interactive, web-based data visualizations and dashboards
-* **OpenGL:** a graphics API that interacts with the GPU for rendering 2D and 3D vector graphics
-* **DirectX:** a collection of APIs built by Microsoft to handle 3D graphics, texture rendering, and audio processing for Windows games
+- **Creative Coding**
+    - **[Manim](https://github.com/3b1b/manim)**: 3Blue1Brown's Python animation engine for math explainer videos
+    - **[Processing](https://processing.org/)**: an open-source programming language and visual arts framework for interactive graphics
+        - **[p5.js](https://p5js.org/)**: a JavaScript take on Processing for creating interactive graphics in the browser
+- **Data Visualization**
+    - **[Bokeh](https://docs.bokeh.org/)**: a Python library for interactive, web-based data visualizations and dashboards
+- **Graphics API**
+    - **[DirectX](https://learn.microsoft.com/en-us/windows/win32/directx)**: Microsoft APIs for 3D graphics, texture rendering, and audio in Windows games
+    - **[NVIDIA NVRHI](https://github.com/NVIDIA-RTX/NVRHI)**: a common interface that maps onto graphics APIs including Direct3D and Vulkan
+    - **[OpenGL](https://www.opengl.org/)**: a cross-platform graphics API for rendering 2D and 3D vector graphics on the GPU
+- **Shading Language**
+    - **[HLSL (High-Level Shader Language)](https://learn.microsoft.com/en-us/windows/win32/direct3dhlsl/dx-graphics-hlsl)**: C-like language for writing custom GPU shaders in DirectX
+    - **[Slang](https://shader-slang.org/)**: modular shading language and compiler for real-time graphics, ray tracing, and neural graphics
+- **[Three.js](https://threejs.org/docs/)**: a JavaScript library for rendering 3D graphics and animations in the browser using WebGL
 
-## Hosting
-* **Blue Host:** a web hosting provider that offers domain, business emails, website hosting, and WordPress integration services
-* **Porkbun:** a domain registrar and web services provider known for affordable domain registration, hosting, and DNS management
-* **GoDaddy:** a domain registrar and web hosting company that provides website, email, and online business services
-* **AWS Chalice:** a Python serverless framework for deploying Python applications
-* **GitHub Pages:** static site hosting service that deploys websites directly from GitHub repositories
-* **Heroku:** cloud platform that simplifies application deployment, hosting, and scaling for developers
-* **AWS Elastic Beanstalk:** cloud deployment service that automatically manages infrastructure and scaling web apps on AWS
-* **Vercel:** cloud platform for deploying, hosting, and scaling frontend web applications and serverless functions
-* **DokPloy:** open-source self-hostable PaaS that simplifies the deployment and management of applications and databases
-* **iFastNet:** premium Hosting Provider, VPS hosting, and dedicated servers for backend web applications
-* **Netlify:** cloud platform for building, deploying, and hosting modern web apps with CI/CD and serverless features
-* **Hetzner:** cloud and dedicated hosting provider that offers scalable servers, storage, and infrastructure services
-* **Cloudinary:** cloud-based media management platform for storing, optimizing, transforming, and delivering images and videos
-* **Pythonanywhere:** cloud-based platform for developing, hosting, and running Python applications directly from a web browser
-* **CloudFlare**: massive CDN, domain registrar, and security provider for web infrastructure.
-* **Void:** open-source full-stack SDK, CLI, and deployment platform for building Vite apps and deploying them to Cloudflare
+## Configuration
+- **JSON (JavaScript Object Notation)**
+    - **[JSON Crack](https://jsoncrack.com/)**: visualizes JSON, YAML, XML, and CSV as interactive graphs
+    - **[Quicktype](https://quicktype.io/)**: generates typed models and serializers from JSON data
 
-## DevOps
-* **Orchestration:** the coordination of automated tasks across the SDLC, enabling teams to manage complex environments efficiently
-    * **NGINX** commonly associated with NGINX server settings for routing, proxies, server load balancing
-    * **httpd (Apache HTTP Server):** daemon that processes incoming network requests and delivers web pages over HTTP or HTTPS
-    * **Caddy:** an open-source web server and reverse proxy written in Goland that automates HTTPS delivery and load balacing
-    * **Ansible:** open-source IT automation tool used to configure systems, deploy applications, and orchestrate infrastructure
-    * **Chef:** automates how infrastructure code (cookbooks and recipes) is tested, versioned, and deployed to live servers
-    * **Kubernetes (K8s):** automates the deployment, scaling, networking, and management of containerized applications
-    * **Power Automate:** handles workflow automation, streamlining repetitive tasks, and triggering actions across different apps
-    * **Puppet:** automates infrastructure provisioning and system configuration across servers
-    * **SaltStack:** automates infrastructure management, remote execution, and system configuration at scale using Python
-    * **.NET Aspire:** cloud-native development framework for building, orchestrating, and managing distributed .NET applications
-    * **Redhat Openshift:** Kubernetes-based container platform for building, deploying, managing, and scaling cloud-native applications
-* **Unit Testing:** software testing method that verifies individual components or functions of an application work correctly in isolation
-    * **Pytest:** a Python testing framework used for writing and running simple to complex automated test cases
-    * **Jest:** a JavaScript testing framework commonly used for testing React applications and other frontend or backend code.
-    * **TestFlight:** an Apple platform used to distribute and beta test mobile iOS, iPadOS, watchOS, and tvOS applications before release
-    * **SonarQube:** code quality and security analysis platform that detects bugs, vulnerabilities, and maintainability issues
-    * **MSTest:** Microsoft’s unit testing framework for creating, running, and managing automated tests in .NET applications
-    * **JUnit:** test automation framework for the Java programming language.
-    * **Cypress:** an end-to-end testing framework for web applications with real-time debugging
-* **Continuous Integration and Continuous Deployment (CI/CD):** automates code integration, testing, and deployment
-    * **GitHub Actions:** CI/CD automation platform within GitHub used to build, test, and deploy code through customizable workflows
-    * **GitLab:**  provides Git repository hosting, version control, CI/CD pipelines, and tools for software development collaboration
-    * **BitBucket:** git-based platform by Atlassian that supports code collaboration, version control, and CI/CD integration
-    * **Azure DevOps:** provides tools for CI/CD pipelines and testing
-    * **CircleCI:** automates code building, testing, and deployment pipelines for software delivery
-    * **TravisCI:** automates software testing and deployment directly from source code repositories
-    * **CodeMagic:** automates building, testing, and deploying mobile applications, especially for Flutter mobile projects
-    * **Jenkins:** automates software building, testing, and deployment through customizable pipelines
+## Database
+- **In-Memory Database**
+    - **[Redis](https://redis.io/docs/)**: commonly used as a cache, database, and message broker for ultra-fast data access
+- **[JDBC (Java Database Connectivity)](https://docs.oracle.com/javase/tutorial/jdbc/)**: a Java API for connecting to and querying relational databases
+- **Non-Relational Database (NoSQL)**
+    - **[AWS DynamoDB](https://docs.aws.amazon.com/dynamodb/)**: Amazon's fully managed NoSQL database for low-latency applications
+    - **[MongoDB](https://www.mongodb.com/docs/)**: a document-oriented database that stores data in flexible JSON-like documents
+- **Object Storage**
+    - **[AWS S3 (Simple Storage Service)](https://docs.aws.amazon.com/s3/)**: scalable cloud object storage service for unstructured data
+- **ORM (Object-Relational Mapping)**
+    - **[Drizzle](https://orm.drizzle.team/docs/overview)**: a lightweight JavaScript and TypeScript ORM with type-safe SQL queries
+    - **[Entity Framework](https://learn.microsoft.com/en-us/ef/)**: Microsoft's ORM for .NET and C# that simplifies database access
+    - **[Prisma](https://www.prisma.io/docs)**: an ORM for Node.js and TypeScript that simplifies database access
+- **Relational Database**
+    - **[IBM Db2](https://www.ibm.com/docs/en/db2)**: a family of enterprise-grade relational database management systems
+    - **[Microsoft SQL Server](https://learn.microsoft.com/en-us/sql/sql-server/)**: Microsoft's enterprise relational database management system
+        - **[.NET Aspire SQL Server Integration](https://learn.microsoft.com/en-us/dotnet/aspire/database/sql-server-integration)**: configures and connects SQL Server in .NET Aspire apps
+    - **[MySQL](https://dev.mysql.com/doc/)**: an open-source relational DBMS for storing and managing structured data with SQL
+    - **[Oracle Database](https://docs.oracle.com/en/database/)**: an enterprise-grade relational database management system by Oracle
+    - **[PostgreSQL](https://www.postgresql.org/docs/)**: an open-source relational database known for reliability, advanced SQL features, and extensibility
+    - **[SQLite](https://www.sqlite.org/docs.html)**: a serverless relational database engine that stores data locally in a single file
+- **Time-Series Database**
+    - **[Prometheus](https://prometheus.io/docs/introduction/overview/)**: monitoring and alerting toolkit built around a time-series database
+- **Vector Database**
+    - **[Chroma](https://docs.trychroma.com/)**: an open-source vector database designed for building LLM applications
+    - **[Milvus](https://milvus.io/docs)**: an open-source vector database built for scalable similarity search
+    - **[pgvector](https://github.com/pgvector/pgvector)**: an open-source vector similarity search extension for PostgreSQL
+    - **[Pinecone](https://docs.pinecone.io/)**: a fully managed, cloud-native vector database for high-performance vector search
+    - **[Qdrant](https://qdrant.tech/documentation/)**: a vector database and search engine written in Rust with extended filtering
+    - **[Weaviate](https://docs.weaviate.io/)**: an open-source vector database that stores both objects and vectors
 
-## Documentation
-* **OpenAPI:** a specification standard for describing and documenting RESTful APIs in a machine-readable format
-* **AsyncAPI:** specification framework for documenting and designing event-driven APIS for messaging and streaming systems
-* **Markdown (MD):** a lightweight markup language used to format plain text into structured documents with simple syntax
-    * **README.md:** provides an overview, setup instructions, and usage details for a software project
-    * **SECURITY.md:** outlines security policies, vulnerability reporting procedures, and supported software versions
-    * **CODE_OF_CONDUCT.md:** defines community behavior standards, participation guidelines, and enforcement policies
-    * **CONTRIBUTING.md:** details the coding standards, workflows, and submission guidelines contributors must follow
-* **LICENSE:** specifies the legal terms, permissions, and restrictions for using, modifying, and distributing a software project
-* **Markdown XML (MDX):** combines Markd own with JSX, allowing developers to embed React components directly inside Markdown
-* **Docusaurus:** static-site open-source documentation website generator framework built by Meta
-* **Vitepress:** a static site generator built on top of Vite and Vue for building documentation websites
-* **Mkdocs:** a static site generator for creating project documentation websites using Markdown files
-* **Gatsby:** a React-based static site generation framework used to build fast and optimized websites
-* **GitHub Gist:** a lightweight GitHub feature for storing, sharing, and version-controlling individual code snippets and text files
-* **[Pastebin](https://pastebin.com/):** online service for storing and sharing plain text, code snippets, and logs
-* **Scribe:** AI-powered documentation generator 
-
-## Systems Programming Optimization
-* **C:** a procedural programming language widely used for operating systems, embedded systems, and low-level software
-* **C++:** a high-performance programming language used mainly for performance cirtical applications
-* **F'**: an open-source, component-driven flight software development framework
-* **GNU Debugger:** CLI debugger used to analyze, troubleshoot, and control the execution of programs written in systems languages
-* **Lua:** lightweight embeddable scripting language designed for fast execution for games, embedded systems, and app scripting
-* **Rust:** systems programming language focused on performance, memory safety, and concurrency garbage collection
-* **WebAssembly (Wasm):** a low-level binary instruction format for optimizing performance on frotends when used with JavaScript
-* **GNU Radio**: free software development framework that provides signal processing functions for software-defined radio
+## Deployment & Hosting
+- **CDN (Content Delivery Network)**
+    - **[Cloudflare](https://developers.cloudflare.com/)**: CDN, domain registrar, and security provider for web infrastructure
+    - **[Cloudinary](https://cloudinary.com/documentation)**: cloud platform for storing, optimizing, transforming, and delivering images and videos
+- **Domain Registrar**
+    - **[GoDaddy](https://www.godaddy.com/)**: a domain registrar and web host providing website, email, and online business services
+    - **[Porkbun](https://porkbun.com/)**: a domain registrar known for affordable domains, hosting, and DNS management
+- **Static Site Hosting**
+    - **[GitHub Pages](https://docs.github.com/en/pages)**: hosts static websites directly from GitHub repositories
+    - **[Netlify](https://docs.netlify.com/)**: platform for building, deploying, and hosting web apps with CI/CD and serverless features
+    - **[Vercel](https://vercel.com/docs)**: platform for deploying, hosting, and scaling frontend apps and serverless functions
+- **[Void](https://void.cloud/)**: open-source full-stack SDK, CLI, and platform for building Vite apps and deploying them to Cloudflare
+- **VPS (Virtual Private Server)**
+    - **[Hetzner](https://docs.hetzner.com/)**: cloud and dedicated hosting provider offering scalable servers, storage, and infrastructure
+- **Web Hosting**
+    - **[Bluehost](https://www.bluehost.com/)**: a web host offering domains, business email, website hosting, and WordPress integration
+    - **[iFastNet](https://ifastnet.com/)**: a hosting provider offering shared, VPS, and dedicated servers for web applications
 
 ## Desktop App Development
-* **.NET:** a Microsoft software development platform and runtime for building enterprise applications using C# and F#
-* **ElectronJS:** a framework for building cross-platform desktop applications using Javascript, CSS, and HTML
-* **JavaFX:** Java framework for building desktop applications with graphical user interfaces and multimedia features
-
-## Mobile App Development
-* **[Swift](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/):** modern programming language developed by Apple for building fast, safe, and efficient applications across Apple OS
-* **SFSymbols:** Apple’s iconography library that provides scalable vector symbols for use in iOS, macOS, watchOS, and tvOS
-* **Quicktype.io:** automatically generate typed models from JSON data
-* **Kotlin:** a modern statically typed programming language designed for concise, safe, and interoperable development for Android
-* **[SwiftUI](https://developer.apple.com/documentation):** Apple’s declarative UI framework for building user interfaces across iOS, macOS, watchOS, and tvOS applications
-* **Jetpack Compose:** Android’s modern declarative UI toolkit by Google for building native Android interfaces
-* **React-Native:** JavaScript-based framework developed by Meta for building cross-platform mobile apps
-* **Flutter:** Gotogle’s UI toolkit for building fast, cross-platform mobile, web, and desktop applications from a single Dart codebase
-* **Xamarin:** Microsoft's framework for building cross-platform mobile applications using C# and .NET for Android and iOS
-* **Dart:** programming language developed by Google for building cross-platform applications with the Flutter framework
-* **Ionic:** uses web technologies like HTML, CSS, and JavaScript to build mobile and desktop applications
-
-## Game Development
-* **C#:** modern object-oriented programming language developed by Microsoft for building applications on the .NET platform
-* **Luau:** scripting language developed by Roblox, based on Lua, for game development and performance optimization
-* **Unreal Engine:** a real-time 3Dengine used for developing high-fidelity games, simulations, films, and virtual experiences
-* **Unity:** a real-time 2D and 3D engine for creating games, simulations, and interactive experiences across multiple devices
-* **Godot:** open-source game engine used for developing 2D and 3D games with a lightweight and flexible development environment
-* **Roblox Studio:** official game development environment for creating, testing, and publishing experiences on Roblox
-* **Cocos2d-x:** open-source cross-platform game development framework used for building 2D games
-* **[Google Gemini Genie](https://labs.google/fx/projectgenie):** generate fully pre-packaged video games with AI
-
-## Web3
-* **Smart Contracts:** self-executing computer program stored on a blockchain that carry out actions when predetermined conditions are met
-* **Soroban:** smart contract platform built on the Stellar blockchain that enables scalable and developer-friendly app development
-* **Stellar:** an open-source blockchain network designed for low-cost cross-border payments and digital asset transfers
-
-## Geographic Information Systems (GIS)
-* **[ArcGIS](https://usg.maps.arcgis.com/home/webscene/viewer.html):** GIS for mapping, spatial analysis, geospatial data management, and visualization
-* **QGIS:** open-source GIS pplication used for creating, analyzing, and visualizing geospatial data and maps
-* **Google Earth:** geospatial visualization platform that allows users to explore satellite imagery, terrain, and maps in 3D
-* **Google Maps:** used to embed maps, geolocation, routing, and geospatial features into apps and websites
-* **Mapbox:** mapping and geospatial platform that provides customizable maps, navigation, location services, and spatial data tools
+- **Cross-Platform Desktop Framework**
+    - **[ElectronJS](https://www.electronjs.org/docs/latest/)**: a framework for building cross-platform desktop apps using JavaScript, HTML, and CSS
+    - **[JavaFX](https://openjfx.io/)**: a Java framework for building desktop apps with graphical user interfaces and multimedia
+- **[.NET](https://learn.microsoft.com/en-us/dotnet/)**: Microsoft's development platform and runtime for building applications in C# and F#
 
 ## Developer Tools
-* **GitHub Apps:** operate via webhooks and APIs independently using applets
-* **Chrome Devtools:** inspect, test, profile, and debug websites and web applications
-* **Bitly:** a URL shortening and link management platform used to create, track, and share shortened web links
-* **Linktree:** a link-in-bio platform that lets users share multiple links through a single customizable landing page
-* **Latex:** document preparation system used for creating professionally formatted technical, scientific, and academic documents
-* **Overleaf:** cloud-based collaborative LaTeX editor for writing, editing, and publishing technical and academic documents
-* **XQuartz:** open-source X Window System server that enables Linux and Unix graphical applications to run on macOS
-* **Stack Overflow:** a question-and-answer website for computer programmers
+- **[Chrome DevTools](https://developer.chrome.com/docs/devtools)**: inspect, test, profile, and debug websites and web applications
+- **Code Formatter**
+    - **[Code Beautify Python Formatter](https://codebeautify.org/python-formatter-beautifier)**: an online Python code formatter and beautifier
+- **[GitHub Apps](https://docs.github.com/en/apps)**: integrations that act on GitHub independently through webhooks and APIs
+- **[LaTeX](https://www.latex-project.org/)**: a document preparation system for professionally formatted technical, scientific, and academic documents
+    - **[Overleaf](https://www.overleaf.com/learn)**: a cloud-based collaborative LaTeX editor
+- **[Linktree](https://linktr.ee/)**: a link-in-bio platform for sharing multiple links through a single landing page
+- **[ntfy](https://docs.ntfy.sh/)**: sends push notifications to your phone or desktop through simple HTTP requests
+- **URL Shortener**
+    - **[Bitly](https://bitly.com/)**: a URL shortening and link management platform for creating and tracking short links
+- **Workflow Automation**
+    - **[Power Automate](https://learn.microsoft.com/en-us/power-automate/)**: Microsoft's platform for automating repetitive tasks and triggering actions across apps
+    - **[Zapier](https://zapier.com/)**: connects apps and automates tasks between services without code
+- **[XQuartz](https://www.xquartz.org/)**: an open-source X Window System server that runs Linux and Unix GUI apps on macOS
+
+## DevOps
+- **CI/CD (Continuous Integration and Continuous Deployment)**
+    - **[Azure Pipelines](https://learn.microsoft.com/en-us/azure/devops/pipelines/)**: Azure DevOps service for CI/CD pipelines and testing
+    - **[Bitbucket Pipelines](https://support.atlassian.com/bitbucket-cloud/docs/get-started-with-bitbucket-pipelines/)**: CI/CD built into Bitbucket repositories
+    - **[CircleCI](https://circleci.com/docs/)**: automates code building, testing, and deployment pipelines
+    - **[Codemagic](https://docs.codemagic.io/)**: automates building, testing, and deploying mobile apps, especially Flutter projects
+    - **[Concourse](https://concourse-ci.org/docs.html)**: an open-source, container-based CI/CD system built around pipelines
+    - **[GitHub Actions](https://docs.github.com/en/actions)**: GitHub's CI/CD platform for building, testing, and deploying code through workflows
+        - **[act](https://github.com/nektos/act)**: runs GitHub Actions workflows locally
+    - **[GitLab CI/CD](https://docs.gitlab.com/ci/)**: CI/CD pipelines built into GitLab
+    - **GitOps**
+        - **[Argo CD](https://argo-cd.readthedocs.io/)**: a declarative GitOps continuous delivery tool for Kubernetes
+    - **[Jenkins](https://www.jenkins.io/doc/)**: automates software building, testing, and deployment through customizable pipelines
+    - **[TeamCity](https://www.jetbrains.com/help/teamcity/)**: JetBrains' CI/CD server for building, testing, and deploying code
+    - **[Travis CI](https://docs.travis-ci.com/)**: automates software testing and deployment directly from source code repositories
+- **Configuration Management**
+    - **[Ansible](https://docs.ansible.com/)**: open-source IT automation for configuring systems, deploying apps, and orchestrating infrastructure
+        - **[Ansible AWX](https://github.com/ansible/awx)**: a web UI and REST API for running Ansible at scale
+    - **[Chef](https://docs.chef.io/)**: tests, versions, and deploys infrastructure code (cookbooks and recipes) to live servers
+    - **[Puppet](https://www.puppet.com/docs)**: automates infrastructure provisioning and system configuration across servers
+    - **[Salt (SaltStack)](https://docs.saltproject.io/)**: automates infrastructure management, remote execution, and configuration at scale using Python
+- **[.NET Aspire](https://learn.microsoft.com/en-us/dotnet/aspire/)**: cloud-native framework for building, orchestrating, and managing distributed .NET apps
+- **Software Testing**
+    - **Beta Testing**
+        - **[TestFlight](https://developer.apple.com/testflight/)**: Apple's platform for distributing and beta testing iOS, iPadOS, watchOS, and tvOS apps
+    - **E2E Testing (End-to-End Testing)**
+        - **[Cypress](https://docs.cypress.io/)**: an end-to-end testing framework for web applications with real-time debugging
+    - **Static Code Analysis**
+        - **[SonarQube](https://docs.sonarsource.com/sonarqube-server/)**: code quality and security platform that detects bugs, vulnerabilities, and maintainability issues
+    - **Unit Testing**
+        - **[Jest](https://jestjs.io/docs/getting-started)**: a JavaScript testing framework commonly used for React and other frontend or backend code
+        - **[JUnit](https://junit.org/)**: a test automation framework for Java
+        - **[MSTest](https://learn.microsoft.com/en-us/dotnet/core/testing/unit-testing-with-mstest)**: Microsoft’s unit testing framework for .NET applications
+        - **[Pytest](https://docs.pytest.org/)**: a Python framework for writing and running simple to complex automated tests
+- **Web Server**
+    - **[Apache HTTP Server (httpd)](https://httpd.apache.org/docs/)**: a daemon that serves web pages over HTTP or HTTPS
+    - **[Caddy](https://caddyserver.com/docs/)**: an open-source web server and reverse proxy in Go that automates HTTPS and load balancing
+    - **[NGINX](https://nginx.org/en/docs/)**: a web server used for routing, reverse proxying, and load balancing
+- **Workflow Orchestration**
+    - **[Apache Airflow](https://airflow.apache.org/docs/)**: a platform for authoring, scheduling, and monitoring workflows as code
+
+## Documentation
+- **Documentation Site Generator**
+    - **[Docusaurus](https://docusaurus.io/docs)**: Meta's open-source static site generator for documentation websites
+    - **[MkDocs](https://www.mkdocs.org/)**: a static site generator for project documentation written in Markdown
+    - **[VitePress](https://vitepress.dev/guide/what-is-vitepress)**: a static site generator built on Vite and Vue for documentation websites
+- **Markdown (MD)**
+    - **README.md**
+        - **[GitHub Profile README Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)**: generates a polished GitHub profile README
+        - **[GitHub Stats Extended](https://github.com/stats-organization/github-stats-extended)**: generates stats cards about your GitHub contributions, languages, and more
+        - **[Skill Icons](https://github.com/tandpfun/skill-icons)**: icons for showcasing your skills on GitHub READMEs and résumés
+- **[Scribe](https://scribehow.com/)**: AI-powered generator for step-by-step documentation and guides
+- **Snippet Sharing**
+    - **[GitHub Gist](https://docs.github.com/en/get-started/writing-on-github/editing-and-sharing-content-with-gists)**: GitHub's feature for sharing and versioning code snippets and text files
+    - **[Pastebin](https://pastebin.com/)**: online service for storing and sharing plain text, code snippets, and logs
+
+## Frontend
+- **[Codepen](https://codepen.io/)**: a social platform for building, testing, and sharing frontend web projects
+- **Component Library**
+    - **[MagicUI](https://magicui.design/docs)**: prebuilt animated UI components and design elements for React and Tailwind CSS
+    - **[RadixUI](https://www.radix-ui.com/primitives/docs)**: low-level React library of accessible, unstyled UI primitives
+    - **[ShadCN](https://ui.shadcn.com/docs)**: copy-in components built with Tailwind CSS and Radix UI for modern web interfaces
+- **[CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)**: stylesheet language used to control the layout, design, and visual appearance of web pages
+- **CSS Framework**
+    - **[Bootstrap](https://getbootstrap.com/docs/)**: a popular CSS framework of prebuilt UI components and layout utilities
+    - **[TailwindCSS](https://tailwindcss.com/docs)**: a utility-first CSS framework that composes small reusable classes directly in HTML or JSX
+- **Frontend Framework**
+    - **[Angular](https://angular.dev/)**: Google's TypeScript-based framework for building dynamic, scalable websites
+    - **[ReactJS](https://react.dev/)**: Meta's JavaScript library for building fast, component-based user interfaces
+        - **[JSX (JavaScript XML)](https://react.dev/learn/writing-markup-with-jsx)**: a JavaScript syntax extension for writing HTML-like markup in React components
+        - **[NextJS](https://nextjs.org/docs)**: a React framework for fast web apps with server-side rendering and static site generation
+        - **[TSX (TypeScript XML)](https://react.dev/learn/typescript)**: combines TypeScript with JSX to build typed React components
+    - **[Svelte](https://svelte.dev/docs)**: a JavaScript framework by Rich Harris that compiles components instead of shipping a heavy runtime
+    - **[VueJS](https://vuejs.org/guide/introduction.html)**: a progressive JavaScript framework for interactive UIs and single-page applications
+        - **[NuxtJS](https://nuxt.com/docs)**: a Vue-based full-stack framework for server-rendered and statically generated web apps
+- **[Google Lighthouse](https://developer.chrome.com/docs/lighthouse/)**: an open-source auditing tool that analyzes web pages for performance, accessibility, and SEO
+- **[HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)**: standard markup language used to structure and display content on web pages
+- **[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)**: a versatile programming language used to create interactive websites
+    - **[TypeScript](https://www.typescriptlang.org/docs/)**: a statically typed superset of JavaScript that adds type safety and tooling
+- **JavaScript Library**
+    - **[Framer Motion](https://motion.dev/)**: creates smooth interactive animations and transitions for web applications
+    - **[HTMX](https://htmx.org/docs/)**: adds dynamic, server-driven interactions to HTML without heavy JS frameworks
+    - **[jQuery](https://api.jquery.com/)**: simplifies DOM manipulation, event handling, animations, and AJAX interactions
+- **Rendering Strategy**
+    - **SSG (Static Site Generation)**
+        - **[Gatsby](https://www.gatsbyjs.com/docs/)**: a React-based static site generation framework for fast, optimized websites
+        - **[Jekyll](https://jekyllrb.com/docs/)**: a Ruby-based static site generator that converts Markdown and templates into websites
+- **State Management**
+    - **[Redux](https://redux.js.org/)**: a library for managing and centralizing application state predictably
+- **[W3C Markup Validation Service](https://validator.w3.org/)**: validates HTML markup
+
+## Full Stack
+- **AI Coding Agent**
+    - **[ChatGPT Codex](https://openai.com/codex/)**: OpenAI's coding agent for performing development tasks
+    - **[Claude Code](https://www.claude.com/product/claude-code)**: Anthropic's coding agent for performing development tasks
+        - **[Matt Pocock Skills](https://github.com/mattpocock/skills)**: agent skills for software engineers
+    - **[Devin](https://devin.ai/)**: Cognition's cloud-based AI software engineer that plans, writes, tests, and submits code
+    - **[Google Gemini Jules](https://jules.google.com/session)**: Google's coding agent for performing app development tasks
+- **No-Code App Builder**
+    - **[Google Gemini Opal](https://opal.google/landing/)**: builds and deploys AI mini apps without coding
+
+## Game Development
+- **[C#](https://learn.microsoft.com/en-us/dotnet/csharp/)**: Microsoft's object-oriented programming language for building applications on .NET
+- **Game Engine**
+    - **[Cocos2d-x](https://www.cocos.com/en/cocos2d-x)**: open-source cross-platform framework for building 2D games
+    - **[Godot](https://docs.godotengine.org/)**: open-source engine for developing 2D and 3D games
+    - **[Roblox Studio](https://create.roblox.com/docs)**: Roblox's official environment for creating, testing, and publishing experiences
+        - **[Luau](https://luau.org/)**: Roblox's scripting language, based on Lua, built for game development and performance
+    - **[Unity](https://docs.unity.com/)**: a real-time 2D and 3D engine for games, simulations, and interactive experiences
+    - **[Unreal Engine](https://dev.epicgames.com/documentation/en-us/unreal-engine)**: a real-time 3D engine for high-fidelity games, simulations, and films
+- **[Google Gemini Genie](https://labs.google/fx/projectgenie)**: generates playable video game worlds with AI
+
+## Geographic Information Systems (GIS)
+- **[ArcGIS](https://usg.maps.arcgis.com/home/webscene/viewer.html)**: GIS for mapping, spatial analysis, geospatial data management, and visualization
+- **Desktop GIS**
+    - **[QGIS](https://docs.qgis.org/)**: open-source GIS application for creating, analyzing, and visualizing geospatial data and maps
+- **Mapping API**
+    - **[Google Maps Platform](https://developers.google.com/maps)**: embeds maps, geolocation, routing, and geospatial features into apps and websites
+    - **[Mapbox](https://docs.mapbox.com/)**: customizable maps, navigation, location services, and spatial data tools
+- **Virtual Globe**
+    - **[Google Earth](https://earth.google.com/)**: explore satellite imagery, terrain, and maps in 3D
+
+## Mobile App Development
+- **Cross-Platform Development**
+    - **[Flutter](https://docs.flutter.dev/)**: Google’s UI toolkit for cross-platform mobile, web, and desktop apps from one Dart codebase
+        - **[Dart](https://dart.dev/guides)**: Google's programming language for building cross-platform apps with Flutter
+    - **[Ionic](https://ionicframework.com/docs)**: builds mobile and desktop apps with HTML, CSS, and JavaScript
+    - **[React Native](https://reactnative.dev/docs/getting-started)**: Meta's JavaScript framework for building cross-platform mobile apps
+    - **[Xamarin](https://dotnet.microsoft.com/en-us/apps/xamarin)**: Microsoft's C# and .NET framework for Android and iOS apps (retired, succeeded by .NET MAUI)
+- **Native Development**
+    - **[Kotlin](https://kotlinlang.org/docs/home.html)**: a modern statically typed language for concise, safe Android development
+        - **[Jetpack Compose](https://developer.android.com/compose)**: Android’s modern declarative UI toolkit
+    - **[Swift](https://docs.swift.org/swift-book/documentation/the-swift-programming-language/)**: Apple's language for building fast, safe, and efficient apps across Apple platforms
+        - **[SwiftUI](https://developer.apple.com/documentation)**: Apple’s declarative UI framework for iOS, macOS, watchOS, and tvOS apps
+- **[SF Symbols](https://developer.apple.com/sf-symbols/)**: Apple’s library of scalable vector symbols for iOS, macOS, watchOS, and tvOS
+
+## Package Managers
+- **Language Package Manager**
+    - **[npm](https://docs.npmjs.com/)**: the default package manager for Node.js used to install and share JavaScript libraries
+    - **[vcpkg](https://learn.microsoft.com/en-us/vcpkg/)**: C and C++ package manager maintained by Microsoft and the C++ community
+    - **[Yarn](https://yarnpkg.com/)**: a fast, reliable JavaScript package manager focused on consistent dependency management
+- **System Package Manager**
+    - **[Homebrew](https://docs.brew.sh/)**: package manager for macOS and Linux for installing and updating software from the command line
+    - **[MacPorts](https://guide.macports.org/)**: an open-source package manager for macOS that installs Unix-based software
+- **Virtual Environment**
+    - **[Conda](https://docs.conda.io/)**: package and environment manager for installing dependencies in isolated environments
+
+## Project Management and Collaboration
+- **Agile Methodology**
+    - **Kanban**
+        - **[GitHub Projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects)**: GitHub boards and tables for organizing tasks and tracking progress
+        - **[Trello](https://trello.com/)**: visual project management with boards, lists, and cards
+- **[Azure DevOps](https://learn.microsoft.com/en-us/azure/devops/)**: Microsoft's suite for version control, project tracking, and collaboration
+- **Issue Tracking**
+    - **[GitHub Issues](https://docs.github.com/en/issues)**: GitHub's built-in tracker for bugs, tasks, feature discussions, and project coordination
+    - **[JIRA](https://www.atlassian.com/software/jira)**: Atlassian's project management and issue tracker widely used for agile development
+    - **[Linear](https://linear.app/docs)**: a fast project management and issue-tracking tool for software teams
+- **ITSM (IT Service Management)**
+    - **[ServiceNow](https://www.servicenow.com/docs/)**: an enterprise cloud ticketing platform for IT service management and workflow automation
+- **[Notion](https://www.notion.com/help)**: all-in-one workspace for notes, project management, documentation, and collaboration
+- **Office Suite**
+    - **[Google Workspace](https://workspace.google.com/)**: Google's cloud productivity suite with Gmail, Docs, Drive, Meet, and Calendar
+    - **[Microsoft Office Suite](https://www.microsoft.com/en-us/microsoft-365)**: productivity apps such as Word, Excel, PowerPoint, and Outlook
+- **Team Communication**
+    - **[Slack](https://slack.com/help)**: workplace platform for messaging, file sharing, integrations, and team coordination
+
+## Software Development
+- **[Fortran](https://fortran-lang.org/learn/)**: an early programming language designed for high-speed mathematical and scientific computing
+- **Functional Programming**
+    - **[Haskell](https://www.haskell.org/documentation/)**: a purely functional language known for its mathematical purity, laziness, and strong typing
+    - **[Lisp](https://lisp-lang.org/)**: a multi-paradigm language that was the first functional language and second high-level language
+    - **[OCaml](https://ocaml.org/docs)**: a functional language that emphasizes type safety and raw performance
+- **Mainframe Computing**
+    - **[COBOL](https://www.ibm.com/docs/en/cobol-zos)**: a programming language for business, finance, and administrative mainframe systems
+    - **[JCL (Job Control Language)](https://www.ibm.com/docs/en/zos-basic-skills)**: scripting language used to instruct IBM mainframe operating systems
+
+## System Design
+- **UML (Unified Modeling Language)**
+    - **[Astah UML](https://astah.net/)**: a software modeling tool used to create UML diagrams
+    - **[StarUML](https://staruml.io/)**: a modeling tool for creating UML diagrams and software architectures
+    - **[Umbrello](https://apps.kde.org/umbrello/)**: an open-source UML modeling tool
+    - **[UML Designer](https://www.umldesigner.org/)**: an Eclipse-based tool for creating and visualizing UML diagrams
+
+## Systems Programming
+- **[C](https://en.cppreference.com/w/c)**: a procedural language widely used for operating systems, embedded systems, and low-level software
+    - **[glibc](https://sourceware.org/glibc/)**: the GNU C Library, the standard C library on most Linux systems
+- **[C++](https://en.cppreference.com/w/cpp)**: a high-performance programming language used mainly for performance-critical applications
+- **Debugger**
+    - **[GNU Debugger (GDB)](https://sourceware.org/gdb/documentation/)**: CLI debugger for analyzing and controlling programs written in systems languages
+- **Flight Software**
+    - **[F´ (F Prime)](https://nasa.github.io/fprime/)**: NASA JPL's open-source, component-driven flight software framework
+- **[Lua](https://www.lua.org/docs.html)**: lightweight embeddable scripting language for games, embedded systems, and app scripting
+- **[Rust](https://doc.rust-lang.org/book/)**: systems programming language focused on performance, memory safety, and concurrency
+- **SDR (Software-Defined Radio)**
+    - **[GNU Radio](https://wiki.gnuradio.org/)**: free software development framework that provides signal processing functions for SDR
+- **[WebAssembly (Wasm)](https://webassembly.org/)**: a low-level binary instruction format that runs near-native-speed code alongside JavaScript
+
+## Text Editors, Code Editors, & Integrated Development Environments (IDEs)
+- **AI Coding Assistant**
+    - **[GitHub Copilot](https://docs.github.com/en/copilot)**: AI code completion and chat for code editors and IDEs
+- **AI-Native Editor**
+    - **[Cursor](https://cursor.com/docs)**: AI-powered code editor
+    - **[Devin Desktop (formerly Windsurf)](https://windsurf.com/)**: AI-powered VS Code-based IDE with integrated coding agents for local development
+    - **[Google Antigravity](https://antigravity.google/)**: AI-powered IDE developed by Google
+- **Code Editor**
+    - **[Notepad++](https://notepad-plus-plus.org/)**: a lightweight Windows text and source code editor that supports many languages and plugins
+    - **[Sublime Text](https://www.sublimetext.com/docs/)**: a fast, lightweight text editor known for speed, simplicity, and multi-cursor editing
+    - **[VSCode](https://code.visualstudio.com/docs)**: lightweight, extensible code editor by Microsoft with debugging and extensions
+    - **[Zed](https://zed.dev/docs)**: a high-performance, multiplayer code editor designed for fast collaboration
+- **IDE (Integrated Development Environment)**
+    - **[Android Studio](https://developer.android.com/studio)**: Google’s official IDE for coding, testing, debugging, and designing Android apps
+    - **[BlueJ](https://www.bluej.org/)**: an educational Java IDE that helps beginners learn object-oriented programming
+    - **[Eclipse](https://www.eclipse.org/ide/)**: an IDE for developing, debugging, and managing projects in multiple languages
+    - **[IntelliJ IDEA](https://www.jetbrains.com/help/idea/)**: JetBrains' IDE designed primarily for Java and JVM-based development
+    - **[NetBeans](https://netbeans.apache.org/)**: an IDE for developing, testing, and debugging applications in Java and other languages
+    - **[PyCharm](https://www.jetbrains.com/help/pycharm/)**: JetBrains' Python IDE with intelligent code assistance, debugging, and testing
+    - **[Theia IDE](https://theia-ide.org/)**: an open-source IDE framework for building cloud and desktop IDEs
+    - **[Visual Studio](https://learn.microsoft.com/en-us/visualstudio/)**: Microsoft's IDE for building desktop, web, cloud, and mobile apps in many languages
+    - **[WebStorm](https://www.jetbrains.com/help/webstorm/)**: JetBrains' IDE for JavaScript and web development
+    - **[Xcode](https://developer.apple.com/xcode/)**: Apple’s IDE for building, testing, and deploying apps for iOS, macOS, watchOS, and tvOS
+- **Text Editor**
+    - **[Emacs](https://www.gnu.org/software/emacs/)**: a highly customizable text editor and environment for programming, editing, and automation
+        - **[Doom Emacs](https://github.com/doomemacs/doomemacs)**: a fast, modular Emacs configuration framework focused on ergonomics
+        - **[Evil](https://github.com/emacs-evil/evil)**: an Emacs extension that brings Vim-style modal editing and keybindings
+    - **[Nano](https://www.nano-editor.org/)**: a simple command-line text editor for Unix and Linux
+    - **[Vi](https://pubs.opengroup.org/onlinepubs/9799919799/utilities/vi.html)**: lightweight command-line text editor standard on Unix and Linux systems
+        - **[Vim](https://www.vim.org/docs.php)**: a highly configurable Vi-based editor designed for efficient keyboard-driven editing
+            - **[NeoVim](https://neovim.io/doc/)**: a highly extensible Vim-based editor with modern plugins and customization
+
+## UI/UX Design, Copywriting, and Typography
+- **Iconography**
+    - **[Font Awesome](https://docs.fontawesome.com/)**: an icon toolkit that provides scalable vector icons and social logos
+- **Logo Design**
+    - **[Brandmark.io](https://brandmark.io/)**: creates AI-powered logo designs
+- **Mockup**
+    - **[Claude Design](https://claude.ai/design)**: Anthropic's AI tool for generating Figma-compatible UI/UX mockups and prototypes
+    - **[Figma](https://github.com/thespcrewroy/SoftwareEngineeringTutorials/blob/main/UIUXDesign/Figma.md)**: a collaborative cloud-based design platform for UI/UX design
+    - **[Google Gemini Stitch](https://stitch.withgoogle.com/)**: Google's AI tool for generating Figma-compatible UI/UX mockups
+- **Typography**
+    - **[Google Fonts](https://fonts.google.com/)**: free web font library for integrating customizable fonts into websites
+- **Whiteboarding**
+    - **[Miro](https://miro.com/)**: an AI-powered visual workspace where teams brainstorm, design, and plan together
+- **Wireframe**
+    - **[Concepts](https://github.com/thespcrewroy/SoftwareEngineeringTutorials/blob/main/UIUXDesign/Concepts.md)**: drawing app used for lo-fidelity wireframes
+    - **[Diagrams.net](https://www.drawio.com/)**: creates wireframes for websites, apps, and software interfaces using built-in UI components
+    - **[Wireframe.cc](https://github.com/thespcrewroy/SoftwareEngineeringTutorials/blob/main/UIUXDesign/WireframeCC.md)**: cloud-based tool for creating wireframes
+
+## Version Control
+- **Git GUI Client**
+    - **[GitHub Desktop](https://docs.github.com/en/desktop)**: free, open-source app for working with Git repositories through a GUI
+    - **[GitKraken](https://help.gitkraken.com/)**: a graphical Git client with visualizations for branches, commits, and pull requests
+- **Source Code Hosting**
+    - **[BitBucket](https://support.atlassian.com/bitbucket-cloud/)**: Atlassian's Git platform for code collaboration, version control, and CI/CD
+    - **[Gitblit](https://gitblit.com/)**: a pure-Java server for hosting and viewing Git repositories
+    - **[Gitea](https://docs.gitea.com/)**: a lightweight, self-hosted Git service with code review and CI/CD
+    - **[GitHub](https://docs.github.com/)**: cloud-based platform for hosting, managing, and collaborating on Git repositories
+    - **[GitLab](https://docs.gitlab.com/)**: Git repository hosting with CI/CD pipelines and collaboration tools
+    - **[Gogs](https://gogs.io/docs)**: a painless, self-hosted Git service written in Go
+- **VCS (Version Control System)**
+    - **[Git](https://git-scm.com/doc)**: distributed version control system for tracking code changes and collaborating on project history
+
+## Web Builders
+- **AI Website Builder**
+    - **[Codefoli](https://codefoli.com/)**: AI-powered portfolio website builder
+    - **[Figma Make](https://www.figma.com/make/)**: generates websites and apps from UIs, mockups, and user flows using AI
+    - **[Figma Sites](https://www.figma.com/sites/)**: AI-driven website and web app builder
+    - **[GoDaddy Airo](https://www.godaddy.com/airo)**: creates websites, generates logos, and manages marketing tasks with AI
+- **CMS (Content Management System)**
+    - **[WordPress](https://wordpress.org/documentation/)**: web builder offering the most customization for software engineers
+- **E-Commerce Platform**
+    - **[Shopify](https://help.shopify.com/)**: web builder for e-commerce stores
+        - **[Aftersell](https://www.aftersell.com/)**: offers post-purchase upsells without needing coding experience
+        - **[Upcart](https://apps.shopify.com/upcart-cart-builder)**: customizable cart drawers with in-cart upsells, cross-sells, and rewards
+- **No-Code Website Builder**
+    - **[SquareSpace](https://support.squarespace.com/)**: web builder for beautiful design portfolios and websites
+    - **[Webflow](https://university.webflow.com/)**: web builder for custom professional sites
+    - **[Wix](https://www.wix.com/)**: web builder for beginners
+        - **[Wix Harmony](https://www.wix.com/harmony)**: AI-powered hybrid website builder that generates a complete website layout
+- **[Rosslite](https://rossilite.com/)**: builds platforms, websites, and systems for businesses to operate
+
+## Web3
+- **Blockchain**
+    - **[Stellar](https://developers.stellar.org/docs)**: an open-source blockchain network for low-cost cross-border payments and digital asset transfers
+        - **[Soroban](https://developers.stellar.org/docs/build/smart-contracts/overview)**: Stellar's smart contract platform for scalable, developer-friendly apps
 
 <p align="right"><a href="#top">🔼 Back to top</a></p>
 </small>
