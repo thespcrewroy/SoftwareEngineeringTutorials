@@ -1,5 +1,3 @@
-# Software Engineering Resources
-
 ## Certifications
 * AWS Cloud Practitioner
 * AWS AI Practitioner
