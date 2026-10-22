@@ -63,7 +63,7 @@
 - **JSON (JavaScript Object Notation)**: a lightweight data-interchange format that stores structured data as key-value pairs and arrays
 - **~/.ssh**: the user-specific directory that stores SSH keys, configuration files, known hosts, and authorized keys
 - **XML (Extensible Markup Language)**: a markup language used to structure, store, and transport data in a readable hierarchy
-- **YAML (YAML Ain't Markup Language)**: a human-readable format for settings, workflows, infrastructure definitions, and data serialization
+- **YAML (YAML Ain't Markup Language)**: a human-readable format for settings, workflows, infra definitions, or data serializations
 
 ## Database
 - **CRUD (Create, Read, Update, Delete)**: the four fundamental operations used to manage data in databases, REST APIs, and backends
