@@ -68,7 +68,6 @@
     - **[Figma Community](https://github.com/thespcrewroy/SoftwareEngineeringTutorials/blob/main/UIUXDesign/FigmaCommunity.md)**: social media for Figma designs
     - **[Godly](https://godly.website/)**: website design inspiration
     - **[Landbook](https://land-book.com/)**: web design inspiration gallery
-    - **Mag Websites**: showcases creative, modern, and award-worthy website designs
     - **[Web Awards](https://www.webaward.org/)**: best website design awards archive
 - **Logo Design**
     - **[Brandmark.io](https://brandmark.io/)**: creates AI-powered logo designs
