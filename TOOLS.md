@@ -40,12 +40,11 @@
     - **[GitHub Issues](https://docs.github.com/en/issues)**: GitHub's built-in tracker for bugs, tasks, feature discussions, and project coordination
     - **[JIRA](https://www.atlassian.com/software/jira)**: Atlassian's project management and issue tracker widely used for agile development
     - **[Linear](https://linear.app/docs)**: a fast project management and issue-tracking tool for software teams
-- **ITSM (IT Service Management)**
-    - **[ServiceNow](https://www.servicenow.com/docs/)**: an enterprise cloud ticketing platform for IT service management and workflow automation
 - **[Notion](https://www.notion.com/help)**: all-in-one workspace for notes, project management, documentation, and collaboration
 - **Office Suite**
     - **[Google Workspace](https://workspace.google.com/)**: Google's cloud productivity suite with Gmail, Docs, Drive, Meet, and Calendar
     - **[Microsoft Office Suite](https://www.microsoft.com/en-us/microsoft-365)**: productivity apps such as Word, Excel, PowerPoint, and Outlook
+- **[ServiceNow](https://www.servicenow.com/docs/)**: an enterprise cloud ticketing platform for IT service management and workflow automation
 - **Team Communication**
     - **[Slack](https://slack.com/help)**: workplace platform for messaging, file sharing, integrations, and team coordination
 
