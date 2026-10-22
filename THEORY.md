@@ -1,12 +1,3 @@
-## Artificial Intelligence & Machine Learning
-- **Deep Learning**: machine learning with multi-layer neural networks that learn features directly from data
-    - **Transformer**: a neural network architecture built on self-attention that underpins modern LLMs
-- **Genetic Algorithm**: an optimization method that evolves candidate solutions through selection, crossover, and mutation
-- **LLM (Large Language Model)**: a neural network trained on huge text corpora to understand and generate language
-    - **LLM Framework**: a library for building apps that chain LLM calls, tools, and data sources
-    - **Local LLM Inference**: running a language model on your own hardware instead of through a hosted API
-- **MLOps (Machine Learning Operations)**: practices for tracking, deploying, and monitoring machine learning models
-
 ## Backend
 - **API (Application Programming Interface)**: a defined contract that lets software components request data and services from each other
     - **API Gateway**: a managed entry point that routes, secures, and throttles requests to backend APIs
