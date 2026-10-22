@@ -78,6 +78,7 @@
 * **Flux:** architecture by Facebook that emphasizes building unidirectional data flows for frontends using ReactJS
 
 ## UI/UX Design, Copywriting, and Typography
+* **Miro:** AI innovation workspace where teams of any size can dream, design, and build their future together.
 * **Brandmark.io:** create AI-powered logo designs
 * **Diagrams.net:** create wireframes for websites, mobile apps, and software interfaces using built-in UI components
 * **[Wireframe.cc](https://github.com/thespcrewroy/SoftwareEngineeringTutorials/blob/main/UIUXDesign/WireframeCC.md):** cloud-based tool that allows users to create wireframes
