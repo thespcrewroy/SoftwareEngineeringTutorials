@@ -288,6 +288,7 @@
 * **AWS Lambda:** a serverless computing service by Amazon that runs code automatically in response to events
 * **Zapier:** workflow automation platform that connects applications and automates tasks between services without requiring code
 * **Postman:** an API development and testing platform used to design, test, document, and monitor APIs
+* **Playwright:** for web testing, scraping, and automated workflows across multiple browsers
 * **Puppeteer:** Node.js library that automates and controls web browsers for testing, scraping, and web interaction tasks
 * **Beautiful Soup:** Python library used for parsing and extracting data from HTML and XML web pages
 * **Selenium:** browser automation framework used for web application testing and automated interaction with web pages
@@ -397,8 +398,6 @@
     * **SonarQube:** code quality and security analysis platform that detects bugs, vulnerabilities, and maintainability issues
     * **MSTest:** Microsoft’s unit testing framework for creating, running, and managing automated tests in .NET applications
     * **JUnit:** test automation framework for the Java programming language.
-* **End-to-End (E2E) Testing:** tests complete application workflows to verify that components work together correctly
-    * **Playwright:** Microsoft's open-source browser automation framework for end-to-end testing across Chromium, Firefox, and WebKit
     * **Cypress:** an end-to-end testing framework for web applications with real-time debugging
 * **Continuous Integration and Continuous Deployment (CI/CD):** automates code integration, testing, and deployment
     * **GitHub Actions:** CI/CD automation platform within GitHub used to build, test, and deploy code through customizable workflows
