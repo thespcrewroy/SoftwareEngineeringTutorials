@@ -221,7 +221,16 @@
 ## UI/UX Design, Copywriting, and Typography
 - **Design Trend**: a popular visual style shaping current interface design
     - **Bento UI**: organizes content into grid-based cards of varying sizes, inspired by Japanese bento boxes
-    - **Glassmorphism 2.0**: combines frosted-glass transparency with better readability
+    - **Claymorphism**: soft, inflated 3D shapes with rounded corners and inner shadows that look like clay
+    - **Flat Design**: simple 2D shapes, solid colors, and no gradients or shadows that imitate depth
+    - **Glassmorphism**: frosted-glass panels with background blur, transparency, and thin light borders
+        - **Liquid Glass**: Apple's 2025 design language of translucent, light-refracting glass across its platforms
+    - **Hand-Drawn Design**: sketchy doodles, scribbled lines, and handwritten type that make an interface feel human and playful
+    - **Minimalism**: stripping an interface to essential content with generous whitespace and limited color
+    - **Neo-Brutalism**: thick black borders, hard shadows, bright flat colors, and intentionally raw layouts
+    - **Neumorphism**: soft extruded elements that blend into the background using paired light and dark shadows
+    - **Skeuomorphism**: interface elements that mimic the look and texture of real-world objects
+    - **Spatial Design**: floating, layered windows with depth and lighting for AR and VR interfaces like visionOS
 - **Iconography**: the design and use of icons to communicate actions and concepts visually
 - **Logo Design**: creating the mark that identifies a brand
 - **Mockup**: a static, high-fidelity visual of how an interface will look
