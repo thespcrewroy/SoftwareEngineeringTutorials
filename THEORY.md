@@ -229,7 +229,7 @@
     - **Minimalism**: stripping an interface to essential content with generous whitespace and limited color
     - **Neo-Brutalism**: thick black borders, hard shadows, bright flat colors, and intentionally raw layouts
     - **Neumorphism**: soft extruded elements that blend into the background using paired light and dark shadows
-    - **Rubber Hose Style**: 1920s–30s black-and-white cartoon look with bendy limbs, pie-cut eyes, and white gloves, as in Cuphead
+    - **Rubber Hose Style**: 1920s–30s black-and-white cartoon look with bendy limbs, pie-cut eyes, and white gloves (ex. Cuphead)
     - **Skeuomorphism**: interface elements that mimic the look and texture of real-world objects
     - **Spatial Design**: floating, layered windows with depth and lighting for AR and VR interfaces like visionOS
 - **Iconography**: the design and use of icons to communicate actions and concepts visually
