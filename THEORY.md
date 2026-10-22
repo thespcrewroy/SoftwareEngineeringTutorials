@@ -25,7 +25,7 @@
     - **CaaS (Containers as a Service)**: deployment, management, and orchestration of containerized apps using Docker or Kubernetes
     - **FaaS (Function as a Service)**: run event-driven functions without managing servers or infrastructure
     - **IaaS (Infrastructure as a Service)**: provides virtualized computing resources such as servers, storage, and networking
-    - **NaaS (Network as a Service)**: customers rent networking services from cloud providers instead of owning physical network infrastructure
+    - **NaaS (Network as a Service)**: customers rent networking services from cloud providers instead of owning physicals
     - **PaaS (Platform as a Service)**: offers a managed platform for developing, running, and deploying applications
     - **SaaS (Software as a Service)**: applications are accessed through the internet on a subscription basis
 - **Containerization**: creates isolated computing environments to eliminate dependency issues across different infrastructures
