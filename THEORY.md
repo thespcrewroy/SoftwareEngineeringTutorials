@@ -1,5 +1,5 @@
 ## Backend
-- **API (Application Programming Interface)**: a defined contract that lets software components request data and services from each other
+- **API (Application Programming Interface)**: a defined contract that lets software components request data and services
     - **API Gateway**: a managed entry point that routes, secures, and throttles requests to backend APIs
     - **GraphQL**: a query language and API runtime that lets clients request exactly the data they need from a server
     - **gRPC API**: a high-performance RPC framework for communication between distributed systems using Protocol Buffers
