@@ -100,7 +100,7 @@
 * [Example GitHub Profile](https://github.com/bee-san?tab=overview&from=2024-12-01&to=2024-12-18)
 * [Example GitHub Account](https://github.com/cs1302uga)
 * [Student Organization: UGAHacks](https://ugahacks.com/#team)
-* [Anthony Sistilli: Example Insta Bio](https://linktr.ee/anthonysistilli)
+* [Anthony Sistilli: Example Social Media Bios](https://linktr.ee/anthonysistilli)
 * [Pushpek Sidhu: Example Social Media Links](https://ash-portfolio.netlify.app/)
 * [Codedex](https://www.codedex.io/)
 * [67 Cipher](https://legendile7.github.io/67cipher/)
@@ -130,6 +130,7 @@
 * [EZApply](https://easyapply.com/)
 * [Arcade](https://arcade.lsg.io/)
 * [ScreenPlay](https://screenplay.lsg.io/)
+* [MOUSE: P.I. for Hire](https://www.mousethegame.com/)
 
 ## Forums
 * [OpenAI Developer Forum](https://community.openai.com/): developers discuss APIs, tools, best practices, and technical topics related to OpenAI technologies
