@@ -129,6 +129,7 @@
 * [Arcade](https://arcade.lsg.io/)
 * [ScreenPlay](https://screenplay.lsg.io/)
 * [MOUSE: P.I. for Hire](https://www.mousethegame.com/)
+* [Originale](https://originle.io/aya/?day=1)
 
 ## Forums
 * [OpenAI Developer Forum](https://community.openai.com/): developers discuss APIs, tools, best practices, and technical topics related to OpenAI technologies
