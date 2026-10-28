@@ -120,6 +120,7 @@
 * [Binill](https://www.thegr8binil.me/)
 * [Arthur Walendroff](https://wallenart.dev/)
 * [Sri Adithya ZyphenSVC](https://zyphensvc.com/)
+* [Jane Odum](https://janeodum.com/)
 * [AshwinKumar Pillai](https://ash-portfolio.netlify.app/)
 * [Amy's Personal Website](https://readymag.website/u381267271/4803125/)
 * [Zion L. Basque](https://www.zionbasque.com/)
