@@ -78,6 +78,7 @@
 * [1 October] [UGA Fall CS & Engineering Career and Internship Fair](https://career.uga.edu/calendar/career_fairs): brings in employers from around the country to recruit talent
 * [2 October] [SASE National Convention](https://collegiate2023.saseconnect.org/): a conference for Asian STEM professionals and students
 * [3 October] [Atlanta Developers Confernece](https://www.atldevcon.com/): the #1 tech conference listing
+* [4 October] [FinTech Careers Day @ GFA](https://usgsurveys.usg.edu/zs/1WC5g5): casual networking session designed to open doors
 * [4 October] [Google DevFest Atlanta](https://developers.google.com/community/devfest): world’s largest community-driven tech conference
 * [4 October] [GitHub Universe](https://githubuniverse.com/): GitHub’s conference for developers, open source, and software innovation
 * [3 November] [Microsoft Ignite](https://ignite.microsoft.com/en-US/home): a conference covering Microsoft technology, cloud, and AI
