@@ -68,6 +68,7 @@
 * [3 February - 1 April] [Google Summer of Code](https://developers.google.com/open-source/gsoc/timeline): bringing new contributors into open source SDE
 * [1 February] [UGAHacks](https://ugahacks.com/) | [MyByte](https://mybyte.ugahacks.com/login): UGA’s annual student hackathon and participant portal
 * [3 February] [Hacklytics](https://hacklytics.io/): Georgia Tech’s data science and AI hackathon
+* [2 March] [UGA GenAI Competition](https://genaicontest.lmharding.com/gac-year-4/): submit a GenAI project to improve the lived experience of UGA community members
 * [GlobalHackWeek](https://ghw.mlh.io/?_gl=1*1gtd0hi*_ga*MTg1ODcwMDM3Mi4xNzEwMTI5Mjg3*_ga_E5KT6TC4TK*MTcxMDEzMTEyNi4yLjEuMTcxMDEzMTIyNi4wLjAuMA..): MLH’s virtual event series
 
 ## Conferences & Events
