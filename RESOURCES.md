@@ -60,6 +60,7 @@
 * [4 September] [HackGT](https://hack.gt/): Georgia Tech’s flagship student-run hackathon
 * [4 September] [HacktoberFest](https://owasp.org/www-chapter-atlanta/): an annual event encouraging contributions to open-source projects
 * [1 October] [NASA International Space Apps Challenge](https://www.spaceappschallenge.org/): the largest annual global hackathon
+* [2 October] [HackAtlanta](https://hacklanta.dev/): 36 hours straight festival-energy hackathon by Georgia State University
 * [2 October] [Home Depot Hometown AI Innovation Challenge](https://tinyurl.com/2n8nm8tc): case competition of students from the Atlanta ("Hometown") area
 * [1 November] [AIATL](https://www.aiatl.io/): an Atlanta hackathon focused on artificial intelligence
 * [1 November] [Code For Good @ JPMorgan Chase](https://tinyurl.com/4c9fdc2r): build tech for nonprofits while being directly considered for JPMorgan internship
