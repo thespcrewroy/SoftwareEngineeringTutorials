@@ -117,7 +117,6 @@
 * [Parker Anderson](https://parkera.tech/)
 * [Binill](https://www.thegr8binil.me/)
 * [Arthur Walendroff](https://wallenart.dev/)
-* [Arjun Bector](https://arjunbector.live/)
 * [Sri Adithya ZyphenSVC](https://zyphensvc.com/)
 * [AshwinKumar Pillai](https://ash-portfolio.netlify.app/)
 * [Amy's Personal Website](https://readymag.website/u381267271/4803125/)
@@ -131,6 +130,7 @@
 * [ScreenPlay](https://screenplay.lsg.io/)
 * [MOUSE: P.I. for Hire](https://www.mousethegame.com/)
 * [Originale](https://originle.io/aya/?day=1)
+* [HackAtlanta](https://hacklanta.dev/)
 
 ## Forums
 * [OpenAI Developer Forum](https://community.openai.com/): developers discuss APIs, tools, best practices, and technical topics related to OpenAI technologies
