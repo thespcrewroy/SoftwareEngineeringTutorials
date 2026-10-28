@@ -69,6 +69,7 @@
 * [1 February] [UGAHacks](https://ugahacks.com/) | [MyByte](https://mybyte.ugahacks.com/login): UGA’s annual student hackathon and participant portal
 * [3 February] [Hacklytics](https://hacklytics.io/): Georgia Tech’s data science and AI hackathon
 * [2 March] [UGA GenAI Competition](https://genaicontest.lmharding.com/gac-year-4/): submit a GenAI project that improves the lived experience of UGA community members
+* [2 April] [ImmerseGT](https://www.immersegt.org/): one of the biggest XR/VR hackathons
 * [GlobalHackWeek](https://ghw.mlh.io/?_gl=1*1gtd0hi*_ga*MTg1ODcwMDM3Mi4xNzEwMTI5Mjg3*_ga_E5KT6TC4TK*MTcxMDEzMTEyNi4yLjEuMTcxMDEzMTIyNi4wLjAuMA..): MLH’s virtual event series
 
 ## Conferences & Events
@@ -83,7 +84,6 @@
 * [4 October] [GitHub Universe](https://githubuniverse.com/): GitHub’s conference for developers, open source, and software innovation
 * [3 November] [Microsoft Ignite](https://ignite.microsoft.com/en-US/home): a conference covering Microsoft technology, cloud, and AI
 * [4 February] [Industrial Mathematics Day](https://www.math.uga.edu/events/content/2025/industrial-mathematics-day-spring-2026): free event for math and CS members
-* [2 April] [ImmerseGT](https://www.immersegt.org/): one of the biggest XR/VR hackathons
 * [3 May] [Google I/O](https://io.google/2023/): Google’s annual developer conference for new technologies and products
 * [2 June] [Apple WWDC](https://developer.apple.com/wwdc23/): Apple’s annual conference for developers and software announcements
 * [DevPost](https://devpost.com/): a platform for discovering hackathons and submitting projects
