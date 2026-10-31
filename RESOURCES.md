@@ -101,36 +101,38 @@
 * [Example GitHub Buy Me a Coffee](https://github.com/tandpfun/skill-icons#readme)
 * [Example GitHub Profile](https://github.com/bee-san?tab=overview&from=2024-12-01&to=2024-12-18)
 * [Example GitHub Account](https://github.com/cs1302uga)
+* [Example Social Media Bios](https://linktr.ee/anthonysistilli)
+* [Example Social Media Links](https://ash-portfolio.netlify.app/)
+* [Student Organization: HackAtlanta](https://hacklanta.dev/)
 * [Student Organization: UGAHacks](https://ugahacks.com/#team)
-* [Anthony Sistilli: Example Social Media Bios](https://linktr.ee/anthonysistilli)
-* [Pushpek Sidhu: Example Social Media Links](https://ash-portfolio.netlify.app/)
-* [Codedex](https://www.codedex.io/)
-* [67 Cipher](https://legendile7.github.io/67cipher/)
-* [Noah Soloman](https://noahgsolomon.com/)
-* [Chaz Meritt](https://chazmerritt.com/writings.html)
-* [Tyler Mazurek](https://tylermazurek.com/)
+* [Company: Codedex](https://www.codedex.io/)
+* [Company; MOUSE: P.I. for Hire](https://www.mousethegame.com/)
+* [Company: PwnSec](https://pwnsec.ctf.ae/#event)
+* [Project: 67 Cipher](https://legendile7.github.io/67cipher/)
+* [Project: Arcade](https://arcade.lsg.io/)
+* [Project: Originale](https://originle.io/aya/?day=1)
+* [Project: ScreenPlay](https://screenplay.lsg.io/)
+* [Amy Huang](https://readymag.website/u381267271/4803125/)
 * [Andy Truong](https://www.andytruong.dev/)
-* [Arnav Aurora](https://arnava2004.github.io/#)
+* [Arnav Aurora](https://arnava2004.github.io/)
+* [Arthur Walendroff](https://wallenart.dev/)
+* [AshwinKumar Pillai](https://ash-portfolio.netlify.app/)
+* [Binill](https://www.thegr8binil.me/)
 * [Bruno Simon](https://bruno-simon.com/)
-* [Ed Hinrichsen](https://www.edwardh.io/)
-* [Prasoon](https://prasoon-mahawar.dev/)
-* [PwnSec](https://pwnsec.ctf.ae/#event)
+* [Chaz Merritt](https://chazmerritt.com/writings.html)
 * [Daniel Moya](https://moyadaniel.com/)
 * [Divesh Gupta](https://diveshgupta.com/resume/)
-* [Parker Anderson](https://parkera.tech/)
-* [Binill](https://www.thegr8binil.me/)
-* [Arthur Walendroff](https://wallenart.dev/)
-* [Sri Adithya ZyphenSVC](https://zyphensvc.com/)
+* [Ed Hinrichsen](https://www.edwardh.io/)
 * [Jane Odum](https://janeodum.com/)
-* [AshwinKumar Pillai](https://ash-portfolio.netlify.app/)
-* [Amy's Personal Website](https://readymag.website/u381267271/4803125/)
+* [Noah Solomon](https://noahgsolomon.com/)
+* [Parker Anderson](https://parkera.tech/)
+* [Prasoon](https://prasoon-mahawar.dev/)
+* [Sri Adithya ZyphenSVC](https://zyphensvc.com/)
+* [Tyler Mazurek](https://tylermazurek.com/)
 * [Zion L. Basque](https://www.zionbasque.com/)
 * [Zion L. Basque Blog](https://mahaloz.re/)
-* [Arcade](https://arcade.lsg.io/)
-* [ScreenPlay](https://screenplay.lsg.io/)
-* [MOUSE: P.I. for Hire](https://www.mousethegame.com/)
-* [Originale](https://originle.io/aya/?day=1)
-* [HackAtlanta](https://hacklanta.dev/)
+
+
 
 ## Forums
 * [OpenAI Developer Forum](https://community.openai.com/): developers discuss APIs, tools, best practices, and technical topics related to OpenAI technologies
@@ -154,13 +156,13 @@
 - [2 March] [NASA JPL Summer Internship](https://www.jpl.nasa.gov/edu/internships/apply/jpl-summer-internship-program/): internships supporting NASA science projects
 
 ## Newsletters
-* [theprimeagen](https://www.reddit.com/r/theprimeagen/): focused on programming, software engineering, developer culture
 * [DEV Community](https://dev.to/): an online platform where developers share articles, tutorials, discussions, and insights
-* [Web Dev](https://web.dev/): building and maintaining websites and web applications using frontend, backend, and database technologies
-* [YCombinator Hacker News](https://news.ycombinator.com/news): social news focused on technology, startups, programming, and entrepreneurship
+* [Docusaurus Blog](https://docusaurus.io/blog): official blog for Docusaurus that shares updates, tutorials, and insights about the documentation framework
 * [Stories About Software](https://daedtech.com/): software engineering blog by Erik Dietrich that shares insights, opinions, and stories about programming
-* [Docusaurus Blog](https://docusaurus.io/blog): official blog for Docusaurus that shares updates, tutorials, and insights about the documentation
-* [The GitHub blog](https://github.blog/): shares news, tutorials, engineering insights, product updates, and software development trends
+* [The GitHub Blog](https://github.blog/): shares news, tutorials, engineering insights, product updates, and software development trends
+* [theprimeagen](https://www.reddit.com/r/theprimeagen/): focused on programming, software engineering, developer culture
+* [Web Dev](https://web.dev/): building and maintaining websites and web applications using frontend, backend, and database technologies
+* [Y Combinator Hacker News](https://news.ycombinator.com/news): social news focused on technology, startups, programming, and entrepreneurship
 
 ## Podcasts
 * [The ReadME Podcast](https://github.com/readme/podcast): developer-focused podcast by GitHub about software, open source, and the people
@@ -168,12 +170,13 @@
 ## Resources
 
 ### Mobile App Development
-* [Hackingwithswift.com](http://hackingwithswift.com): free Swift and iOS tutorials with practical projects
 * [Appcoda](https://www.appcoda.com/ios-8-action-extensions-tutorial/): iOS and Swift tutorials and books for app developers
-* [Kelidos Blog](https://www.kaleidosblog.com/how-to-upload-images-using-swift-2-send-multipart-post-request#google_vignette): tutorial for image upload
-* [SwiftUITutorials from Apple](https://developer.apple.com/tutorials/swiftui): Apple's official SwiftUI tutorials for beginners
-* [XCode Help: Prepare for App Distribution](https://help.apple.com/xcode/mac/current/#/dev91fe7130a): submitting apps to the App Store
+* [Hackingwithswift.com](http://hackingwithswift.com): free Swift and iOS tutorials with practical projects
+* [Kaleidos Blog](https://www.kaleidosblog.com/how-to-upload-images-using-swift-2-send-multipart-post-request): tutorial for image upload
+* [NMIX App Development](https://nmi.cool/appdev/): New Media Institute's App Development class
+* [SwiftUI Tutorials from Apple](https://developer.apple.com/tutorials/swiftui): Apple's official SwiftUI tutorials for beginners
 * [Xcode Help: Launching an App](https://help.apple.com/xcode/mac/current/#/dev60b6fbbc7): guide for launching an app on the App Store
+* [Xcode Help: Prepare for App Distribution](https://help.apple.com/xcode/mac/current/#/dev91fe7130a): submitting apps to the App Store
 
 ### Research
 * [CSRankings](https://csrankings.org/#/index?sec&us): the only way to understand university research rankings in computer science
@@ -205,6 +208,8 @@
 * [LeetCode Learning](https://leetcode.com/): structured courses and study plans on LeetCode
 * [Markdown Guide](https://www.markdownguide.org/getting-started/): free reference guide to Markdown syntax and usage
 * [MIT OpenCourseware](https://ocw.mit.edu/search/?t=Computer%20Science): free MIT course materials for a wide range of subjects
+* [NMIX Advanced Website Development](https://nmi.cool/advweb/): New Media Institute's Advanced Web Development Class
+* [NMIX Website Development](https://nmi.cool/webdev/): New Media Institute's Web Development Class
 * [Open-Source CS Degree](https://ossu.firebaseapp.com/#/curriculum): open-source CS learning resource repository
 * [Refactoring Guru](https://refactoring.guru/): discover and apply refactoring patterns
 * [Sphere Online Judge](https://www.spoj.com/): online judge system with 20,000 competitive prog problems
@@ -217,18 +222,17 @@
 * [Zero To Mastery](https://zerotomastery.io/courses/): comprehensive coding courses from beginner to advanced
 
 ## YouTubers
-* [Traversy Media](https://www.youtube.com/traversymedia): web dev in ReactJS and NodeJS
-* [Academind](https://www.youtube.com/@academind): web dev and mobile pp dev
-* [Codecourse](https://www.youtube.com/@codecourse): web dev using PHP and Laravel
-* [The Coding Train](https://www.youtube.com/@TheCodingTrain): creative coding using p5.js
-* [Programming with Mosh](https://www.youtube.com/@programmingwithmosh): coding from python to C#
-* [Derek Banas](https://www.youtube.com/@derekbanas): python, java, and Swift development
-* [Coding with Chris](https://www.youtube.com/@CodeWithChris): SwiftUI dev
-* [Jared Davidson](https://www.youtube.com/@Archetapp/videos): SwiftuI dev
+* [Academind](https://www.youtube.com/@academind): web dev and mobile app dev
 * [CodeAesthetic](https://www.youtube.com/@CodeAesthetic): code styling best practices
-* [Matt Pocock](https://www.youtube.com/@mattpocockuk): typescript developer
+* [Codecourse](https://www.youtube.com/@codecourse): web dev using PHP and Laravel
+* [Coding with Chris](https://www.youtube.com/@CodeWithChris): SwiftUI dev
+* [Derek Banas](https://www.youtube.com/@derekbanas): Python, Java, and Swift development
+* [Jared Davidson](https://www.youtube.com/@Archetapp/videos): SwiftUI dev
+* [Matt Pocock](https://www.youtube.com/@mattpocockuk): TypeScript developer
+* [Programming with Mosh](https://www.youtube.com/@programmingwithmosh): coding from Python to C#
+* [The Coding Train](https://www.youtube.com/@TheCodingTrain): creative coding using p5.js
+* [Traversy Media](https://www.youtube.com/traversymedia): web dev in React and Node.js
 * [Web Dev Simplified](https://www.youtube.com/@WebDevSimplified/videos): pure web dev content
-
 
 
 
