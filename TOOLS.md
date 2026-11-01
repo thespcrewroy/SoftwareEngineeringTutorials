@@ -100,6 +100,7 @@
     - **[SquareSpace](https://support.squarespace.com/)**: web builder for beautiful design portfolios and websites
     - **[Webflow](https://university.webflow.com/)**: web builder for custom professional sites
     - **[Wix](https://www.wix.com/)**: web builder for beginners
+        - **[Wix Domains](https://www.wix.com/domains)**: lets you purchase, manage, and connect domains directly to your website 
         - **[Wix Harmony](https://www.wix.com/harmony)**: AI-powered hybrid website builder that generates a complete website layout
 - **[Rosslite](https://rossilite.com/)**: builds platforms, websites, and systems for businesses to operate
 
