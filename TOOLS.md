@@ -374,6 +374,8 @@
     - **[iFastNet](https://ifastnet.com/)**: a hosting provider offering shared, VPS, and dedicated servers for web applications
 
 ## DevOps
+- **Artifact Repository**
+    - **[JFrog Artifactory](https://jfrog.com/artifactory/)**: artifact repository manager for storing, versioning, and distributing software packages, binaries, and container images
 - **CI/CD (Continuous Integration and Continuous Deployment)**
     - **[Azure DevOps Pipelines](https://learn.microsoft.com/en-us/azure/devops/pipelines/)**: Azure DevOps service for CI/CD pipelines and testing
     - **[BitBucket Pipelines](https://support.atlassian.com/bitbucket-cloud/docs/get-started-with-bitbucket-pipelines/)**: CI/CD built into Bitbucket repositories
