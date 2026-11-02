@@ -35,6 +35,8 @@
     - **[GitHub Projects](https://docs.github.com/en/issues/planning-and-tracking-with-projects)**: GitHub boards and tables for organizing tasks and tracking progress
     - **[Trello](https://trello.com/)**: visual project management with boards, lists, and cards    
 - **[Azure DevOps](https://learn.microsoft.com/en-us/azure/devops/)**: Microsoft's suite for version control, project tracking, and collaboration
+- **[BMC Remedy](https://www.bmc.com/)**: enterprise IT service management platform for incident, problem, change, and service request management
+- **[Confluence](https://www.atlassian.com/software/confluence)**: Atlassian's collaborative workspace for documentation, knowledge management, and team wikis
 - **Issue Tracking**
     - **[GitHub Issues](https://docs.github.com/en/issues)**: GitHub's built-in tracker for bugs, tasks, feature discussions, and project coordination
     - **[JIRA](https://www.atlassian.com/software/jira)**: Atlassian's project management and issue tracker widely used for agile development
