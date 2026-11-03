@@ -41,6 +41,8 @@
     - **[GitHub Issues](https://docs.github.com/en/issues)**: GitHub's built-in tracker for bugs, tasks, feature discussions, and project coordination
     - **[JIRA](https://www.atlassian.com/software/jira)**: Atlassian's project management and issue tracker widely used for agile development
     - **[Linear](https://linear.app/docs)**: a fast project management and issue-tracking tool for software teams
+- **ITSM (IT Service Management)**
+    - **[Rezolve AI](https://www.rezolve.ai/)**: AI-powered IT service management platform for automating incident resolution, change management, risk assessment, and service desk workflows
 - **[Notion](https://www.notion.com/help)**: all-in-one workspace for notes, project management, documentation, and collaboration
 - **Office Suite**
     - **[Google Workspace](https://workspace.google.com/)**: Google's cloud productivity suite with Gmail, Docs, Drive, Meet, and Calendar
@@ -403,7 +405,9 @@
         - **[Lens](https://lenshq.io/)**: a desktop Kubernetes IDE for viewing and managing clusters
     - **[Redhat Openshift](https://docs.redhat.com/en/documentation/openshift_container_platform/)**: Kubernetes-based platform for building, deploying, and scaling cloud-native apps
 - **[.NET Aspire](https://learn.microsoft.com/en-us/dotnet/aspire/)**: cloud-native framework for building, orchestrating, and managing distributed .NET apps
-- **Testing**
+- **Internal Developer Portal (IDP)**:
+    - **[Port](https://www.port.io/)**: AI-powered internal developer portal for managing software catalogs, service dependencies, deployment risks, and engineering workflows 
+- **Software Testing**
     - **Beta Testing**
         - **[TestFlight](https://developer.apple.com/testflight/)**: Apple's platform for distributing and beta testing iOS, iPadOS, watchOS, and tvOS apps
     - **E2E Testing (End-to-End Testing)**
@@ -419,10 +423,9 @@
     - **[Caddy](https://caddyserver.com/docs/)**: an open-source web server and reverse proxy in Go that automates HTTPS and load balancing
     - **[httpd (Apache HTTP Server)](https://httpd.apache.org/docs/)**: a daemon that serves web pages over HTTP or HTTPS
     - **[NGINX](https://nginx.org/en/docs/)**: a web server used for routing, reverse proxying, and load balancing
-- **Workflow Automation**
-    - **[Power Automate](https://learn.microsoft.com/en-us/power-automate/)**: Microsoft's platform for automating repetitive tasks and triggering actions across apps
 - **Workflow Orchestration**
     - **[Apache Airflow](https://airflow.apache.org/docs/)**: a platform for authoring, scheduling, and monitoring workflows as code
+    - **[Power Automate](https://learn.microsoft.com/en-us/power-automate/)**: Microsoft's platform for automating repetitive tasks and triggering actions across apps 
 
 ## Documentation
 - **[Scribe](https://scribehow.com/)**: AI-powered generator for step-by-step documentation and guides
