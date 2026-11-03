@@ -92,18 +92,22 @@
 - **Workflow Automation**: connecting apps so actions in one automatically trigger tasks in another
 
 ## DevOps
+- **Artifact Repository**: centralized storage for managing, versioning, and distributing software packages, binaries, and build artifacts
 - **CI/CD (Continuous Integration and Continuous Deployment)**: automates code integration, testing, and deployment
-    - **GitOps**: managing deployments by treating a Git repository as the source of truth for the desired state
+  - **GitOps**: managing deployments by treating a Git repository as the source of truth for the desired state
 - **Configuration Management**: keeping servers and systems in a consistent, defined state through automation
+- **Container Orchestration**: automating the deployment, scaling, networking, and management of containerized applications
+- **Internal Developer Portal (IDP)**: centralized platform for discovering software services, managing development resources, and enabling developer self-service
 - **Software Testing**: evaluating software to find defects and confirm it meets requirements
-    - **Beta Testing**: releasing a pre-release build to real users to collect feedback before launch
-    - **E2E Testing (End-to-End Testing)**: testing complete user flows through the whole application as a real user would
-    - **Static Code Analysis**: examining source code without running it to find bugs, vulnerabilities, and code smells
-    - **TDD (Test-Driven Development)**: tests are written before code to guide implementation and ensure functionality
-    - **Unit Testing**: verifies that individual components or functions of an application work correctly in isolation
-        - **AAA (Arrange, Act, Assert)**: unit testing pattern that structures tests into setup, execution, and verification
+  - **Beta Testing**: releasing a pre-release build to real users to collect feedback before launch
+  - **E2E Testing (End-to-End Testing)**: testing complete user flows through the whole application as a real user would
+  - **Static Code Analysis**: examining source code without running it to find bugs, vulnerabilities, and code smells
+  - **TDD (Test-Driven Development)**: tests are written before code to guide implementation and ensure functionality
+  - **Unit Testing**: verifies that individual components or functions of an application work correctly in isolation
+    - **AAA (Arrange, Act, Assert)**: unit testing pattern that structures tests into setup, execution, and verification
 - **Web Server**: software that accepts HTTP requests and serves web content or proxies requests to applications
 - **Workflow Orchestration**: scheduling and coordinating multi-step jobs and data pipelines across the SDLC
+
 
 ## Documentation
 - **API Specification**: a machine-readable description of an API's endpoints, messages, and data models
