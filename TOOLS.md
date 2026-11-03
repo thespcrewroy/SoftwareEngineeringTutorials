@@ -42,7 +42,7 @@
     - **[JIRA](https://www.atlassian.com/software/jira)**: Atlassian's project management and issue tracker widely used for agile development
     - **[Linear](https://linear.app/docs)**: a fast project management and issue-tracking tool for software teams
 - **ITSM (IT Service Management)**
-    - **[Rezolve AI](https://www.rezolve.ai/)**: AI-powered IT service management platform for automating incident resolution, change management, risk assessment, and service desk workflows
+    - **[Rezolve AI](https://www.rezolve.ai/)**: AI-powered IT service management platform for automating incident resolution, change management, and risk
 - **[Notion](https://www.notion.com/help)**: all-in-one workspace for notes, project management, documentation, and collaboration
 - **Office Suite**
     - **[Google Workspace](https://workspace.google.com/)**: Google's cloud productivity suite with Gmail, Docs, Drive, Meet, and Calendar
