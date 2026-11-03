@@ -406,7 +406,7 @@
     - **[Redhat Openshift](https://docs.redhat.com/en/documentation/openshift_container_platform/)**: Kubernetes-based platform for building, deploying, and scaling cloud-native apps
 - **[.NET Aspire](https://learn.microsoft.com/en-us/dotnet/aspire/)**: cloud-native framework for building, orchestrating, and managing distributed .NET apps
 - **Internal Developer Portal (IDP)**:
-    - **[Port](https://www.port.io/)**: AI-powered internal developer portal for managing software catalogs, service dependencies, deployment risks, and engineering workflows 
+    - **[Port](https://www.port.io/)**: managing software catalogs, service dependencies, deployment risks, and engineering workflows 
 - **Software Testing**
     - **Beta Testing**
         - **[TestFlight](https://developer.apple.com/testflight/)**: Apple's platform for distributing and beta testing iOS, iPadOS, watchOS, and tvOS apps
