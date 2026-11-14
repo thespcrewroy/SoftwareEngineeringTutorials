@@ -27,7 +27,6 @@
 * Virtual Reality (CSCI 4830)
 * Web Composing and Scripting (CSCI 5310)
 * C++ For Engineers (EGR 230)
-* Graph Theory (MATH 4690)
 * Web Development with HTML/CSS/Bootstrap/JS (NMIX 4010)
 * New Media Design (NMIX 4011)
 * User Experience Strategy (NMIX 4012)
