@@ -122,6 +122,7 @@
 * [Bruno Simon](https://bruno-simon.com/)
 * [Chaz Merritt](https://chazmerritt.com/writings.html)
 * [Daniel Moya](https://moyadaniel.com/)
+* [David Sanchez](https://dsanch.com/)
 * [Divesh Gupta](https://diveshgupta.com/resume/)
 * [Ed Hinrichsen](https://www.edwardh.io/)
 * [Jane Odum](https://janeodum.com/)
