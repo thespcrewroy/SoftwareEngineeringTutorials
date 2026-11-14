@@ -6,7 +6,7 @@
 * GCP Certification
 
 ## College Courses
-* [Intro to Computer Science and Object Oriented Programming (CSCI 1301-1301L)](https://tinyurl.com/7urj9s8w)
+* (⭐️) [Intro to Computer Science and Object Oriented Programming (CSCI 1301-1301L)](https://tinyurl.com/7urj9s8w)
 * [Software Development using Object Oriented Programming (CSCI 1302)](https://tinyurl.com/yrmyh3k5) | [Supplemental](https://tinyurl.com/3kwwe92w)
 * Systems Programming (CSCI 1730-1730L)
 * [Discrete Math for Computer Science (MATH/CSCI 2610)](https://tinyurl.com/d6hsk99r) | [Supplemental](https://github.com/thespcrewroy/CSCI2670-Automata)
