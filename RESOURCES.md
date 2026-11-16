@@ -113,6 +113,7 @@
 * [Project: ScreenPlay](https://screenplay.lsg.io/)
 * [Amy Huang](https://readymag.website/u381267271/4803125/)
 * [Andy Truong](https://www.andytruong.dev/)
+* [Anish Gupta](https://theflamebeast.github.io/)
 * [Arnav Aurora](https://arnava2004.github.io/)
 * [Arthur Walendroff](https://wallenart.dev/)
 * [AshwinKumar Pillai](https://ash-portfolio.netlify.app/)
