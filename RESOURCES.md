@@ -9,7 +9,6 @@
 * Management Information Systems: Data Analytics Emphasis
 
 ## College Minors
-* Linguistics
 * Scientific Diving
 
 ## College Certificates
