@@ -1,6 +1,5 @@
 ## Certifications
 * AWS Cloud Practitioner
-* AWS AI Practitioner
 * AWS Cloud Solutions Architect
 * Microsoft Office Speacialist: Expert
 * GCP Certification
