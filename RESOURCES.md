@@ -5,11 +5,23 @@
 * Microsoft Office Speacialist
 * GCP Certification
 
+## College Majors
+* Computer Science
+* Management Information Systems: Cloud Computing Emphasis
+* Management Information Systems: Data Analytics Emphasis
+
+## College Minors
+* Linguistics
+* Scientific Diving
+
+## College Certificates
+* Artificial Intelligence
+
 ## College Courses
 * ⭐️ [Intro to Computer Science and Object Oriented Programming (CSCI 1301-1301L)](https://tinyurl.com/7urj9s8w)
 * [Software Development using Object Oriented Programming (CSCI 1302)](https://tinyurl.com/yrmyh3k5) | [Supplemental](https://tinyurl.com/3kwwe92w)
 * Systems Programming (CSCI 1730-1730L)
-* [Discrete Math for Computer Science (MATH/CSCI 2610)](https://tinyurl.com/d6hsk99r) | [Supplemental](https://github.com/thespcrewroy/CSCI2670-Automata)
+* [Discrete Math for Computer Science (CSCI/MATH 2610)](https://tinyurl.com/d6hsk99r) | [Supplemental](https://github.com/thespcrewroy/CSCI2670-Automata)
 * [Introduction to Theory of Computing & Automata (CSCI 2670)](https://tinyurl.com/2s4kub4t) | [Supplemental](https://github.com/thespcrewroy/CSCI2670-Automata)
 * [Data Structures (CSCI 2720)](https://tinyurl.com/yc2rb28z) | [Supplemental](https://github.com/thespcrewroy/CSCI4470-Algorithms)
 * [Computing, Ethics, and Society (CSCI 3030)](https://tinyurl.com/bdhh89c2)
@@ -21,10 +33,13 @@
 * [Database Management (CSCI 4370)](https://tinyurl.com/3ybsb6p4) | [Supplemental](https://github.com/thespcrewroy/CSCI4370-DatabaseManagement)
 * [Algorithms (CSCI 4470)](https://tinyurl.com/3z7h4uny) | [Supplemental](https://github.com/thespcrewroy/CSCI4470-Algorithms)
 * Functional Programming (CSCI 4520)
-* Combinatorics (CSCI 4670)
+* Combinatorics (CSCI/MATH 4670)
+* Graph Theory (CSCI/MATH 4690)
 * Cloud Computing (CSCI 4795)
 * Human-Computer Interaction (CSCI 4800)
 * Virtual Reality (CSCI 4830)
+* Ramaswamy & Menik Special Topics in Computing: Computing Capstone (CSCI 4900)
+* Zhenlin An Special Topics in Computing: Computing Mobile Computing & IoT (CSCI 4900)
 * Web Composing and Scripting (CSCI 5310)
 * C++ For Engineers (EGR 230)
 * Web Development with HTML/CSS/Bootstrap/JS (NMIX 4010)
@@ -32,6 +47,9 @@
 * User Experience Strategy (NMIX 4012)
 * Advanced Web Development with HTML/CSS/JS (NMIX 4020)
 * Native App Development in Swift & React-Native (NMIX 4030) | [Supplemental](https://github.com/thespcrewroy/NMIX4210-NativeAppDev)
+* ⭐️ [Scientific Diving I (MARS 4740L)](https://tinyurl.com/2us29nn4) | [Supplemental](https://github.com/thespcrewroy/MARS4740-ScientificDiving)
+* Scientific Diving II (MARS 4750)
+* CoolDawgs: Wearable Heat Stress Tracker (VIPR 2601)
 
 ## Communities
 * Discord
