@@ -41,13 +41,13 @@
 * Zhenlin An Special Topics in Computing: Computing Mobile Computing & IoT (CSCI 4900)
 * Web Composing and Scripting (CSCI 5310)
 * C++ For Engineers (EGR 230)
+* ⭐️ [Scientific Diving I (MARS 4740L)](https://tinyurl.com/2us29nn4) | [Supplemental](https://github.com/thespcrewroy/MARS4740-ScientificDiving)
+* Scientific Diving II (MARS 4750)
 * Web Development with HTML/CSS/Bootstrap/JS (NMIX 4010)
 * New Media Design (NMIX 4011)
 * User Experience Strategy (NMIX 4012)
 * Advanced Web Development with HTML/CSS/JS (NMIX 4020)
 * Native App Development in Swift & React-Native (NMIX 4030) | [Supplemental](https://github.com/thespcrewroy/NMIX4210-NativeAppDev)
-* ⭐️ [Scientific Diving I (MARS 4740L)](https://tinyurl.com/2us29nn4) | [Supplemental](https://github.com/thespcrewroy/MARS4740-ScientificDiving)
-* Scientific Diving II (MARS 4750)
 * CoolDawgs: Wearable Heat Stress Tracker (VIPR 2601)
 
 ## Communities
