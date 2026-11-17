@@ -231,7 +231,7 @@
 * [TeachYourselfCS](https://teachyourselfcs.com/#distributed-systems): for self-taught engineer or bootcamp grad pacers
 * [The Odin Project](https://www.theodinproject.com/): free full-stack web development curriculum
 * [ThreeJSMastery](https://threejs-journey.com/?c=p3#bruno-simon): tutorials for building 3D graphics and animations with Three.js
-- [Universal Principles of UX](https://book.antonandirene.com/): visual guide to fundamental user experience design principles
+* [Universal Principles of UX](https://book.antonandirene.com/): visual guide to fundamental user experience design principles
 * [VisualGo](https://visualgo.net/en): animated visualization of data structures and algorithms
 * [W3 Schools](https://www.w3schools.com/): beginner-friendly web development tutorials for HTML, CSS, and JS
 * [Zero To Mastery](https://zerotomastery.io/courses/): comprehensive coding courses from beginner to advanced
