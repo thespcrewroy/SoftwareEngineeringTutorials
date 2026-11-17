@@ -36,6 +36,7 @@
 * Graph Theory (CSCI/MATH 4690)
 * Cloud Computing (CSCI 4795)
 * Human-Computer Interaction (CSCI 4800)
+* Computer Graphics (CSCI 4810)
 * Virtual Reality (CSCI 4830)
 * Ramaswamy & Menik Special Topics in Computing: Computing Capstone (CSCI 4900)
 * Zhenlin An Special Topics in Computing: Computing Mobile Computing & IoT (CSCI 4900)
