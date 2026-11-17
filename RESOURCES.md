@@ -76,14 +76,10 @@
 * [4 September] [HacktoberFest](https://owasp.org/www-chapter-atlanta/): an annual event encouraging contributions to open-source projects
 * [1 October] [NASA International Space Apps Challenge](https://www.spaceappschallenge.org/): the largest annual global hackathon
 * [2 October] [HackAtlanta](https://hacklanta.dev/): 36 hours straight festival-energy hackathon by Georgia State University
-* [2 October] [Home Depot Hometown AI Innovation Challenge](https://tinyurl.com/2n8nm8tc): case competition of students from the Atlanta ("Hometown") area
-* [1 November] [AIATL](https://www.aiatl.io/): an Atlanta hackathon focused on artificial intelligence
 * [1 November] [Code For Good @ JPMorgan Chase](https://tinyurl.com/4c9fdc2r): build tech for nonprofits while being directly considered for JPMorgan internship
 * [1 January - 1 May] [Congressional App Challenge](https://www.congressionalappchallenge.us/): design an application for government use
 * [3 February - 1 April] [Google Summer of Code](https://developers.google.com/open-source/gsoc/timeline): bringing new contributors into open source SDE
 * [1 February] [UGAHacks](https://ugahacks.com/) | [MyByte](https://mybyte.ugahacks.com/login): UGA’s annual student hackathon and participant portal
-* [3 February] [Hacklytics](https://hacklytics.io/): Georgia Tech’s data science and AI hackathon
-* [2 March] [UGA GenAI Competition](https://genaicontest.lmharding.com/gac-year-4/): submit a GenAI project that improves the lived experience of UGA community members
 * [2 April] [ImmerseGT](https://www.immersegt.org/): one of the biggest XR/VR hackathons
 * [GlobalHackWeek](https://ghw.mlh.io/?_gl=1*1gtd0hi*_ga*MTg1ODcwMDM3Mi4xNzEwMTI5Mjg3*_ga_E5KT6TC4TK*MTcxMDEzMTEyNi4yLjEuMTcxMDEzMTIyNi4wLjAuMA..): MLH’s virtual event series
 
