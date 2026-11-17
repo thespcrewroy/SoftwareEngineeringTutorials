@@ -2,7 +2,7 @@
 * AWS Cloud Practitioner
 * AWS AI Practitioner
 * AWS Cloud Solutions Architect
-* Microsoft Office Speacialist
+* Microsoft Office Speacialist: Expert
 * GCP Certification
 
 ## College Majors
