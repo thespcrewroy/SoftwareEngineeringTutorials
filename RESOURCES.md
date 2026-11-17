@@ -29,7 +29,6 @@
 * Software Engineering (CSCI 4050)
 * Mobile Software Development in Kotlin (CSCI 4060)
 * Game Programming (CSCI 4070/4080)
-* Introduction to Computational Investing (CSCI 4170)
 * Simulation and Modeling (CSCI 4210)
 * Web Programming (CSCI 4300)
 * [Database Management (CSCI 4370)](https://tinyurl.com/3ybsb6p4) | [Supplemental](https://github.com/thespcrewroy/CSCI4370-DatabaseManagement)
