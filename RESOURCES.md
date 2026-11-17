@@ -1,7 +1,6 @@
 ## Certifications
 * AWS Cloud Practitioner
 * AWS Cloud Solutions Architect
-* Microsoft Office Speacialist: Expert
 * GCP Certification
 
 ## College Majors
