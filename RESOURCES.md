@@ -7,9 +7,11 @@
 * Computer Science
 * Management Information Systems: Cloud Computing Emphasis
 * Management Information Systems: Data Analytics Emphasis
+* Math
 
 ## College Minors
 * Scientific Diving
+* Math
 
 ## College Certificates
 * Artificial Intelligence
