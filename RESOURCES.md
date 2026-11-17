@@ -31,6 +31,7 @@
 * Game Programming (CSCI 4070/4080)
 * Simulation and Modeling (CSCI 4210)
 * Web Programming (CSCI 4300)
+* Global Information Systems (CSCI 4350)
 * [Database Management (CSCI 4370)](https://tinyurl.com/3ybsb6p4) | [Supplemental](https://github.com/thespcrewroy/CSCI4370-DatabaseManagement)
 * [Algorithms (CSCI 4470)](https://tinyurl.com/3z7h4uny) | [Supplemental](https://github.com/thespcrewroy/CSCI4470-Algorithms)
 * Functional Programming (CSCI 4520)
