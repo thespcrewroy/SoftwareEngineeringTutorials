@@ -16,6 +16,7 @@
 ## College Certificates
 * Artificial Intelligence
 * Computer Science
+* Geographic Information Science (GIS)
 
 ## College Courses
 * ⭐️ [Intro to Computer Science and Object Oriented Programming (CSCI 1301-1301L)](https://tinyurl.com/7urj9s8w)
