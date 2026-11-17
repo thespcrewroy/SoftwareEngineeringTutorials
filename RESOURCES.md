@@ -196,11 +196,14 @@
 * [Amazon Future Engineers](https://www.amazonfutureengineer.com/): free childhood-to-career program offering K–12 CS education
 * [Backend Developer Roadmap](https://roadmap.sh/backend): step-by-step guide to becoming a backend developer
 * [Boot.Dev](https://www.boot.dev/): backend development courses with a gamified learning experience
+* [C++ Software Design: Design Principles and Patterns for High-Quality Software](https://www.amazon.com/dp/1098113160): practical guide to modern C++ software architecture
+* [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.ca/dp/0132350882): Robert C. Martin's guide to writing readable, maintainable, and professional
 * [Codecademy](https://www.codecademy.com/): interactive coding lessons for beginners across many languages
 * [Codedex.io](https://www.codedex.io/): gamified coding platform for computer science learning
 * [Code Ninjas](https://www.codeninjas.com/): coding curriculum and challenges for young learners
 * [Coding Atlas](https://www.coderatlas.com/): visual map of developer paths and skill trees
 * [CodingBat](https://codingbat.com/java): code practice exercises for Java and Python
+* [Cracking the Coding Interview](https://www.amazon.com/dp/0984782850): comprehensive guide to technical interview preparation
 * [CSVisTool](https://csvistool.com/): interactive visualizations for CS data structures and algorithms
 * [Edx CS50](https://www.edx.org/search?q=CS50&tab=course&page=1): Harvard's free computer science courses
 * [Fireship.io](https://fireship.io/): fast-paced video tutorials on modern web development topics
@@ -220,6 +223,7 @@
 * [NMIX Advanced Website Development](https://nmi.cool/advweb/): New Media Institute's Advanced Web Development Class
 * [NMIX Website Development](https://nmi.cool/webdev/): New Media Institute's Web Development Class
 * [Open-Source CS Degree](https://ossu.firebaseapp.com/#/curriculum): open-source CS learning resource repository
+* [Pro Git Book](https://git-scm.com/book/en/v2): free online book covering Git fundamentals, branching, and advanced version control
 * [Refactoring Guru](https://refactoring.guru/): discover and apply refactoring patterns
 * [Sphere Online Judge](https://www.spoj.com/): online judge system with 20,000 competitive prog problems
 * [StackUp](https://app.stackup.dev/): earn rewards by completing coding quests and campaigns
