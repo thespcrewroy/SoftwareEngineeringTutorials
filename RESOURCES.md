@@ -146,11 +146,6 @@
 * [Zion L. Basque](https://www.zionbasque.com/)
 * [Zion L. Basque Blog](https://mahaloz.re/)
 
-
-
-## Forums
-* [OpenAI Developer Forum](https://community.openai.com/): developers discuss APIs, tools, best practices, and technical topics related to OpenAI technologies
-
 ## Internships
 - [1 July - 1 August] [GitHub Campus Experts](https://education.github.com/campus_experts/): empowers students to be leaders of technical communities on college campuses
 - [2 August – 2 November] [UberSTAR](https://jobs.uber.com/en/teams/emerging-talent/): early-career software-engineering internship
