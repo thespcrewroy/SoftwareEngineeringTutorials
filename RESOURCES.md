@@ -45,6 +45,7 @@
 * Zhenlin An Special Topics in Computing: Computing Mobile Computing & IoT (CSCI 4900)
 * Web Composing and Scripting (CSCI 5310)
 * C++ For Engineers (EGR 230)
+* Geographic Information Systems (GEOG 4370E)
 * ⭐️ [Scientific Diving I (MARS 4740L)](https://tinyurl.com/2us29nn4) | [Supplemental](https://github.com/thespcrewroy/MARS4740-ScientificDiving)
 * Scientific Diving II (MARS 4750)
 * Web Development with HTML/CSS/Bootstrap/JS (NMIX 4010)
