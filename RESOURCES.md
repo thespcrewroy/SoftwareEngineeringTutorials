@@ -20,7 +20,7 @@
 ## College Courses
 * ⭐️ [Intro to Computer Science and Object Oriented Programming (CSCI 1301-1301L)](https://tinyurl.com/7urj9s8w)
 * [Software Development using Object Oriented Programming (CSCI 1302)](https://tinyurl.com/yrmyh3k5) | [Supplemental](https://tinyurl.com/3kwwe92w)
-* Systems Programming (CSCI 1730-1730L)
+* Systems Programming (CSCI 1730)
 * [Discrete Math for Computer Science (CSCI/MATH 2610)](https://tinyurl.com/d6hsk99r) | [Supplemental](https://github.com/thespcrewroy/CSCI2670-Automata)
 * [Introduction to Theory of Computing & Automata (CSCI 2670)](https://tinyurl.com/2s4kub4t) | [Supplemental](https://github.com/thespcrewroy/CSCI2670-Automata)
 * [Data Structures (CSCI 2720)](https://tinyurl.com/yc2rb28z) | [Supplemental](https://github.com/thespcrewroy/CSCI4470-Algorithms)
