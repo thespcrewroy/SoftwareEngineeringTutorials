@@ -19,7 +19,6 @@
 
 ## College Certificates
 * Artificial Intelligence
-* Computer Science
 * Geographic Information Science (GIS)
 * ⭐️ New Media
 
