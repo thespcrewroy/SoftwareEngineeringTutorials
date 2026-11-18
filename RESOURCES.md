@@ -4,7 +4,10 @@
 * GCP Certification
 
 ## College Majors
-* Computer Science
+* Computer Science: Computational Science and Visualization Emphasis
+* Computer Science: Internet and Informational Technology Emphasis
+* Computer Science: Software Design Emphasis
+* Computer Science: Theoretical Computer Science Emphasis
 * Management Information Systems: Cloud Computing Emphasis
 * Management Information Systems: Data Analytics Emphasis
 * Math
@@ -20,23 +23,25 @@
 
 ## College Courses
 * ⭐️ [Intro to Computer Science and Object Oriented Programming (CSCI 1301-1301L)](https://tinyurl.com/7urj9s8w)
-* [Software Development using Object Oriented Programming (CSCI 1302)](https://tinyurl.com/yrmyh3k5) | [Supplemental](https://tinyurl.com/3kwwe92w)
-* Systems Programming (CSCI 1730)
-* [Discrete Math for Computer Science (CSCI/MATH 2610)](https://tinyurl.com/d6hsk99r) | [Supplemental](https://github.com/thespcrewroy/CSCI2670-Automata)
-* [Introduction to Theory of Computing & Automata (CSCI 2670)](https://tinyurl.com/2s4kub4t) | [Supplemental](https://github.com/thespcrewroy/CSCI2670-Automata)
-* [Data Structures (CSCI 2720)](https://tinyurl.com/yc2rb28z) | [Supplemental](https://github.com/thespcrewroy/CSCI4470-Algorithms)
-* [Computing, Ethics, and Society (CSCI 3030)](https://tinyurl.com/bdhh89c2)
+* ⭐️ [Software Development using Object Oriented Programming (CSCI 1302)](https://tinyurl.com/yrmyh3k5) | [Supplemental](https://tinyurl.com/3kwwe92w)
+* ⭐️ Systems Programming (CSCI 1730)
+* ⭐️ [Discrete Math for Computer Science (CSCI/MATH 2610)](https://tinyurl.com/d6hsk99r) | [Supplemental](https://github.com/thespcrewroy/CSCI2670-Automata)
+* ⭐️ [Introduction to Theory of Computing & Automata (CSCI 2670)](https://tinyurl.com/2s4kub4t) | [Supplemental](https://github.com/thespcrewroy/CSCI2670-Automata)
+* ⭐️ [Data Structures (CSCI 2720)](https://tinyurl.com/yc2rb28z) | [Supplemental](https://github.com/thespcrewroy/CSCI4470-Algorithms)
+* ⭐️ Computing, Ethics, and Society (CSCI 3030)](https://tinyurl.com/bdhh89c2)
 * Software Engineering (CSCI 4050)
 * Mobile Software Development in Kotlin (CSCI 4060)
 * Game Programming (CSCI 4070/4080)
 * Simulation and Modeling (CSCI 4210)
 * Web Programming (CSCI 4300)
 * Global Information Systems (CSCI 4350)
-* [Database Management (CSCI 4370)](https://tinyurl.com/3ybsb6p4) | [Supplemental](https://github.com/thespcrewroy/CSCI4370-DatabaseManagement)
-* [Algorithms (CSCI 4470)](https://tinyurl.com/3z7h4uny) | [Supplemental](https://github.com/thespcrewroy/CSCI4470-Algorithms)
+* ⭐️ [Database Management (CSCI 4370)](https://tinyurl.com/3ybsb6p4) | [Supplemental](https://github.com/thespcrewroy/CSCI4370-DatabaseManagement)
+* ⭐️ [Algorithms (CSCI 4470)](https://tinyurl.com/3z7h4uny) | [Supplemental](https://github.com/thespcrewroy/CSCI4470-Algorithms)
 * Functional Programming (CSCI 4520)
+* Introduction to Robotics (CSCI 4530)
 * Combinatorics (CSCI/MATH 4670)
 * Graph Theory (CSCI/MATH 4690)
+* Real-Time Scheduling for Internet of Things (CSCI 4740)
 * Cloud Computing (CSCI 4795)
 * Human-Computer Interaction (CSCI 4800)
 * Computer Graphics (CSCI 4810)
@@ -44,7 +49,8 @@
 * Ramaswamy & Menik Special Topics in Computing: Computing Capstone (CSCI 4900)
 * Zhenlin An Special Topics in Computing: Computing Mobile Computing & IoT (CSCI 4900)
 * Web Composing and Scripting (CSCI 5310)
-* C++ For Engineers (EGR 230)
+* Multi Robot Systems (CSCI 8535)
+* ⭐️ C++ For Engineers (EGR 230)
 * Geographic Information Systems (GEOG 4370E)
 * ⭐️ [Scientific Diving I (MARS 4740L)](https://tinyurl.com/2us29nn4) | [Supplemental](https://github.com/thespcrewroy/MARS4740-ScientificDiving)
 * Scientific Diving II (MARS 4750)
@@ -55,8 +61,9 @@
 * New Media Design (NMIX 4011)
 * User Experience Strategy (NMIX 4012)
 * Advanced Web Development with HTML/CSS/JS (NMIX 4020)
-* Native App Development in Swift & React-Native (NMIX 4030) | [Supplemental](https://github.com/thespcrewroy/NMIX4210-NativeAppDev)
-* CoolDawgs: Wearable Heat Stress Tracker (VIPR 2601)
+* ⭐️ Native App Development in Swift & React-Native (NMIX 4030) | [Supplemental](https://github.com/thespcrewroy/NMIX4210-NativeAppDev)
+* ⭐️ New Media Industries (NMIX 4210)
+* ⭐️ CoolDawgs: Wearable Heat Stress Tracker (VIPR 2601)
 
 ## Communities
 * Discord
