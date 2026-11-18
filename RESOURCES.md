@@ -4,6 +4,7 @@
 * GCP Certification
 
 ## College Majors
+* ⭐️ Computer Science: General
 * Computer Science: Computational Science and Visualization Emphasis
 * Computer Science: Internet and Informational Technology Emphasis
 * Computer Science: Software Design Emphasis
@@ -20,6 +21,7 @@
 * Artificial Intelligence
 * Computer Science
 * Geographic Information Science (GIS)
+* ⭐️ New Media
 
 ## College Courses
 * ⭐️ [Intro to Computer Science and Object Oriented Programming (CSCI 1301-1301L)](https://tinyurl.com/7urj9s8w)
@@ -62,7 +64,7 @@
 * User Experience Strategy (NMIX 4012)
 * Advanced Web Development with HTML/CSS/JS (NMIX 4020)
 * ⭐️ Native App Development in Swift & React-Native (NMIX 4030) | [Supplemental](https://github.com/thespcrewroy/NMIX4210-NativeAppDev)
-* ⭐️ New Media Industries (NMIX 4210)
+* Immersive Realities (NMIX 4040)
 * ⭐️ CoolDawgs: Wearable Heat Stress Tracker (VIPR 2601)
 
 ## Communities
