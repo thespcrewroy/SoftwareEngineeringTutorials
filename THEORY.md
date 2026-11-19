@@ -4,6 +4,7 @@
     - **GraphQL**: a query language and API runtime that lets clients request exactly the data they need from a server
     - **gRPC API**: a high-performance RPC framework for communication between distributed systems using Protocol Buffers
     - **RESTful API**: a web service architecture that uses standard HTTP methods to exchange data between systems
+    - **SOAP API**: a strictly standardized messaging protocol that relies on XML
     - **WebSocket API**: a persistent two-way connection that lets web apps exchange data live, as in chat and online games
 - **API Testing**: sending requests to an API to verify its responses, performance, and error handling
 - **Authentication**: verifying the identity of a user or service before granting access
