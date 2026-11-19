@@ -3,6 +3,7 @@
     - **API Gateway**: a managed entry point that routes, secures, and throttles requests to backend APIs
     - **GraphQL**: a query language and API runtime that lets clients request exactly the data they need from a server
     - **gRPC API**: a high-performance RPC framework for communication between distributed systems using Protocol Buffers
+    - **OData (Open Data Protocol)**: lets you build and consume queryable interoperable RESTful APIs using standard HTTP methods
     - **RESTful API**: a web service architecture that uses standard HTTP methods to exchange data between systems
     - **SOAP API**: a strictly standardized messaging protocol that relies on XML
     - **WebSocket API**: a persistent two-way connection that lets web apps exchange data live, as in chat and online games
