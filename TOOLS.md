@@ -197,6 +197,8 @@
     - **[MacPorts](https://guide.macports.org/)**: an open-source package manager for macOS that installs Unix-based software
 - **Virtual Environment**
     - **[Conda](https://docs.conda.io/)**: package and environment manager for installing dependencies in isolated environments
+    - **[uv](https://docs.astral.sh/uv/)**: extremely fast Python package and project manager
+    - **[venv](https://docs.python.org/3/library/venv.html)**: holds a specific Python interpreter and its own dedicated set of libraries and packages
 
 ## Configuration
 - **JSON (JavaScript Object Notation)**
