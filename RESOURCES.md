@@ -140,6 +140,7 @@
 * [Company: PwnSec](https://pwnsec.ctf.ae/#event)
 * [Project: 67 Cipher](https://legendile7.github.io/67cipher/)
 * [Project: Arcade](https://arcade.lsg.io/)
+* [Project: Farflung](https://farflung.game/)
 * [Project: Originale](https://originle.io/aya/?day=1)
 * [Project: ScreenPlay](https://screenplay.lsg.io/)
 * [Amy Huang](https://readymag.website/u381267271/4803125/)
