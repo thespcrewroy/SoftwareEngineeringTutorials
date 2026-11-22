@@ -335,6 +335,7 @@
     - **[Devin Cloud](https://devin.ai/)**: Cognition's cloud-based AI software engineer that plans, writes, tests, and submits code
     - **[Google Gemini Jules](https://jules.google.com/session)**: Google's coding agent for performing app development tasks
 - **No-Code App Builder**
+    - **[Base44](https://docs.base44.com/)**: Wix's AI platform for building and deploying full-stack apps from prompts
     - **[Google Gemini Opal](https://opal.google/landing/)**: builds and deploys AI mini apps without coding
 - **[NVidia NVRHI](https://github.com/NVIDIA-RTX/NVRHI)**: a common interface that maps onto graphics APIs including Direct3D and Vulkan
 
