@@ -238,6 +238,7 @@
 - **State Management**
     - **[Redux](https://redux.js.org/)**: a library for managing and centralizing application state predictably
 - **Static Site Generator**
+    - **[Gatsby](https://www.gatsbyjs.com/docs/)**: a React-based static site generation framework for fast, optimized websites
     - **[Jekyll](https://jekyllrb.com/docs/)**: a Ruby-based static site generator that converts Markdown and templates into websites
 - **[Website Validator](https://validator.w3.org/)**: validates HTML markup
 
@@ -406,9 +407,11 @@
         - **[K9s](https://k9scli.io/)**: a terminal UI for navigating and managing Kubernetes clusters
         - **[Lens](https://lenshq.io/)**: a desktop Kubernetes IDE for viewing and managing clusters
     - **[Redhat Openshift](https://docs.redhat.com/en/documentation/openshift_container_platform/)**: Kubernetes-based platform for building, deploying, and scaling cloud-native apps
-- **[.NET Aspire](https://learn.microsoft.com/en-us/dotnet/aspire/)**: cloud-native framework for building, orchestrating, and managing distributed .NET apps
 - **Internal Developer Portal (IDP)**:
     - **[Port](https://www.port.io/)**: managing software catalogs, service dependencies, deployment risks, and engineering workflows 
+- **[.NET Aspire](https://learn.microsoft.com/en-us/dotnet/aspire/)**: cloud-native framework for building, orchestrating, and managing distributed .NET apps
+- **Service Mesh**
+    - **[Linkerd](https://github.com/linkerd/linkerd2)**: a lightweight open-source service mesh for Kubernetes with automatic mTLS
 - **Software Testing**
     - **Beta Testing**
         - **[TestFlight](https://developer.apple.com/testflight/)**: Apple's platform for distributing and beta testing iOS, iPadOS, watchOS, and tvOS apps
@@ -430,15 +433,15 @@
     - **[Power Automate](https://learn.microsoft.com/en-us/power-automate/)**: Microsoft's platform for automating repetitive tasks and triggering actions across apps 
 
 ## Documentation
+- **[Code Wiki](https://codewiki.google/)**: Google's AI tool that generates up-to-date wikis for code repos, with a Gemini chat
+- **Documentation Site Generator**
+    - **[Docusaurus](https://docusaurus.io/docs)**: Meta's open-source static site generator for documentation websites
+    - **[Mkdocs](https://www.mkdocs.org/)**: a static site generator for project documentation written in Markdown
+    - **[Vitepress](https://vitepress.dev/guide/what-is-vitepress)**: a static site generator built on Vite and Vue for documentation websites
 - **[Scribe](https://scribehow.com/)**: AI-powered generator for step-by-step documentation and guides
 - **Snippet Sharing**
     - **[GitHub Gist](https://docs.github.com/en/get-started/writing-on-github/editing-and-sharing-content-with-gists)**: GitHub's feature for sharing and versioning code snippets and text files
     - **[Pastebin](https://pastebin.com/)**: online service for storing and sharing plain text, code snippets, and logs
-- **Static Site Generator**
-    - **[Docusaurus](https://docusaurus.io/docs)**: Meta's open-source static site generator for documentation websites
-    - **[Gatsby](https://www.gatsbyjs.com/docs/)**: a React-based static site generation framework for fast, optimized websites
-    - **[Mkdocs](https://www.mkdocs.org/)**: a static site generator for project documentation written in Markdown
-    - **[Vitepress](https://vitepress.dev/guide/what-is-vitepress)**: a static site generator built on Vite and Vue for documentation websites
 
 ## Systems Programming
 - **[C](https://en.cppreference.com/w/c)**: a procedural language widely used for operating systems, embedded systems, and low-level software
