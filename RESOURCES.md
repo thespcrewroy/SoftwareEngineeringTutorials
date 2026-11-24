@@ -2,6 +2,7 @@
 * AWS Cloud Practitioner
 * AWS Cloud Solutions Architect
 * GCP Certification
+* MongoDB Certified Associate Developer.
 
 ## College Majors
 * ⭐️ Computer Science: General
