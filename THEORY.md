@@ -195,6 +195,7 @@
 ## Package Managers
 - **Content Addressable Cache**: a global package store that saves each file once, keyed by a hash of its contents
 - **Dependency Resolution**: working out which package versions a project needs so they all work together
+- **Dev Dependency**: a package needed only for development or testing, not by the finished app
 - **Language Package Manager**: installs and manages the libraries a programming language's projects depend on
 - **Lockfile**: records the exact version of every package so an environment resolves identically anywhere
 - **Reproducibility**: the ability to recreate the exact same environment or result on any machine
@@ -216,6 +217,8 @@
 - **Asynchronous Programming**: running work independently of the main flow so the program doesn't wait for it
     - **Blocking**: code that stops the program from moving on until it finishes
     - **Callback Function**: a function passed to another so it runs automatically when an event happens
+    - **Coroutine**: a function defined with async def that can pause, running only when awaited
+    - **Event Loop**: the scheduler that runs coroutines and callbacks as they become ready
     - **Non-Blocking**: code that returns right away so the program can keep working
 - **Declarative Programming**: a paradigm where you describe the result you want and the framework handles how
 - **Decorator**: a function that wraps another function or class to add behavior, written with @ above it
@@ -269,6 +272,7 @@
 - **Flight Software**: software that controls spacecraft and other embedded systems in real time
 - **Hard Link**: a file system entry that points to the same stored data as another file without copying it
 - **SDR (Software-Defined Radio)**: radio communication where signal processing is done in software instead of hardware
+- **Standard Streams**: a program's stdin, stdout, and stderr channels for input, output, and errors
 - **Thread**: a separate path of execution in a program that can run at the same time as other code
 
 ## Text Editors, Code Editors, & Integrated Development Environments (IDEs)
