@@ -73,6 +73,9 @@
 - **Environment Variable**: a named value stored outside the code that programs read at runtime, like HF_TOKEN
 - **.gitignore**: specifies which files and folders Git should exclude from version control tracking
 - **JSON (JavaScript Object Notation)**: a lightweight data-interchange format that stores structured data as key-value pairs and arrays
+- **Serialization**: converting an object into text or bytes so it can be stored or sent
+    - **MessagePack**: a compact binary serialization format like JSON but smaller
+    - **Protocol Buffers (Protobuf)**: Google's compact binary serialization format
 - **~/.ssh**: the user-specific directory that stores SSH keys, configuration files, known hosts, and authorized keys
 - **TOML (Tom's Obvious, Minimal Language)**: a simple key-value configuration format used heavily by Python and Rust
     - **pyproject.toml**: the standard Python project file for metadata, dependencies, and build settings (PEP 621)
@@ -209,6 +212,10 @@
 - **Waterfall Methodology**: each project phase is completed sequentially before moving to the next stage
 
 ## Software Development
+- **Asynchronous Programming**: running work independently of the main flow so the program doesn't wait for it
+    - **Blocking**: code that stops the program from moving on until it finishes
+    - **Callback Function**: a function passed to another so it runs automatically when an event happens
+    - **Non-Blocking**: code that returns right away so the program can keep working
 - **Declarative Programming**: a paradigm where you describe the result you want and the framework handles how
 - **Functional Programming**: a paradigm that builds programs from pure functions and immutable data
 - **Mainframe Computing**: large centralized systems used for high-volume business and financial transaction processing
@@ -235,6 +242,8 @@
     - **Clean Architecture**: organizes applications into layered, independent components
     - **Client-Server Architecture**: clients send requests to a server that processes them and returns responses
     - **Event-Driven Architecture**: system components communicate and react to events asynchronously as they occur
+        - **Publish-Subscribe Pattern (Pub/Sub)**: publishers send messages to topics and a broker delivers them to subscribers
+            - **Fan-Out**: one published message reaching many subscribers at once
     - **Microservices Architecture**: structures applications as independently deployable services that communicate over networks
     - **Monolithic Architecture**: all application components are built and deployed as a single unified system
         - **Modular Monolith Architecture**: a single deployable monolith organized into well-separated internal modules
@@ -255,6 +264,7 @@
 - **Flight Software**: software that controls spacecraft and other embedded systems in real time
 - **Hard Link**: a file system entry that points to the same stored data as another file without copying it
 - **SDR (Software-Defined Radio)**: radio communication where signal processing is done in software instead of hardware
+- **Thread**: a separate path of execution in a program that can run at the same time as other code
 
 ## Text Editors, Code Editors, & Integrated Development Environments (IDEs)
 - **AI Coding Assistant**: an editor plugin that suggests and completes code using AI
