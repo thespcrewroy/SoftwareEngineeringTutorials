@@ -1,6 +1,8 @@
 ## Backend
 - **API (Application Programming Interface)**: a defined contract that lets software components request data and services
     - **API Gateway**: a managed entry point that routes, secures, and throttles requests to backend APIs
+    - **API Key**: a unique code that identifies and authorizes an API caller, often with usage limits
+    - **Client Library**: a package an API provider offers in a given language to make calling its API easier
     - **GraphQL**: a query language and API runtime that lets clients request exactly the data they need from a server
     - **gRPC API**: a high-performance RPC framework for communication between distributed systems using Protocol Buffers
     - **OData (Open Data Protocol)**: lets you build and consume queryable interoperable RESTful APIs using standard HTTP methods
@@ -12,6 +14,12 @@
     - **IdP (Identity Provider)**: a service that stores user identities and authenticates them for other applications
 - **Backend Framework**: a library that provides routing, request handling, and data access for building server-side apps
 - **Browser Automation**: programmatically controlling a web browser to test, scrape, or interact with web pages
+- **HTTP (Hypertext Transfer Protocol)**: the request-response protocol web clients and servers use to exchange data
+    - **HTTP Header**: metadata sent with a request or response, such as content type and encoding
+    - **HTTP Method**: the action a request asks for on a resource, such as GET, POST, PUT, or DELETE
+    - **HTTP Request**: a message a client sends to a server asking for data or an action
+    - **HTTP Response**: the message a server sends back with a status code, headers, and a body
+        - **Status Code**: a three-digit number saying whether a request succeeded or failed, like 200 or 404
 - **JavaScript Runtime**: an environment that executes JavaScript outside the browser, such as on a server
     - **JavaScript Engine**: the component that parses, compiles, and executes JavaScript code
 - **Web Scraping**: automatically extracting data from websites
@@ -76,7 +84,20 @@
 - **Object Storage**: stores unstructured data as objects in flat buckets accessed over HTTP
 - **ORM (Object-Relational Mapping)**: libraries that let you work with databases through a programming language instead of raw SQL
 - **Relational Database**: organizes data into tabular rows and columns with fixed schemas
+    - **Cardinality**: how many rows in one table can relate to rows in another table
+        - **Many-to-Many Relationship (N:M)**: many rows in one table link to many in another, like students and courses
+            - **Junction Table (Join Table)**: a table of foreign key pairs that connects two tables in a many-to-many link
+        - **One-to-Many Relationship (1:N)**: one row links to many rows in another table, like a customer and orders
+        - **One-to-One Relationship (1:1)**: each row links to at most one row in another table, like a user and profile
+    - **Foreign Key (FK)**: a column that references another table's primary key to link rows across tables
+    - **NULL**: a special value meaning a field is empty or its data is missing
+    - **Primary Key (PK)**: a column whose values uniquely identify every row and can never be NULL
+    - **RDBMS (Relational Database Management System)**: software that creates, manages, and queries relational databases
+    - **Referential Integrity**: the rule that every foreign key must point to an existing primary key
     - **SQL (Structured Query Language)**: the standard language for querying and managing relational databases
+    - **Table (Relation)**: holds data about one kind of entity, such as Customers or Orders
+        - **Column (Field)**: an attribute with a fixed data type, such as Name or Email
+        - **Row (Record)**: one entry in a table, representing a single instance of the entity
 - **Time-Series Database**: specialized for sequential data points indexed by timestamp
 - **Vector Database**: specialized for nearest-neighbor lookups using mathematical distances for AI and ML pipelines
 
@@ -210,6 +231,7 @@
 - **Scheduled Polling**: applications periodically check for new data at fixed time intervals
 - **Software Architecture**: the high-level structure of a system and how its components interact
     - **Clean Architecture**: organizes applications into layered, independent components
+    - **Client-Server Architecture**: clients send requests to a server that processes them and returns responses
     - **Event-Driven Architecture**: system components communicate and react to events asynchronously as they occur
     - **Microservices Architecture**: structures applications as independently deployable services that communicate over networks
     - **Monolithic Architecture**: all application components are built and deployed as a single unified system
