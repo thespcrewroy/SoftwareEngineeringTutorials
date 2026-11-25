@@ -181,6 +181,7 @@
 
 ## Game Development
 - **Game Engine**: a software framework that provides rendering, physics, audio, and scripting for building games
+    - **Physics Engine**: code that simulates how physical objects move and collide over time
 
 ## Geographic Information Systems (GIS)
 - **Desktop GIS**: GIS software installed locally for creating, editing, and analyzing spatial data
@@ -217,9 +218,11 @@
     - **Callback Function**: a function passed to another so it runs automatically when an event happens
     - **Non-Blocking**: code that returns right away so the program can keep working
 - **Declarative Programming**: a paradigm where you describe the result you want and the framework handles how
+- **Decorator**: a function that wraps another function or class to add behavior, written with @ above it
 - **Functional Programming**: a paradigm that builds programs from pure functions and immutable data
 - **Mainframe Computing**: large centralized systems used for high-volume business and financial transaction processing
 - **OOP (Object-Oriented Programming)**: a paradigm that organizes code into objects that bundle data with behavior
+    - **Encapsulation**: bundling data and the methods that act on it into one unit, such as a class
     - **Inheritance**: a class taking on the attributes and methods of an existing parent class
 - **SDLC (Software Development Life Cycle)**: structured process for developing software and software systems
     - **Plan**: goals, requirements, feasibility, timelines, and resources are identified and organized
@@ -238,6 +241,7 @@
 
 ## System Design
 - **12-Factor App**: best practices for building modern, scalable, and portable SaaS apps that run in the cloud
+- **Latency**: the delay between an event and the system's response
 - **Scheduled Polling**: applications periodically check for new data at fixed time intervals
 - **Software Architecture**: the high-level structure of a system and how its components interact
     - **Clean Architecture**: organizes applications into layered, independent components
