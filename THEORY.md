@@ -220,6 +220,7 @@
 - **Functional Programming**: a paradigm that builds programs from pure functions and immutable data
 - **Mainframe Computing**: large centralized systems used for high-volume business and financial transaction processing
 - **OOP (Object-Oriented Programming)**: a paradigm that organizes code into objects that bundle data with behavior
+    - **Inheritance**: a class taking on the attributes and methods of an existing parent class
 - **SDLC (Software Development Life Cycle)**: structured process for developing software and software systems
     - **Plan**: goals, requirements, feasibility, timelines, and resources are identified and organized
     - **Analyze**: business and technical requirements are gathered, evaluated, and documented
