@@ -145,6 +145,7 @@
     - **SSR (Server-Side Rendering)**: the server generates the HTML page first, which is great for SEO search bots
 - **State Management**: tracking, storing, and updating data and UI state over time so an app stays consistent and responsive
 - **Static Site Generator**: a tool that builds a website ahead of time into static HTML, CSS, and JavaScript files
+- **Widget**: an interactive UI element, such as a slider, text input, or checkbox
 
 ## Full Stack
 - **AI Coding Agent**: an AI agent that plans, writes, tests, and submits code changes with limited supervision
@@ -185,6 +186,7 @@
 - **Waterfall Methodology**: each project phase is completed sequentially before moving to the next stage
 
 ## Software Development
+- **Declarative Programming**: a paradigm where you describe the result you want and the framework handles how
 - **Functional Programming**: a paradigm that builds programs from pure functions and immutable data
 - **Mainframe Computing**: large centralized systems used for high-volume business and financial transaction processing
 - **OOP (Object-Oriented Programming)**: a paradigm that organizes code into objects that bundle data with behavior
