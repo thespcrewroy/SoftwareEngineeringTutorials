@@ -202,6 +202,8 @@
     - **[venv](https://docs.python.org/3/library/venv.html)**: holds a specific Python interpreter and its own dedicated set of libraries and packages
 
 ## Configuration
+- **.env**
+    - **[python-dotenv](https://saurabh-kumar.com/python-dotenv/)**: loads key-value pairs from a .env file into environment variables
 - **JSON (JavaScript Object Notation)**
     - **[JSON Crack](https://jsoncrack.com/)**: visualizes JSON, YAML, XML, and CSV as interactive graphs
 

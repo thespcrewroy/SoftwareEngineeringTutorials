@@ -11,6 +11,7 @@
     - **WebSocket API**: a persistent two-way connection that lets web apps exchange data live, as in chat and online games
 - **API Testing**: sending requests to an API to verify its responses, performance, and error handling
 - **Authentication**: verifying the identity of a user or service before granting access
+    - **Access Token**: a secret string that proves your identity to a service, like a Hugging Face hf_ token
     - **IdP (Identity Provider)**: a service that stores user identities and authenticates them for other applications
 - **Backend Framework**: a library that provides routing, request handling, and data access for building server-side apps
 - **Browser Automation**: programmatically controlling a web browser to test, scrape, or interact with web pages
@@ -69,6 +70,7 @@
 - **.config**: generic files applications and systems use to store user preferences, settings, and runtime configuration
 - **.editorconfig**: keeps coding styles and settings consistent across different editors and IDEs for a repository
 - **.env**: stores environment variables such as API keys, database credentials, and app settings outside the source code
+- **Environment Variable**: a named value stored outside the code that programs read at runtime, like HF_TOKEN
 - **.gitignore**: specifies which files and folders Git should exclude from version control tracking
 - **JSON (JavaScript Object Notation)**: a lightweight data-interchange format that stores structured data as key-value pairs and arrays
 - **~/.ssh**: the user-specific directory that stores SSH keys, configuration files, known hosts, and authorized keys
