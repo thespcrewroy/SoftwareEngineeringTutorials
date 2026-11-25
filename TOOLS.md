@@ -190,6 +190,7 @@
 - **Language Package Manager**
     - **[Bun](https://bun.sh/docs)**: a fast all-in-one JavaScript runtime with a built-in package manager, bundler, and test runner
     - **[Npm](https://docs.npmjs.com/)**: the default package manager for Node.js used to install and share JavaScript libraries
+    - **[pip](https://pip.pypa.io/en/stable/)**: the default Python package installer that downloads packages from PyPI
     - **[vcpkg](https://learn.microsoft.com/en-us/vcpkg/)**: C and C++ package manager maintained by Microsoft and the C++ community
     - **[Yarn](https://yarnpkg.com/)**: a fast, reliable JavaScript package manager focused on consistent dependency management
 - **System Package Manager**

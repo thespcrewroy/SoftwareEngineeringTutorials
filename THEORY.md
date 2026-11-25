@@ -64,6 +64,8 @@
 - **.gitignore**: specifies which files and folders Git should exclude from version control tracking
 - **JSON (JavaScript Object Notation)**: a lightweight data-interchange format that stores structured data as key-value pairs and arrays
 - **~/.ssh**: the user-specific directory that stores SSH keys, configuration files, known hosts, and authorized keys
+- **TOML (Tom's Obvious, Minimal Language)**: a simple key-value configuration format used heavily by Python and Rust
+    - **pyproject.toml**: the standard Python project file for metadata, dependencies, and build settings (PEP 621)
 - **XML (Extensible Markup Language)**: a markup language used to structure, store, and transport data in a readable hierarchy
 - **YAML (YAML Ain't Markup Language)**: a human-readable format for settings, workflows, infra definitions, or data serializations
 
@@ -163,7 +165,12 @@
 - **Native Development**: building apps with a platform's own languages and SDKs for the best performance and OS integration
 
 ## Package Managers
+- **Content Addressable Cache**: a global package store that saves each file once, keyed by a hash of its contents
+- **Dependency Resolution**: working out which package versions a project needs so they all work together
 - **Language Package Manager**: installs and manages the libraries a programming language's projects depend on
+- **Lockfile**: records the exact version of every package so an environment resolves identically anywhere
+- **Reproducibility**: the ability to recreate the exact same environment or result on any machine
+    - **Cross Platform Drift**: differences that appear when one environment is built on Windows, macOS, and Linux
 - **System Package Manager**: installs and updates software across an operating system from the command line
 - **Virtual Environment**: an isolated set of installed packages for a single project
 
@@ -220,6 +227,7 @@
 ## Systems Programming
 - **Debugger**: a tool for pausing, inspecting, and stepping through a running program
 - **Flight Software**: software that controls spacecraft and other embedded systems in real time
+- **Hard Link**: a file system entry that points to the same stored data as another file without copying it
 - **SDR (Software-Defined Radio)**: radio communication where signal processing is done in software instead of hardware
 
 ## Text Editors, Code Editors, & Integrated Development Environments (IDEs)
